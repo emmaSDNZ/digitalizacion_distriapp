@@ -1,1 +1,52 @@
-sfdsdf
+import pandas as pd
+
+# Función para obtener coincidencias entre las columnas y agregar una columna 'match'
+def obtener_coincidencias_con_match(productos_df, proveedores_df, col_productos, col_proveedores):
+    """
+    Realiza un match entre las columnas especificadas de dos DataFrames y agrega una columna 'match'.
+    
+    Parámetros:
+        productos_df (DataFrame): DataFrame de productos.
+        proveedores_df (DataFrame): DataFrame de proveedores.
+        col_productos (str): Nombre de la columna en productos.
+        col_proveedores (str): Nombre de la columna en proveedores.
+        
+    Retorna:
+        DataFrame: DataFrame con las coincidencias y una columna 'match'.
+    """
+    resultados = []
+
+    # Iterar por cada descripción en proveedores
+    for _, proveedor in proveedores_df.iterrows():
+        descripcion_proveedor = proveedor[col_proveedores]
+        
+        # Buscar coincidencias en los productos
+        coincidencias = productos_df[
+            productos_df[col_productos].str.contains(descripcion_proveedor, case=False, na=False)
+        ]
+        
+        # Agregar coincidencias al resultado
+        if not coincidencias.empty:
+            for _, producto in coincidencias.iterrows():
+                resultado = {**proveedor.to_dict(), **producto.to_dict(), "match": True}
+                resultados.append(resultado)
+        else:
+            # Si no hay coincidencias, agregar el proveedor con valores nulos para los productos
+            resultado = proveedor.to_dict()
+            for col in productos_df.columns:
+                resultado[col] = None
+            resultado["match"] = False
+            resultados.append(resultado)
+    
+    return pd.DataFrame(resultados)
+
+# Llamar a la función con tus DataFrames
+resultado_df = obtener_coincidencias_con_match(
+    productos_df=copy_dfProductos,
+    proveedores_df=copy_dfProveedores,
+    col_productos="des_prod",
+    col_proveedores="DESCRIPCIÓN"
+)
+
+# Mostrar el DataFrame resultante
+#resultado_df
