@@ -1,0 +1,120 @@
+import re
+
+def procesar_descripcion(data, nombre_columna):
+    """
+    Procesa una columna de un DataFrame aplicando normalización y manejo de combinaciones de texto.
+    
+    Parámetros:
+    - data: DataFrame que contiene la columna a procesar.
+    - nombre_columna: Nombre de la columna que se va a procesar.
+    
+    Retorna:
+    - DataFrame con la columna procesada y actualizada.
+    """
+    # Verificar si la columna existe en el DataFrame
+    if nombre_columna not in data.columns:
+        raise KeyError(f"La columna '{nombre_columna}' no existe en el DataFrame.")
+    
+    # Función para normalizar el texto
+    def normalizar(texto):
+        # Asegurar que el texto sea un string
+        texto = str(texto).strip().lower()
+        
+        # 1. Eliminar espacios redundantes
+        texto = re.sub(r'\s+', ' ', texto)
+
+        # 2. Remover caracteres especiales excepto letras, números, espacios y '%'
+        texto = re.sub(r'[^a-zA-Z0-9\s%]', '', texto)
+
+        # 3. Separar números de letras y letras de números
+        texto = re.sub(r'(\d)([a-zA-Z])', r'\1 \2', texto)
+        texto = re.sub(r'([a-zA-Z])(\d)', r'\1 \2', texto)
+
+        # 4. Manejo de 'x':
+        texto = re.sub(r'(?<=\d)x(?=\d)', r' x ', texto)  # separar x entre números
+        texto = re.sub(r'\b([a-zA-Z]+)x\b', r'\1 x', texto)  # separar palabras terminadas en x
+
+        # 5. Reemplazar separadores como guiones o barras con espacios
+        texto = re.sub(r'[-/]', ' ', texto)
+
+        # 6. Manejo de unidades (por ejemplo, separar g, ml, etc. de los números)
+        texto = re.sub(r'(\d+)\s*([a-zA-Z]+)', r'\1 \2', texto)
+
+        # 7. Eliminar espacios redundantes nuevamente
+        texto = texto.strip()
+
+        # 8. Combinaciones
+        combinaciones = {
+            'anemido x': 'anemidox',
+            'jgaprell' : 'jga prell',
+            'fle x': 'flex',
+            'argeflo x':'argeflox',
+            'aropa x': 'aropax',
+            'arolte x' : 'aroltex',
+            'atopi x':  'atopix',
+            'atorma x': 'atormax',
+            'comprec': 'comp recubierto',
+            'soloft': 'solucion oftalmica',
+            'g': 'gr',
+            'cr': 'crema',
+            'comp' : 'comprimidos',
+            'caps': 'capsulas',
+            "jer.pre" : "jeringa prell",
+            "mg" : "miligramos",
+            "ml" : "mililitros",
+            "mm" : "milimetros",
+            'zyvo x': 'zyvox',
+            'loc' : 'locion',
+            "gr" : "gramos",
+            "jga" : 'jeringa',
+            "cm" : 'centimetros',
+            'u' : "unidad",
+            'shamp' : 'shampoo',
+            "unid" : " unidad",
+            'cep' : 'cepillo dental',
+            "emuls prot" : 'emulsion protectora',
+            'emulshidrat':'emulsion hidratante',
+            'emulshumect' : "emulsion humectante",
+            'iny': 'inyeccion',
+            'amp' : 'ampolla',
+            'inylioffa': 'inyeccion lioffa',
+            'ds' : 'dosis',
+            'inyfa': 'inyeccion fa',
+            'jbe': 'jarabe',
+            'blist': 'blister',
+            'sob' : 'sobres',
+            'fa': 'frasco ampolla',
+            'jab' : 'jabon',
+            'cps' :'capsulas',
+            'ivi x' : 'ivix',
+            'inya': 'inyectable',
+            'inyjgaprell' : 'iny jeringa prellenada',
+            'mcg': 'microgramo',
+            'gts': 'gotas',
+            'mgml' : 'miligramos por mililitro',
+            'env': 'envase',
+            'gtsoft' : 'gotas oftálmicas',
+            'compdisp': 'comprimidos disp',
+            'comprecran' : 'comprimidos recubiertos ranurados',
+            'sol': 'solucion',
+            'jgapre': 'jeringa prellenada',
+            'fcocps' : 'frasco capsulas',
+            'fcogotero' : 'frasco gotero',
+            'fco': 'frasco', 
+            'solspray' : 'solucion spray',
+            'solpuas' : 'sol puas',
+            'cpsblandas' : 'cps blandas',
+            'tab' : 'tableta',
+            'sach' : 'sachet',
+            'mgvial': 'miligramos vial',
+            'cpsbl' :'capsula blanda'
+        }
+        for key, val in combinaciones.items():
+            texto = re.sub(rf'\b{key}\b', val, texto)
+
+        return texto
+
+    # Aplicar la función 'normalizar' a cada elemento de la columna
+    data[nombre_columna] = data[nombre_columna].apply(normalizar)
+    
+    return data  # Retorna el DataFrame con la columna procesada
