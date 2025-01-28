@@ -8,6 +8,7 @@ def vectorizar_descripciones(df_master, df_proveedor):
     Vectoriza las descripciones de productos de los DataFrames master y proveedor.
     Devuelve la matriz de similitud de coseno entre los productos de ambos DataFrames.
     """
+
     # Concatenar las descripciones de los productos
     descripciones_completas = df_master['descripcion_limpia_producto'].tolist() + df_proveedor['descripcion_limpia_proveedor'].tolist()
     
@@ -40,7 +41,7 @@ def obtener_mejores_coincidencias(df_master, df_proveedor, cos_sim_matrix):
             # Recuperar la fila de la master correspondiente a la mejor coincidencia
             best_match_info = df_master.iloc[best_match_index].to_dict()
             
-            # Unir la información del proveedor y la mejor coincidencia
+            # Unir la informaAción del proveedor y la mejor coincidencia
             best_match_info.update(prov_info)
             best_match_info['similaridad'] = max_similitud  # Añadir la similitud más alta
             

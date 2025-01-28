@@ -1,4 +1,45 @@
 import re
+import pandas as pd
+
+def estandarizado_columnas(df, col_1, col_2, descripcion_limpia_proveedor):
+    """
+    Combina columnas específicas de un DataFrame en una nueva columna, si existen.
+    Convierte las columnas del DataFrame a minúsculas antes de realizar las validaciones.
+
+    Parámetros:
+        df (pd.DataFrame): El DataFrame del proveedor.
+        col_1 (str): Nombre de la primera columna a combinar.
+        col_2 (str): Nombre de la segunda columna a combinar.
+        descripcion_limpia_proveedor (str): Nombre de la nueva columna resultante.
+
+    Retorna:
+        pd.DataFrame: El DataFrame actualizado con la nueva columna o un mensaje de error.
+    """
+    # Convertir las columnas del DataFrame a minúsculas
+    df.columns = df.columns.str.lower()
+
+    # Convertir los nombres de las columnas a minúsculas para garantizar coincidencias
+    col_1 = col_1.lower()
+    col_2 = col_2.lower()
+
+    # Validar si las columnas existen y combinar datos
+    if col_1 in df.columns and col_2 in df.columns:
+        # Ambas columnas existen
+        df[descripcion_limpia_proveedor] = (
+            df[col_1].fillna('') + ' ' + df[col_2].fillna('')
+        ).str.strip()
+    elif col_1 in df.columns:
+        # Solo existe col_1
+        df[descripcion_limpia_proveedor] = df[col_1].fillna('')
+    elif col_2 in df.columns:
+        # Solo existe col_2
+        df[descripcion_limpia_proveedor] = df[col_2].fillna('')
+    else:
+        # Ninguna columna existe, manejar error
+        raise ValueError("Error: Ninguna de las columnas especificadas existe en el DataFrame.")
+
+    return df
+
 
 def procesar_descripcion(data, nombre_columna):
     """

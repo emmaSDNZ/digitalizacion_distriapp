@@ -10,7 +10,7 @@ FUNCIONES DE BUSQUEDA:
 
 
 MANIPULACION DE DATOS:
-
+  
 -   Limpieza y preprocesamiento de datos: Eliminar valores nulos, transformar formatos, normalizar datos, etc.
 
 -   Extracción de características: Identificar y extraer características relevantes de los datos para su posterior análisis o clasificación.
