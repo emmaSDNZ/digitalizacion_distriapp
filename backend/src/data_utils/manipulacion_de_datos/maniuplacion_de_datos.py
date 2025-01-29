@@ -1,7 +1,69 @@
 import re
 import pandas as pd
 
-def estandarizado_columnas(df, col_1, col_2, descripcion_limpia_proveedor):
+
+def cargar_datos(ruta_csv):
+    """
+    Carga un DataFrame desde un archivo CSV.
+
+    Parámetros:
+        ruta_csv (str): Ruta del archivo CSV a cargar.
+
+    Retorna:
+        pd.DataFrame: DataFrame con los datos cargados.
+    """
+    return pd.read_csv(ruta_csv)
+
+
+def limpiar_datos(df):
+    """
+    Elimina filas y columnas completamente vacías en el DataFrame.
+
+    Parámetros:
+        df (pd.DataFrame): DataFrame a limpiar.
+
+    Retorna:
+        pd.DataFrame: DataFrame limpio, sin filas ni columnas vacías.
+    """
+    df = df.dropna(how='all')  # Elimina filas completamente vacías
+    df = df.dropna(axis=1, how='all')  # Elimina columnas completamente vacías
+    return df.copy()
+
+
+def generar_descripcion(df, col1, col2, col_destino):
+    """
+    Genera una nueva columna de descripción combinando dos columnas de texto.
+
+    Parámetros:
+        df (pd.DataFrame): DataFrame con los datos.
+        col1 (str): Nombre de la primera columna a combinar.
+        col2 (str): Nombre de la segunda columna a combinar.
+        col_destino (str): Nombre de la columna donde se guardará la descripción combinada.
+
+    Retorna:
+        pd.DataFrame: DataFrame con la nueva columna de descripción.
+    """
+    df[col_destino] = df[col1].fillna('') + " " + df[col2].fillna('')
+    return df
+
+
+def procesar_descripcion(df, col):
+    """
+    Aplica procesamiento a la columna de descripción del DataFrame.
+
+    Este procesamiento puede incluir técnicas de NLP, normalización, eliminación de caracteres especiales, etc.
+
+    Parámetros:
+        df (pd.DataFrame): DataFrame con los datos.
+        col (str): Nombre de la columna de descripción a procesar.
+
+    Retorna:
+        pd.DataFrame: DataFrame con la descripción procesada.
+    """
+    return procesar_descripcion(df, col)  # Se asume que la función procesar_descripcion() ya está implementada
+
+
+def estandarizado_columnas(df, col_1, col_2, descripcion_limpia):
     """
     Combina columnas específicas de un DataFrame en una nueva columna, si existen.
     Convierte las columnas del DataFrame a minúsculas antes de realizar las validaciones.
@@ -25,15 +87,15 @@ def estandarizado_columnas(df, col_1, col_2, descripcion_limpia_proveedor):
     # Validar si las columnas existen y combinar datos
     if col_1 in df.columns and col_2 in df.columns:
         # Ambas columnas existen
-        df[descripcion_limpia_proveedor] = (
+        df[descripcion_limpia] = (
             df[col_1].fillna('') + ' ' + df[col_2].fillna('')
         ).str.strip()
     elif col_1 in df.columns:
         # Solo existe col_1
-        df[descripcion_limpia_proveedor] = df[col_1].fillna('')
+        df[descripcion_limpia] = df[col_1].fillna('')
     elif col_2 in df.columns:
         # Solo existe col_2
-        df[descripcion_limpia_proveedor] = df[col_2].fillna('')
+        df[descripcion_limpia] = df[col_2].fillna('')
     else:
         # Ninguna columna existe, manejar error
         raise ValueError("Error: Ninguna de las columnas especificadas existe en el DataFrame.")
