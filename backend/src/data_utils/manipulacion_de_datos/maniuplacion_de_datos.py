@@ -210,7 +210,8 @@ def procesar_descripcion(data, nombre_columna):
             'tab' : 'tableta',
             'sach' : 'sachet',
             'mgvial': 'miligramos vial',
-            'cpsbl' :'capsula blanda'
+            'cpsbl' :'capsula blanda',
+            'x' : ''
         }
         for key, val in combinaciones.items():
             texto = re.sub(rf'\b{key}\b', val, texto)
