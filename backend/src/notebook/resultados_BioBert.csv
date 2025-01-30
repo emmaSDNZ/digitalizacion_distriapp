@@ -1,64 +1,2107 @@
 descripcion_proveedor,descripcion_match,similitud
-humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,humira ac  2 20 miligramos 20 miligramos 02 mililitros jeringa prellenada  2,0.9010321
-humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,skyrizi 75 miligramos jeringa prellenada  2,0.8014027
-humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,humira jeringa prellenada  2  08 mililitros,0.7996311
-humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira ac  2 40 miligramos 40 miligramos 04 mililitros lapicera prellenada  2 caja  2 lapicera prellenada  um caja,0.86677164
-humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira ac  2 20 miligramos 20 miligramos 02 mililitros jeringa prellenada  2,0.81317425
-humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira pediatrico vial  2  08 mililitros,0.78777504
-humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.9033931
-humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,skyrizi 150 miligramos lapicera prellenada  1,0.8187247
-humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,epkinly 5 miligramos por mililitro solucion inyeccion  1,0.8110408
-rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.8985516
-rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.8341761
-rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,ritonavir comprimidos recubierto  30,0.7863069
-rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.8339689
-rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.82992303
-rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,ritonavir comprimidos recubierto  30,0.78651196
-rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.8300631
-rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.826511
-rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 45 miligramos comp lib prol   28,0.82483727
-skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,skyrizi 150 miligramos lapicera prellenada  1,0.8649874
-skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.8166724
-skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,epkinly 5 miligramos por mililitro solucion inyeccion  1,0.815526
-skyrizi 360 miligramos 24 mililitros obi ar fp,skyrizi 360 miligramos cart  1 inyeccion,0.8244107
-skyrizi 360 miligramos 24 mililitros obi ar fp,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.76703036
-skyrizi 360 miligramos 24 mililitros obi ar fp,simda  25 miligramos por mililitro inyeccion frasco ampolla  5 mililitros,0.7662178
-skyrizi 600 miligramos 100 mililitros vial ar fp,synagis solucian 100 miligramos frasco ampolla  1,0.85110575
-skyrizi 600 miligramos 100 mililitros vial ar fp,synagis 100 miligramos lioffa  1,0.84869426
-skyrizi 600 miligramos 100 mililitros vial ar fp,venclexta 100 miligramos comprimidos  120,0.8349233
-maviret 100 miligramos 40 miligramos  84 comprimidos rec,venclexta 100 miligramos comprimidos  120,0.81174916
-maviret 100 miligramos 40 miligramos  84 comprimidos rec,maviret comprimidos recubierto  84,0.80849075
-maviret 100 miligramos 40 miligramos  84 comprimidos rec,synagis solucian 100 miligramos frasco ampolla  1,0.79157484
-venclexta kit inicio kit de inicio  1 pack 4  7 dias,venclexta kit de inicio  1,0.8368459
-venclexta kit inicio kit de inicio  1 pack 4  7 dias,venclexta 50 miligramos comprimidos  7,0.82100856
-venclexta kit inicio kit de inicio  1 pack 4  7 dias,skyrizi 150 miligramos lapicera prellenada  1,0.8118109
-venclexta 100 miligramos 100 miligramos  120 comprimidos,venclexta 100 miligramos comprimidos  120,0.89370495
-venclexta 100 miligramos 100 miligramos  120 comprimidos,kaletra 50200 miligramos comprimidos recubierto  120,0.81886375
-venclexta 100 miligramos 100 miligramos  120 comprimidos,synagis solucian 100 miligramos frasco ampolla  1,0.80796504
-venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,venclexta 10 miligramos comprimidos  14,0.8263699
-venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.73990154
-venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,humira ac  2 20 miligramos 20 miligramos 02 mililitros jeringa prellenada  2,0.7376985
-venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,venclexta 50 miligramos comprimidos  7,0.826557
-venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,synagis solucian 50 miligramos frasco ampolla  1,0.7706003
-venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,synagis 50 miligramos frasco ampolla  1,0.7645681
-sevorane 250 mililitros,sevorane envase  250 mililitros,0.970157
-sevorane 250 mililitros,sevorane quick fill envase  250 mililitros caja  1 frasco  250 mililitros  um frasco,0.7898505
-sevorane 250 mililitros,sevorane envase  50 mililitros,0.7599612
-sevorane quick fill 250 mililitros,sevorane envase  250 mililitros,0.9608263
-sevorane quick fill 250 mililitros,sevorane quick fill envase  250 mililitros caja  1 frasco  250 mililitros  um frasco,0.8060062
-sevorane quick fill 250 mililitros,sevorane envase  50 mililitros,0.7585155
-zemplar vial 5 viales,zemplar 5 microgramo vial  5  1 mililitros,0.8096533
-zemplar vial 5 viales,zemplar 5 microgramo a  5  1 mililitros,0.7725973
-zemplar vial 5 viales,epkinly 5 miligramos por mililitro solucion inyeccion  1,0.7612318
-zemplar 2 microgramo 30 capsulas,zemplar 2 microgramo capsulas  30,0.9900357
-zemplar 2 microgramo 30 capsulas,skyrizi 75 miligramos jeringa prellenada  2,0.8056533
-zemplar 2 microgramo 30 capsulas,humira pen lapicera  2  08 mililitros,0.7991279
-boto  vial 100 unidad,synagis solucian 100 miligramos frasco ampolla  1,0.7944428
-boto  vial 100 unidad,synagis 100 miligramos lioffa  1,0.78482634
-boto  vial 100 unidad,venclexta 100 miligramos comprimidos  120,0.7799757
-boto  vial 200 unidad,skyrizi 600 miligramos vial  1,0.7352943
-boto  vial 200 unidad,zemplar 5 microgramo vial  5  1 mililitros,0.72846234
-boto  vial 200 unidad,zemplar 2 microgramo capsulas  30,0.7237198
-ozurde  07 miligramos c 1,skyrizi 360 miligramos cart  1 inyeccion,0.86992234
-ozurde  07 miligramos c 1,synagis 100 miligramos lioffa  1,0.8541239
-ozurde  07 miligramos c 1,epkinly 60 miligramos por mililitro solucion inyeccion  1,0.8530921
+3 tc  azt elea envase  60 comprimidos,rabloc 20 miligramos comprimidos  60,0.8447278
+3 tc  azt elea envase  60 comprimidos,nefazan compuesto comprimidos  60 3030,0.84459144
+3 tc  azt elea envase  60 comprimidos,mosar enzimatico comprimidos  60,0.84452397
+abacavir elea envase  60 comprimidos recub,mosar enzimatico comprimidos  60,0.9328369
+abacavir elea envase  60 comprimidos recub,neumoterol pediatrico capsulas  60 aplic,0.9292983
+abacavir elea envase  60 comprimidos recub,mosar plus comprimidos  60,0.9262698
+alcaf 60 miligramos f ampolla polvo  1,mosar 1% pvopsusporal  60 mililitros,0.93456024
+alcaf 60 miligramos f ampolla polvo  1,kalter 40 miligramos comprimidos recubierto  60,0.8646508
+alcaf 60 miligramos f ampolla polvo  1,mosar 25 miligramos comprimidos recubierto  60,0.86324567
+benjor 50 miligramos  comprimidos  30,dafe  50 miligramos compdispers  30,0.9656509
+benjor 50 miligramos  comprimidos  30,acotral 10 miligramos comprimidos  30,0.88473195
+benjor 50 miligramos  comprimidos  30,normital 100 miligramos comprimidos  30,0.8823505
+beva  100 miligramos envase  1 vial de 4 mililitros,misile 500 miligramos inyvial  1  100 mililitros,0.88031036
+beva  100 miligramos envase  1 vial de 4 mililitros,emivo  4 miligramos a  1,0.85917956
+beva  100 miligramos envase  1 vial de 4 mililitros,arixtra 5 miligramos 04 mililitros jeringa prellenada  1,0.8271644
+beva  400 miligramos envase  1 vial de 16 mililitros,arixtra 5 miligramos 04 mililitros jeringa prellenada  1,0.82606554
+beva  400 miligramos envase  1 vial de 16 mililitros,arixtra 25 miligramos 05 mililitros jeringa prellenada  1,0.82307553
+beva  400 miligramos envase  1 vial de 16 mililitros,arixtra 75 miligramos 06 mililitros jeringa prellenada  1,0.82286733
+biovac hb 10 microgramo inyectable frasco ampolla  05 mililitros,edictum 05 miligramos comprimidos  10,0.93509996
+biovac hb 10 microgramo inyectable frasco ampolla  05 mililitros,causalon 150 miligramos sup  10  05 gramos,0.87882686
+biovac hb 10 microgramo inyectable frasco ampolla  05 mililitros,doxtran 50 miligramos comprimidos recubierto  10,0.85993296
+biovac hb 20 microgramo inyectable frasco ampolla  1 mililitros,doxolbran 1 miligramos comprimidos  20,0.9488021
+biovac hb 20 microgramo inyectable frasco ampolla  1 mililitros,mosar 1% pvopsusporal  60 mililitros,0.86398417
+biovac hb 20 microgramo inyectable frasco ampolla  1 mililitros,doxtran 50 miligramos comprimidos recubierto  20,0.8607068
+brocabe 140 m   120 cpsulas,fingras 120 miligramos capsulas  60,0.8371869
+brocabe 140 m   120 cpsulas,fingras 120 miligramos capsulas  84,0.83632404
+brocabe 140 m   120 cpsulas,fingras 120 miligramos capsulas  30,0.83450246
+brocabe 140 m   90 cpsulas,causalon ibu susporal  90 mililitros,0.808391
+brocabe 140 m   90 cpsulas,fenisona 50 microgramo spray nas  140 dosis,0.7928903
+brocabe 140 m   90 cpsulas,fenisona 50 microgramo spray  140 dosis,0.7904151
+brocabe brocabe 140 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.8763575
+brocabe brocabe 140 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.87627834
+brocabe brocabe 140 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.8761412
+brocabe brocabe 280 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.8773225
+brocabe brocabe 280 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.8773134
+brocabe brocabe 280 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8761448
+brocabe brocabe 420 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.87710613
+brocabe brocabe 420 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.87639064
+brocabe brocabe 420 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.87603176
+brocabe brocabe 560 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.8772036
+brocabe brocabe 560 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.87713987
+brocabe brocabe 560 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8756907
+catiz catiz 150 miligramos comprimidos  60,idesole ii 45 miligramos comprimidos  60,0.87638515
+catiz catiz 150 miligramos comprimidos  60,mezine xr 150 miligramos comprimidos  14,0.8720211
+catiz catiz 150 miligramos comprimidos  60,mezine xr 150 miligramos comprimidos  28,0.87117684
+catiz catiz 150 miligramos comprimidos  120,mezine xr 150 miligramos comprimidos  14,0.87088215
+catiz catiz 150 miligramos comprimidos  120,mezine xr 150 miligramos comprimidos  28,0.86978203
+catiz catiz 150 miligramos comprimidos  120,tanakan 120 miligramos comprimidos  20,0.86075455
+catiz catiz 50 miligramos comprimidos  60,idesole ii 45 miligramos comprimidos  60,0.8768321
+catiz catiz 50 miligramos comprimidos  60,kalter 40 miligramos comprimidos recubierto  60,0.8695577
+catiz catiz 50 miligramos comprimidos  60,idesole 30 miligramos comprimidos recubierto  60,0.8678816
+cimaher solucion inyeccion envase  4 fcos ampolla de 50 miligramos cu,mosar 5 miligramos comprimidos recubierto  4,0.85922456
+cimaher solucion inyeccion envase  4 fcos ampolla de 50 miligramos cu,teosona 200 miligramos dividosis comprimidos  50,0.85229135
+cimaher solucion inyeccion envase  4 fcos ampolla de 50 miligramos cu,teosona 300 miligramos dividosis comprimidos  50,0.8503971
+clonomab 70 miligramos por mililitro,cefuro  250 miligramos susporal  70 mililitros,0.863185
+clonomab 70 miligramos por mililitro,pervino  jabliq  200 mililitros,0.7625486
+clonomab 70 miligramos por mililitro,pervino  jabliq  100 mililitros,0.76114035
+damaris comprimidos rec  30,cvp cellulite comprimidos  30,0.96168447
+damaris comprimidos rec  30,flebitol comprimidos  30,0.9578115
+damaris comprimidos rec  30,plenovit melatonina comprimidos  30,0.9397191
+dafe  liof 440 miligramos 50 mililitros,dafe  50 miligramos compdispers  30,0.8662625
+dafe  liof 440 miligramos 50 mililitros,dexa aminofilin 300 miligramos comprimidos  50,0.85245097
+dafe  liof 440 miligramos 50 mililitros,doxtran 50 miligramos comprimidos recubierto  20,0.84576505
+drivelea 30 comprimidos,akatinol comprimidos  30,0.93371475
+drivelea 30 comprimidos,plenovit magnesioc comprimidos  30,0.92804945
+drivelea 30 comprimidos,plenovit magnesioe comprimidos  30,0.9263662
+elefi  1 vial  2 mililitros,causalon 300 miligramos sup  2  1 gramos,0.8655037
+elefi  1 vial  2 mililitros,mosar 1% pvopsusporal  60 mililitros,0.8397856
+elefi  1 vial  2 mililitros,omate  40 miligramos jeringa prellenada  1,0.8387143
+eleina 200 miligramos  14 comprimidos,mezine xr 150 miligramos comprimidos  14,0.87159103
+eleina 200 miligramos  14 comprimidos,inastmol 200 miligramos comprimidos  20,0.871578
+eleina 200 miligramos  14 comprimidos,mezine xr 75 miligramos comprimidos  14,0.8713749
+eleina 300 miligramos  14 comprimidos,mezine xr 75 miligramos comprimidos  14,0.8725506
+eleina 300 miligramos  14 comprimidos,mezine xr 150 miligramos comprimidos  14,0.8723882
+eleina 300 miligramos  14 comprimidos,mezine xr 375 miligramos comprimidos  14,0.86812013
+exobozan exobozan 20 miligramos  30 comprimidos,olane 20 miligramos comprimidos recubierto  30,0.94768775
+exobozan exobozan 20 miligramos  30 comprimidos,olmec 20 miligramos comprimidos  30,0.94080025
+exobozan exobozan 20 miligramos  30 comprimidos,idesole 30 miligramos comprimidos recubierto  20,0.9393785
+exobozan exobozan 40 miligramos  30 comprimidos,olmec 40 miligramos comprimidos  30,0.93717754
+exobozan exobozan 40 miligramos  30 comprimidos,kalter 40 miligramos comprimidos recubierto  30,0.935994
+exobozan exobozan 40 miligramos  30 comprimidos,olane xr 125 miligramos comprimidos  30,0.8577185
+exobozan exobozan 60 miligramos  30 comprimidos,fingras 60 miligramos capsulas  30,0.9382294
+exobozan exobozan 60 miligramos  30 comprimidos,idesole 30 miligramos comprimidos recubierto  60,0.9346712
+exobozan exobozan 60 miligramos  30 comprimidos,rabloc 20 miligramos comprimidos  60,0.8630843
+fozvir 400 miligramos envase  28 comprimidos rec,mezine xr 75 miligramos comprimidos  28,0.8592291
+fozvir 400 miligramos envase  28 comprimidos rec,palite  400 miligramos comprimidos  5,0.8589272
+fozvir 400 miligramos envase  28 comprimidos rec,mezine xr 150 miligramos comprimidos  28,0.8574264
+flunitram flunitram  14 miligramos comprimidos rec,mezine xr 375 miligramos comprimidos  14,0.8687489
+flunitram flunitram  14 miligramos comprimidos rec,mezine xr 75 miligramos comprimidos  14,0.8682678
+flunitram flunitram  14 miligramos comprimidos rec,mezine xr 150 miligramos comprimidos  14,0.8679757
+gesnat 25 miligramos comprimidos  30,normital 25 miligramos comprimidos  30,0.98270047
+gesnat 25 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.97896856
+gesnat 25 miligramos comprimidos  30,mosar 25 miligramos comprimidos recubierto  30,0.9774903
+gesnat 50 miligramos comprimidos  30,dafe  50 miligramos compdispers  30,0.9709353
+gesnat 50 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.88668245
+gesnat 50 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.8865062
+gineva 10 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.98680747
+gineva 10 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.9852487
+gineva 10 miligramos comprimidos  30,loreme  antialergico 10 miligramos comprimidos  30,0.97040975
+gineva 5 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.98729384
+gineva 5 miligramos comprimidos  30,dafe  5 miligramos compdispers  30,0.9618157
+gineva 5 miligramos comprimidos  30,nefagrel 5 miligramos comprimidos  30,0.9480108
+heberprotp envase  6 ampollas  0075 miligramos,doxtran b 12 inyeccion frasco ampolla  6,0.84521097
+heberprotp envase  6 ampollas  0075 miligramos,aminofilin 200 miligramos inyectable  6,0.8439714
+heberprotp envase  6 ampollas  0075 miligramos,impedil 250 miligramos inyectable  6  2 mililitros,0.82036793
+ixomida 60 miligramos comprimidos rec  120,fingras 120 miligramos capsulas  60,0.92934024
+ixomida 60 miligramos comprimidos rec  120,rabloc 20 miligramos comprimidos  60,0.87635875
+ixomida 60 miligramos comprimidos rec  120,idesole ii 45 miligramos comprimidos  60,0.8760753
+icelea 20025 miligramos comprimidos  30,normital 25 miligramos comprimidos  30,0.873729
+icelea 20025 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.8736489
+icelea 20025 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.8735573
+inco  1 miligramos comprimidos  56,doxolbran 1 miligramos comprimidos  20,0.8720475
+inco  1 miligramos comprimidos  56,vanticon comprimidos  56,0.8426026
+inco  1 miligramos comprimidos  56,clavulo  1 gramos comprimidos  12,0.8385694
+inco  5 miligramos comprimidos  56,palite  400 miligramos comprimidos  5,0.88109994
+inco  5 miligramos comprimidos  56,rabloc 5 miligramos comprimidos  30,0.87998587
+inco  5 miligramos comprimidos  56,misile 750 miligramos comprimidos recubierto  5,0.8747049
+idacio idacio 40 miligramos,pulsar enzimatico comprimidos  40,0.9251605
+idacio idacio 40 miligramos,pervicol toallas toallas antibacter  40,0.90958405
+idacio idacio 40 miligramos,pulsar forte comprimidos  40,0.90025127
+lamilea envase  60 comprimidos,mosar enzimatico comprimidos  60,0.96320355
+lamilea envase  60 comprimidos,plenovit magnesioe comprimidos  60,0.9500742
+lamilea envase  60 comprimidos,neumoterol pediatrico capsulas  60 aplic,0.9485235
+leval 20 miligramos  30 comprimidos,idesole 30 miligramos comprimidos recubierto  20,0.9707938
+leval 20 miligramos  30 comprimidos,olane 20 miligramos comprimidos recubierto  30,0.97043455
+leval 20 miligramos  30 comprimidos,olmec 20 miligramos comprimidos  30,0.9451293
+leval 20 miligramos  60 comprimidos,rabloc 20 miligramos comprimidos  60,0.967387
+leval 20 miligramos  60 comprimidos,acotral 10 miligramos comprimidos  20,0.876066
+leval 20 miligramos  60 comprimidos,idesole ii 45 miligramos comprimidos  60,0.8754335
+lisotyr comprimidos  30,idesole plus comprimidos  30,0.91168976
+lisotyr comprimidos  30,mosar plus comprimidos  30,0.9049884
+lisotyr comprimidos  30,akatinol comprimidos  30,0.89902705
+lisotyr comprimidos  60,idesole plus comprimidos  60,0.9117353
+lisotyr comprimidos  60,mosar plus comprimidos  60,0.9058207
+lisotyr comprimidos  60,neumoterol pediatrico capsulas  60 aplic,0.88773507
+novotinib novotinib 50 miligramos  120 capsulas,rinisona bronquial 50 microgramo aer  120 dosis,0.92293096
+novotinib novotinib 50 miligramos  120 capsulas,nateglin 120 miligramos comprimidos  48,0.85422987
+novotinib novotinib 50 miligramos  120 capsulas,nateglin 120 miligramos comprimidos  84,0.85224074
+novotinib novotinib 150 miligramos  120 capsulas,nateglin 120 miligramos comprimidos  48,0.854677
+novotinib novotinib 150 miligramos  120 capsulas,nateglin 120 miligramos comprimidos  84,0.8527866
+novotinib novotinib 150 miligramos  120 capsulas,neumoterol pediatrico capsulas  120 saplicador,0.83106285
+novotinib novotinib 200 miligramos  120 capsulas,nateglin 120 miligramos comprimidos  48,0.85318977
+novotinib novotinib 200 miligramos  120 capsulas,nateglin 120 miligramos comprimidos  84,0.85131973
+novotinib novotinib 200 miligramos  120 capsulas,dexa aminofilin 200 miligramos inyectable  3,0.8476304
+nevirapina elea envase  60 comprimidos,mosar enzimatico comprimidos  60,0.9425685
+nevirapina elea envase  60 comprimidos,neumoterol pediatrico capsulas  60 aplic,0.9424084
+nevirapina elea envase  60 comprimidos,mosar plus comprimidos  60,0.9363493
+nove  100 miligramos envase  2 viales,dafe  100 miligramos compdispers  30,0.8526168
+nove  100 miligramos envase  2 viales,omate  100 miligramos jeringa prellenada  10,0.8436118
+nove  100 miligramos envase  2 viales,omate  40 miligramos jeringa prellenada  2,0.8420441
+nove  500 miligramos envase  1 vial,misile 500 miligramos inyvial  1  100 mililitros,0.87277585
+nove  500 miligramos envase  1 vial,omate  40 miligramos jeringa prellenada  1,0.84738094
+nove  500 miligramos envase  1 vial,mosar 1% pvopsusporal  60 mililitros,0.84555155
+perciclib 75 miligramos capsulas  21,doxtran 75 miligramos compreclibprol  20,0.8540298
+perciclib 75 miligramos capsulas  21,doxtran 75 miligramos compreclibprol  10,0.8528997
+perciclib 75 miligramos capsulas  21,nefazan 75 miligramos comprimidos  60,0.8416603
+perciclib 100 miligramos capsulas  21,allopurinol phoeni  300 miligramos capsulas  100,0.85504895
+perciclib 100 miligramos capsulas  21,dexa aminofilin 200 miligramos jarabe  100 mililitros,0.8480906
+perciclib 100 miligramos capsulas  21,doxtran 50 miligramos comprimidos recubierto  100,0.84149724
+perciclib 125 miligramos capsulas  21,rudoxil 125 miligramos comprimidos  28,0.8502249
+perciclib 125 miligramos capsulas  21,teosona micro 125 miligramos capsulas  20,0.8414147
+perciclib 125 miligramos capsulas  21,olane xr 125 miligramos comprimidos  10,0.8388913
+regitrat 100 miligramos  28 comprimidos,normital 100 miligramos comprimidos  30,0.8752817
+regitrat 100 miligramos  28 comprimidos,teosona 100 miligramos dividosis comprimidos  20,0.8697253
+regitrat 100 miligramos  28 comprimidos,palite  100 miligramos comprimidos  30,0.8696958
+regitrat 400 miligramos  28 comprimidos,palite  400 miligramos comprimidos  5,0.86873156
+regitrat 400 miligramos  28 comprimidos,mezine xr 75 miligramos comprimidos  28,0.8623296
+regitrat 400 miligramos  28 comprimidos,mezine xr 225 miligramos comprimidos  28,0.8613149
+regitrat 500 miligramos  28 comprimidos,causalon 500 miligramos comprimidos  20,0.8762027
+regitrat 500 miligramos  28 comprimidos,impedil 500 miligramos comprimidos  20,0.872146
+regitrat 500 miligramos  28 comprimidos,misile 500 miligramos comprimidos recubierto  7,0.8671247
+reglicat reglicat 30 miligramos comprimidos  28,pioglit 30 miligramos comprimidos  15,0.87983495
+reglicat reglicat 30 miligramos comprimidos  28,pioglit 45 miligramos comprimidos  30,0.8794407
+reglicat reglicat 30 miligramos comprimidos  28,pioglit 15 miligramos comprimidos  30,0.8790537
+reglicat reglicat 40 miligramos comprimidos  28,rudoxil crema 40 miligramos capsulas  28,0.93113375
+reglicat reglicat 40 miligramos comprimidos  28,kalter 40 miligramos comprimidos recubierto  60,0.87047666
+reglicat reglicat 40 miligramos comprimidos  28,kalter 40 miligramos comprimidos recubierto  30,0.8694139
+remivir comprimidos recubiertos  30,kalter forte comprimidos recubierto  30,0.9663479
+remivir comprimidos recubiertos  30,holomagnesio vital comprimidos recubierto  30,0.95736706
+remivir comprimidos recubiertos  30,fioton comprimidos recubierto  30,0.9553343
+ricentan 10 miligramos  30 comprimidos recubiertos,dafe  10 miligramos comprimidos  30,0.96810615
+ricentan 10 miligramos  30 comprimidos recubiertos,acotral 10 miligramos comprimidos  30,0.9666948
+ricentan 10 miligramos  30 comprimidos recubiertos,loreme  antialergico 10 miligramos comprimidos  30,0.955558
+rofek 5 miligramos  60 comprimidos,rabloc 5 miligramos comprimidos  30,0.881704
+rofek 5 miligramos  60 comprimidos,rabloc 20 miligramos comprimidos  60,0.88010335
+rofek 5 miligramos  60 comprimidos,rabloc 10 miligramos comprimidos  60,0.87970805
+rofek xr 11 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.8850536
+rofek xr 11 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.88381875
+rofek xr 11 miligramos comprimidos  30,olane xr 125 miligramos comprimidos  30,0.88260657
+serilon serilon 15 miligramos  28 comprimidos,mezine xr 75 miligramos comprimidos  28,0.86751866
+serilon serilon 15 miligramos  28 comprimidos,mezine xr 225 miligramos comprimidos  28,0.8667109
+serilon serilon 15 miligramos  28 comprimidos,pioglit 45 miligramos comprimidos  15,0.8666278
+serilon serilon 30 miligramos  28 comprimidos,olane xr 25 miligramos comprimidos  30,0.8714896
+serilon serilon 30 miligramos  28 comprimidos,normital 100 miligramos comprimidos  30,0.87060446
+serilon serilon 30 miligramos  28 comprimidos,olane xr 375 miligramos comprimidos  30,0.8684789
+simplir comprimidos envase  30 comprimidos rec,mosar enzimatico comprimidos  30,0.9475505
+simplir comprimidos envase  30 comprimidos rec,kalter forte comprimidos recubierto  30,0.94747466
+simplir comprimidos envase  30 comprimidos rec,fioton comprimidos recubierto  30,0.94010115
+surpre  125 miligramos  28 cpsulas,rudoxil 125 miligramos comprimidos  28,0.9530038
+surpre  125 miligramos  28 cpsulas,mezine xr 75 miligramos comprimidos  28,0.86736876
+surpre  125 miligramos  28 cpsulas,olane xr 125 miligramos comprimidos  10,0.8665598
+surpre  25 miligramos  28 cpsulas,rudoxil 25 miligramos comprimidos  28,0.94996864
+surpre  25 miligramos  28 cpsulas,olane xr 25 miligramos comprimidos  10,0.8698031
+surpre  25 miligramos  28 cpsulas,olane xr 25 miligramos comprimidos  30,0.8689214
+surpre  50 miligramos  28 cpsulas,mezine xr 75 miligramos comprimidos  28,0.864333
+surpre  50 miligramos  28 cpsulas,dafe  50 miligramos compdispers  30,0.86292493
+surpre  50 miligramos  28 cpsulas,mezine xr 150 miligramos comprimidos  28,0.86235064
+tenofovir 300 miligramos envase  30 comprimidos,pioglit 30 miligramos comprimidos  30,0.8734858
+tenofovir 300 miligramos envase  30 comprimidos,pioglit 30 miligramos comprimidos  15,0.87314826
+tenofovir 300 miligramos envase  30 comprimidos,pioglit 15 miligramos comprimidos  30,0.8726054
+terfun 20819 miligramos comprimidos  20,rabloc 20 miligramos comprimidos  60,0.8844353
+terfun 20819 miligramos comprimidos  20,rabloc 20 miligramos comprimidos  15,0.88305056
+terfun 20819 miligramos comprimidos  20,tanakan 120 miligramos comprimidos  20,0.8796419
+terfun 20819 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.88360226
+terfun 20819 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8831351
+terfun 20819 miligramos comprimidos  60,nefazan 75 miligramos comprimidos  60,0.8716918
+vaxira inyectable envase  1 frasco ampolla,proterenal inyeccion lioffa  1,0.9516469
+vaxira inyectable envase  1 frasco ampolla,micranil inyectable  1,0.92272234
+vaxira inyectable envase  1 frasco ampolla,mosar 1% pvopsusporal  60 mililitros,0.8435261
+visedge 150 miligramos  28 capsulas,mezine xr 150 miligramos comprimidos  28,0.9417616
+visedge 150 miligramos  28 capsulas,rudoxil crema 10 miligramos capsulas  28,0.8602512
+visedge 150 miligramos  28 capsulas,rudoxil crema 20 miligramos capsulas  28,0.8588795
+zalute  40 miligramos envase  120 cpsulas,omate  40 miligramos jeringa prellenada  2,0.86112285
+zalute  40 miligramos envase  120 cpsulas,omate  40 miligramos jeringa prellenada  1,0.85847014
+zalute  40 miligramos envase  120 cpsulas,tanakan 120 miligramos comprimidos  20,0.85770696
+zalute  80 miligramos comprimidos  56,rudoxil crema 80 miligramos capsulas  28,0.8593739
+zalute  80 miligramos comprimidos  56,plenovit vitamina e adcomp  80,0.84146863
+zalute  80 miligramos comprimidos  56,vanticon comprimidos  56,0.84123796
+8 horas 2 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.8914916
+8 horas 2 miligramos comprimidos  30,normital 25 miligramos comprimidos  30,0.8501853
+8 horas 2 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.84931237
+8 horas 3 miligramos comprimidos  30,idesole ii 45 miligramos comprimidos  30,0.8491756
+8 horas 3 miligramos comprimidos  30,normital 25 miligramos comprimidos  30,0.8490979
+8 horas 3 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.849072
+abara  100 miligramos comprimidos  100,normital 100 miligramos comprimidos  30,0.8862789
+abara  100 miligramos comprimidos  100,palite  100 miligramos comprimidos  30,0.87969357
+abara  100 miligramos comprimidos  100,palite  100 miligramos comprimidos  20,0.87824494
+abara  50 miligramos comprimidos  100,doxtran 50 miligramos comprimidos recubierto  100,0.9704145
+abara  50 miligramos comprimidos  100,neumote  nasal ped 50 microgramo spray  100 dosis,0.9178588
+abara  50 miligramos comprimidos  100,normital 100 miligramos comprimidos  30,0.8855771
+adermicina adermicina jabon limpieza fac pack farm,inteligen ginseng fuerte comprimidos recubierto  20,0.7525721
+adermicina adermicina jabon limpieza fac pack farm,inteligen ginseng fuerte comprimidos recubierto  50,0.75205106
+adermicina adermicina jabon limpieza fac pack farm,proterenal inyeccion lioffa  1,0.74807644
+adermicina adermicina jabon limpieza fac pack  6,doxtran b 12 inyeccion frasco ampolla  6,0.8323029
+adermicina adermicina jabon limpieza fac pack  6,xanol 6 microgramo capsulas  60,0.8097156
+adermicina adermicina jabon limpieza fac pack  6,xanol 6 microgramo capsulas  30,0.8092828
+adermicina crema  30 gramos,pervino  gasa  30,0.9452187
+adermicina crema  30 gramos,pervino  pda  30 gramos,0.9425993
+adermicina crema  30 gramos,flebitol comprimidos  30,0.94140923
+kit adermicina facial kit regalo adermicina facial,pervino  antiseptico bucal fresh mint  240 mililitros,0.7251073
+kit adermicina facial kit regalo adermicina facial,pervino  antiseptico bucal fresh mint  480 mililitros,0.7221351
+kit adermicina facial kit regalo adermicina facial,omate  40 miligramos jeringa prellenada  2,0.7220222
+adermicina a a crema  30 gramos 2  1,causalon 300 miligramos sup  2  1 gramos,0.8685398
+adermicina a a crema  30 gramos 2  1,doxolbran 2 miligramos comprimidos  30,0.8446818
+adermicina a a crema  30 gramos 2  1,mosar enzimatico comprimidos  30,0.82369953
+adermicina a crema  30 gramos,pervino  pda  30 gramos,0.95432174
+adermicina a crema  30 gramos,mosar enzimatico comprimidos  30,0.94832325
+adermicina a crema  30 gramos,flebitol comprimidos  30,0.9443736
+adermicina a crema  60 gramos,mosar enzimatico comprimidos  60,0.94617826
+adermicina a crema  60 gramos,neumoterol pediatrico capsulas  60 aplic,0.9446685
+adermicina a crema  60 gramos,plenovit multivitaminas adcomp  60,0.93283
+adermicina ae emuls  400 mililitros,palite  400 miligramos comprimidos  5,0.8557086
+adermicina ae emuls  400 mililitros,ibuprofeni  mujer 400 miligramos comprimidos  10,0.8407689
+adermicina ae emuls  400 mililitros,ibuprofeni  400 miligramos comprimidos  20,0.83208567
+adermicina ae crema  200 mililitros,pervino  quirurgico envase  200 mililitros,0.95627654
+adermicina ae crema  200 mililitros,pervino  soltpica  200 mililitros,0.9523336
+adermicina ae crema  200 mililitros,cvp cellulite gel crema  200 mililitros,0.94924563
+adermicina anti  acne pack  2,omate  40 miligramos jeringa prellenada  2,0.82237536
+adermicina anti  acne pack  2,doxolbran 2 miligramos comprimidos  30,0.82112485
+adermicina anti  acne pack  2,omate  20 miligramos jeringa prellenada  2,0.8188154
+adermicina anti  acne gel  30 gramos,plenovit melatonina comprimidos  30,0.9318128
+adermicina anti  acne gel  30 gramos,plenovit vitamina c adcompmast  30,0.92637736
+adermicina anti  acne gel  30 gramos,flebitol comprimidos  30,0.9251557
+adermicina facial antiarruga crema 90 gramos,causalon ibu susporal  90 mililitros,0.93387175
+adermicina facial antiarruga crema 90 gramos,nateglin 90 miligramos comprimidos  24,0.8247693
+adermicina facial antiarruga crema 90 gramos,nateglin 90 miligramos comprimidos  48,0.8238811
+adermicina facial unificadora crema 90 gramos,causalon ibu susporal  90 mililitros,0.924216
+adermicina facial unificadora crema 90 gramos,nateglin 90 miligramos comprimidos  24,0.7980519
+adermicina facial unificadora crema 90 gramos,nateglin 90 miligramos comprimidos  48,0.79720426
+adermicina facial humectante crema 90 gramos,causalon ibu susporal  90 mililitros,0.9359285
+adermicina facial humectante crema 90 gramos,nateglin 90 miligramos comprimidos  24,0.8066273
+adermicina facial humectante crema 90 gramos,nateglin 90 miligramos comprimidos  48,0.8055563
+adermicina facial adermicina agua micelar  400 mililitros,palite  400 miligramos comprimidos  5,0.8507393
+adermicina facial adermicina agua micelar  400 mililitros,ibuprofeni  mujer 400 miligramos comprimidos  10,0.83508086
+adermicina facial adermicina agua micelar  400 mililitros,ibuprofeni  400 miligramos comprimidos  20,0.82040256
+aeroxina 250 miligramos susp frasco  60 mililitros,normatensil as 250 miligramos comprimidos recubierto  40,0.87448627
+aeroxina 250 miligramos susp frasco  60 mililitros,normatensil as 250 miligramos comprimidos recubierto  20,0.8739365
+aeroxina 250 miligramos susp frasco  60 mililitros,mosar 25 miligramos comprimidos recubierto  60,0.872005
+aeroxina 500 miligramos comprimidos  16,safoxen 500 miligramos comprimidos  10,0.8863421
+aeroxina 500 miligramos comprimidos  16,impedil 500 miligramos comprimidos  20,0.88437104
+aeroxina 500 miligramos comprimidos  16,causalon 500 miligramos comprimidos  20,0.8711253
+aeroxina ud 500 miligramos  10 compreclibprogr,safoxen 500 miligramos comprimidos  10,0.9155923
+aeroxina ud 500 miligramos  10 compreclibprogr,causalon pro 500 500 miligramos comprimidos recubierto  10,0.87273914
+aeroxina ud 500 miligramos  10 compreclibprogr,olane xr 25 miligramos comprimidos  10,0.85299
+aeroxina ud 500 miligramos  5 compreclibprogr,mosar 5 miligramos comprimidos recubierto  40,0.8502776
+aeroxina ud 500 miligramos  5 compreclibprogr,misile 500 miligramos comprimidos recubierto  7,0.8489993
+aeroxina ud 500 miligramos  5 compreclibprogr,dafe  5 miligramos compdispers  30,0.84886837
+aeroxina ud 500 miligramos  8 compreclibprogr,misile 500 miligramos comprimidos recubierto  7,0.8456591
+aeroxina ud 500 miligramos  8 compreclibprogr,causalon 500 miligramos comprimidos  20,0.833339
+aeroxina ud 500 miligramos  8 compreclibprogr,impedil 500 miligramos comprimidos  20,0.83007157
+agarol chicle fruta blister por 12,loreme  antigripal comprimidos  12,0.9217613
+agarol chicle fruta blister por 12,agiofibras sobres  12,0.91122365
+agarol chicle fruta blister por 12,agiola  sobres  12,0.88092744
+agarol ciruela frasco por 180 mililitros,pervisept spray  180 mililitros,0.9000989
+agarol ciruela frasco por 180 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.77321255
+agarol ciruela frasco por 180 mililitros,arixtra 75 miligramos 06 mililitros jeringa prellenada  5,0.7683062
+agarol frutilla frasco por 180 mililitros,pervisept spray  180 mililitros,0.9328668
+agarol frutilla frasco por 180 mililitros,usar fibras frasco  250 mililitros,0.77354425
+agarol frutilla frasco por 180 mililitros,pervino  antiseptico bucal extra mint  65 mililitros,0.7676383
+agarol frutilla frasco por 390 mililitros,usar fibras frasco  250 mililitros,0.77399135
+agarol frutilla frasco por 390 mililitros,pervino  antiseptico bucal extra mint  65 mililitros,0.7672167
+agarol frutilla frasco por 390 mililitros,pervino  quirurgico envase  200 mililitros,0.7666053
+agarol vainilla frasco por 180 mililitros,pervisept spray  180 mililitros,0.91450673
+agarol vainilla frasco por 180 mililitros,arixtra 75 miligramos 06 mililitros jeringa prellenada  5,0.7680585
+agarol vainilla frasco por 180 mililitros,arixtra 25 miligramos 05 mililitros jeringa prellenada  5,0.7676987
+agarol vainilla frasco por 390 mililitros,arixtra 75 miligramos 06 mililitros jeringa prellenada  5,0.76822
+agarol vainilla frasco por 390 mililitros,arixtra 25 miligramos 05 mililitros jeringa prellenada  5,0.7677904
+agarol vainilla frasco por 390 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.7663414
+agarol gelcaps capsulas blandas estuche por 10,doxtran gesic comprimidos recubierto  10,0.9480991
+agarol gelcaps capsulas blandas estuche por 10,doxtran flex comprimidos recubierto  10,0.945988
+agarol gelcaps capsulas blandas estuche por 10,loreme  descongestivo comprimidos  10,0.9370867
+agarol gelcaps capsulas blandas estuche por 20,doxtran gesic comprimidos recubierto  20,0.9487951
+agarol gelcaps capsulas blandas estuche por 20,pulsar enzimatico comprimidos  20,0.94688195
+agarol gelcaps capsulas blandas estuche por 20,doxtran flex comprimidos recubierto  20,0.9462887
+agarol pur 12 sobres  17 gramos,agiofibras sobres  12,0.82295024
+agarol pur 12 sobres  17 gramos,clavulo  1 gramos comprimidos  12,0.80737025
+agarol pur 12 sobres  17 gramos,ventoplus nebu 125 miligramos a  12,0.8057758
+agarol pur 5 sobres  17 gramos,palite  400 miligramos comprimidos  5,0.81453574
+agarol pur 5 sobres  17 gramos,dafe  5 miligramos compdispers  30,0.8091412
+agarol pur 5 sobres  17 gramos,rabloc 5 miligramos comprimidos  30,0.8090487
+agiola  100 grs,pervino  soltpica  100 mililitros,0.92358685
+agiola  100 grs,tanakan grag  100,0.9121116
+agiola  100 grs,neumote  nasal spray  100 dosis,0.8975805
+agiola  250 grs,agiofibras gran  250 gramos,0.93706226
+agiola  250 grs,usar fibras frasco  250 mililitros,0.88808906
+agiola  250 grs,pervicol gel manzvercv  250 mililitros,0.8854029
+alerni  24 rapida accion cpsulas blandas  10,rudoxil crema 10 miligramos capsulas  28,0.86506945
+alerni  24 rapida accion cpsulas blandas  10,omate  100 miligramos jeringa prellenada  10,0.85247403
+alerni  24 rapida accion cpsulas blandas  10,acotral 10 miligramos comprimidos  20,0.8455946
+alerni  24 rapida accion cpsulas blandas  20,rudoxil crema 20 miligramos capsulas  28,0.86592084
+alerni  24 rapida accion cpsulas blandas  20,teosona 400 miligramos 24 hs comprimidos  20,0.86134464
+alerni  24 rapida accion cpsulas blandas  20,teosona micro 250 miligramos capsulas  20,0.8556246
+alerni  24 rapida accion expendedor 10 blister  5 capsulas,teosona 200 miligramos a  5  10 mililitros,0.84119636
+alerni  24 rapida accion expendedor 10 blister  5 capsulas,rudoxil crema 10 miligramos capsulas  28,0.81257075
+alerni  24 rapida accion expendedor 10 blister  5 capsulas,omate  100 miligramos jeringa prellenada  10,0.7973624
+alerni  spray spray nasal  10 mililitros,doxtran flex comprimidos recubierto  10,0.9163463
+alerni  spray spray nasal  10 mililitros,doxtran gesic comprimidos recubierto  10,0.9143409
+alerni  spray spray nasal  10 mililitros,megale  antiacido compmast  10,0.91334486
+alerni  spray nasal cort 120 dosis,neumoterol pediatrico capsulas  120 saplicador,0.9211081
+alerni  spray nasal cort 120 dosis,neumoterol pediatrico capsulas  120 aplic,0.9209471
+alerni  spray nasal cort 120 dosis,mucome  jarabe  120 mililitros,0.91411096
+alerni  spray nasal cort 60 dosis,neumoterol pediatrico capsulas  60 saplicador,0.91919005
+alerni  spray nasal cort 60 dosis,neumoterol pediatrico capsulas  60 aplic,0.9186328
+alerni  spray nasal cort 60 dosis,pervino  solbucofar  60 mililitros,0.9137198
+alvetide 92  22 microgramo  30 dosis,xanol 12 microgramo capsulas  30,0.7969001
+alvetide 92  22 microgramo  30 dosis,xanol 6 microgramo capsulas  30,0.79369676
+alvetide 92  22 microgramo  30 dosis,doxolbran 4 miligramos comprimidos  30,0.79358464
+alvetide 184  22 microgramo  30 dosis,doxolbran 4 miligramos comprimidos  30,0.79163873
+alvetide 184  22 microgramo  30 dosis,xanol 12 microgramo capsulas  30,0.79088455
+alvetide 184  22 microgramo  30 dosis,doxolbran 2 miligramos comprimidos  30,0.7893716
+ambril jarabe frasco  120 mililitros,aminofilin forte jarabe  120 mililitros,0.9675242
+ambril jarabe frasco  120 mililitros,loreme  jarabe  120 mililitros,0.96656835
+ambril jarabe frasco  120 mililitros,fatigan bronquial jarabe  120 mililitros,0.96461505
+anemidox ampollas envase  3 pares,doxtran b 12 inyeccion frasco ampolla  3,0.83289224
+anemidox ampollas envase  3 pares,aminofilin 200 miligramos inyectable  3,0.7965094
+anemidox ampollas envase  3 pares,dexa aminofilin 200 miligramos inyectable  3,0.7911207
+anemidox ampollas envase  6 pares,doxtran b 12 inyeccion frasco ampolla  6,0.83313614
+anemidox ampollas envase  6 pares,me  24 comprimidos  6,0.8117991
+anemidox ampollas envase  6 pares,aminofilin 200 miligramos inyectable  6,0.7982039
+anemidox ferrum cpsulas  30,flebitol comprimidos  30,0.9550331
+anemidox ferrum cpsulas  30,cvp cellulite comprimidos  30,0.94204575
+anemidox ferrum cpsulas  30,plenovit ginsengc capsulas  30,0.92108864
+anemidox ferrum cpsulas  60,mosar plus comprimidos  60,0.912583
+anemidox ferrum cpsulas  60,plenovit multivitaminas adcomp  60,0.9071981
+anemidox ferrum cpsulas  60,neumoterol pediatrico capsulas  60 aplic,0.90468425
+anemidox ultra cpsulas  30,flebitol comprimidos  30,0.9621699
+anemidox ultra cpsulas  30,cvp cellulite comprimidos  30,0.9494151
+anemidox ultra cpsulas  30,plenovit melatonina comprimidos  30,0.9307017
+anemidox ultra cpsulas  60,mosar plus comprimidos  60,0.92452276
+anemidox ultra cpsulas  60,neumoterol pediatrico capsulas  60 aplic,0.92292607
+anemidox ultra cpsulas  60,mosar enzimatico comprimidos  60,0.9154993
+anusol duo crema pomo por 10 gramos,megale  antiacido compmast  10,0.9452042
+anusol duo crema pomo por 10 gramos,causalon grip comprimidos  10,0.94255805
+anusol duo crema pomo por 10 gramos,doxtran gesic comprimidos recubierto  10,0.94226223
+anusol duo s supositorios estuche por 12,loreme  antigripal comprimidos  12,0.9041916
+anusol duo s supositorios estuche por 12,agiofibras sobres  12,0.8951434
+anusol duo s supositorios estuche por 12,agiola  sobres  12,0.8485864
+arami  10 miligramos  comprimidos  15,rabloc 10 miligramos comprimidos  15,0.98377955
+arami  10 miligramos  comprimidos  15,mextran 15 miligramos compran  10,0.94251406
+arami  10 miligramos  comprimidos  15,nefagrel 10 miligramos comprimidos  15,0.94213647
+arami  10 miligramos  comprimidos  30,dafe  10 miligramos comprimidos  30,0.9873394
+arami  10 miligramos  comprimidos  30,acotral 10 miligramos comprimidos  30,0.9863085
+arami  10 miligramos  comprimidos  30,loreme  antialergico 10 miligramos comprimidos  30,0.9695014
+arami  20 miligramos  comprimidos  30,olmec 20 miligramos comprimidos  30,0.9762932
+arami  20 miligramos  comprimidos  30,olane 20 miligramos comprimidos recubierto  30,0.97354287
+arami  20 miligramos  comprimidos  30,idesole 30 miligramos comprimidos recubierto  20,0.97163546
+asumlea 60 miligramos por mililitro jer prellenada  1 mililitros,mosar 1% pvopsusporal  60 mililitros,0.9270724
+asumlea 60 miligramos por mililitro jer prellenada  1 mililitros,kalter 40 miligramos comprimidos recubierto  60,0.85818744
+asumlea 60 miligramos por mililitro jer prellenada  1 mililitros,mosar 25 miligramos comprimidos recubierto  60,0.85484165
+artricare 50 miligramos cpsulas  30,dafe  50 miligramos compdispers  30,0.9637811
+artricare 50 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.8705605
+artricare 50 miligramos cpsulas  30,idesole ii 45 miligramos comprimidos  30,0.8672857
+arvo solucion oft  25 mililitros,causalon gotas  25 mililitros,0.9432991
+arvo solucion oft  25 mililitros,pulsar gotas  25 mililitros,0.9410206
+arvo solucion oft  25 mililitros,respisol spray nasal  25 mililitros,0.91430867
+auda  cpsulas  30,pervino  gasa  30,0.9368221
+auda  cpsulas  30,cvp cellulite comprimidos  30,0.93627423
+auda  cpsulas  30,flebitol comprimidos  30,0.930423
+aziatop 20 miligramos cpsulas  14,acotral 10 miligramos comprimidos  20,0.86726
+aziatop 20 miligramos cpsulas  14,rudoxil crema 20 miligramos capsulas  28,0.86220354
+aziatop 20 miligramos cpsulas  14,palite  100 miligramos comprimidos  20,0.86175567
+aziatop 20 miligramos cpsulas  28,rudoxil crema 20 miligramos capsulas  28,0.9643622
+aziatop 20 miligramos cpsulas  28,acotral 10 miligramos comprimidos  20,0.8665481
+aziatop 20 miligramos cpsulas  28,rudoxil crema 10 miligramos capsulas  28,0.86530894
+aziatop reflu  20 miligramos comprimidos  14,acotral 10 miligramos comprimidos  20,0.88056636
+aziatop reflu  20 miligramos comprimidos  14,palite  100 miligramos comprimidos  20,0.8799985
+aziatop reflu  20 miligramos comprimidos  14,mefeni  20 miligramos comprimidos recubierto  20,0.8794342
+benadryl cpsulas estuche por 30,plenovit vitamina c adcompmast  30,0.9479558
+benadryl cpsulas estuche por 30,plenovit melatonina comprimidos  30,0.94328177
+benadryl cpsulas estuche por 30,megale  antiacido compmast  30,0.94326186
+benadryl inyectable 1 ampolla por 5 mililitros,arixtra 5 miligramos 04 mililitros jeringa prellenada  1,0.86920357
+benadryl inyectable 1 ampolla por 5 mililitros,mosar 1% pvopsusporal  60 mililitros,0.8483089
+benadryl inyectable 1 ampolla por 5 mililitros,omate  40 miligramos jeringa prellenada  1,0.8370768
+benadryl jarabe frasco por 240 mililitros,pervino  antiseptico bucal fresh mint  240 mililitros,0.9528901
+benadryl jarabe frasco por 240 mililitros,pervino  antiseptico bucal extra mint  240 mililitros,0.95213157
+benadryl jarabe frasco por 240 mililitros,pervino  antiseptico bucal fruit  240 mililitros,0.9418576
+benadryl 24 comprimidos  10,me  24 comprimidos  6,0.8582291
+benadryl 24 comprimidos  10,rudoxil crema 10 miligramos capsulas  28,0.8264736
+benadryl 24 comprimidos  10,rabloc 10 miligramos comprimidos  15,0.82296354
+benadryl 24 flash comprimidos  10,me  24 comprimidos  6,0.8586982
+benadryl 24 flash comprimidos  10,rudoxil crema 10 miligramos capsulas  28,0.83682305
+benadryl 24 flash comprimidos  10,loreme  antigripal comprimidos  24,0.8294255
+benadryl antitusivo jarabe frasco por 240 mililitros,pervino  antiseptico bucal fresh mint  240 mililitros,0.9561289
+benadryl antitusivo jarabe frasco por 240 mililitros,pervino  antiseptico bucal extra mint  240 mililitros,0.9546031
+benadryl antitusivo jarabe frasco por 240 mililitros,pervino  antiseptico bucal fruit  240 mililitros,0.94457257
+benadryl dm compuesto jarabe frasco por 240 mililitros,pervino  antiseptico bucal extra mint  240 mililitros,0.93514806
+benadryl dm compuesto jarabe frasco por 240 mililitros,pervino  antiseptico bucal fresh mint  240 mililitros,0.93345964
+benadryl dm compuesto jarabe frasco por 240 mililitros,pervino  antiseptico bucal fruit  240 mililitros,0.9148849
+berlofen solucion oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.9106411
+berlofen solucion oft  5 mililitros,dafe  5 miligramos compdispers  30,0.8339523
+berlofen solucion oft  5 mililitros,emivo  8 miligramos a  5,0.8280579
+bertel 40 miligramos comprimidos  28,rudoxil crema 40 miligramos capsulas  28,0.9373582
+bertel 40 miligramos comprimidos  28,kalter 40 miligramos comprimidos recubierto  30,0.8831925
+bertel 40 miligramos comprimidos  28,kalter 40 miligramos comprimidos recubierto  60,0.8831304
+bertel 80 miligramos comprimidos  28,rudoxil crema 80 miligramos capsulas  28,0.94160485
+bertel 80 miligramos comprimidos  28,mezine xr 75 miligramos comprimidos  28,0.8792711
+bertel 80 miligramos comprimidos  28,mezine xr 150 miligramos comprimidos  28,0.8764146
+bertel d 40125 miligramos comprimidos  28,mezine xr 75 miligramos comprimidos  28,0.8795248
+bertel d 40125 miligramos comprimidos  28,mezine xr 225 miligramos comprimidos  28,0.8790178
+bertel d 40125 miligramos comprimidos  28,mezine xr 150 miligramos comprimidos  28,0.8785936
+bertel d 80125 miligramos comprimidos  28,mezine xr 75 miligramos comprimidos  28,0.8747068
+bertel d 80125 miligramos comprimidos  28,mezine xr 150 miligramos comprimidos  28,0.8733379
+bertel d 80125 miligramos comprimidos  28,mezine xr 225 miligramos comprimidos  28,0.8713879
+biogrip plus comprimidos  16,terfenadina dg comprimidos  16,0.9327503
+biogrip plus comprimidos  16,neo kef comprimidos  16,0.913191
+biogrip plus comprimidos  16,dresan biotic comprimidos  16,0.9060734
+biogrip plus comprimidos  8,terfenadina dg comprimidos  8,0.9265057
+biogrip plus comprimidos  8,dresan biotic comprimidos  8,0.90528166
+biogrip plus comprimidos  8,emivo  8 miligramos a  1,0.78887177
+bronquisedan jarabe adultos  150 mililitros,pervino  aer  150 mililitros,0.95260453
+bronquisedan jarabe adultos  150 mililitros,pervisept aerosol aerosol  150 mililitros,0.9173328
+bronquisedan jarabe adultos  150 mililitros,mezine xr 150 miligramos comprimidos  14,0.8341184
+bronquisedan jarabe nios  120 mililitros,loreme  jarabe  120 mililitros,0.9710475
+bronquisedan jarabe nios  120 mililitros,fatigan bronquial jarabe  120 mililitros,0.97050637
+bronquisedan jarabe nios  120 mililitros,mucome  jarabe  120 mililitros,0.96563995
+bronquisedan ma  200 miligramos  150 mililitros,mezine xr 150 miligramos comprimidos  14,0.8621503
+bronquisedan ma  200 miligramos  150 mililitros,dexa aminofilin 200 miligramos jarabe  100 mililitros,0.86112
+bronquisedan ma  200 miligramos  150 mililitros,mezine xr 150 miligramos comprimidos  28,0.8601673
+cvp duo comprimidos rec  10,cvpforte comprimidos  10,0.96467537
+cvp duo comprimidos rec  10,cortaler novo comprimidos  10,0.9450615
+cvp duo comprimidos rec  10,cvpflebo capsulas  10,0.92830104
+cvp duo comprimidos rec  25,respisol spray nasal  25 mililitros,0.8611182
+cvp duo comprimidos rec  25,causalon gotas  25 mililitros,0.844658
+cvp duo comprimidos rec  25,pulsar gotas  25 mililitros,0.83886343
+cvp duo comprimidos rec  50,cvpflebo capsulas  50,0.92295754
+cvp duo comprimidos rec  50,inteligen ginseng fuerte comprimidos recubierto  50,0.9185502
+cvp duo comprimidos rec  50,causalon comprimidos  50,0.9075213
+caladryl caladryl locion  110 pack promocional,pervicol pomo gel  123 mililitros,0.74377376
+caladryl caladryl locion  110 pack promocional,pervino  antiseptico bucal fruit  480 mililitros,0.7434449
+caladryl caladryl locion  110 pack promocional,omate  40 miligramos jeringa prellenada  1,0.74333006
+caladryl crema pomo por 70 gramos,cefuro  250 miligramos susporal  70 mililitros,0.8141468
+caladryl crema pomo por 70 gramos,pervino  antiseptico bucal fresh mint  480 mililitros,0.7546708
+caladryl crema pomo por 70 gramos,pervino  antiseptico bucal extra mint  480 mililitros,0.7540905
+caladryl locin frasco por 100 mililitros,causalon ibu susporal  100 mililitros,0.96344537
+caladryl locin frasco por 100 mililitros,pervino  jabliq  100 mililitros,0.9530674
+caladryl locin frasco por 100 mililitros,plenovit vitamina c adcompmast  100,0.9449009
+caladryl incoloro crema pomo por 70 gramos,cefuro  250 miligramos susporal  70 mililitros,0.8177906
+caladryl incoloro crema pomo por 70 gramos,pervino  antiseptico bucal extra mint  65 mililitros,0.7602198
+caladryl incoloro crema pomo por 70 gramos,pervino  antiseptico bucal extra mint  480 mililitros,0.7597499
+caladryl incoloro locin frasco por 100 mililitros,causalon ibu susporal  100 mililitros,0.9468053
+caladryl incoloro locin frasco por 100 mililitros,pervino  jabliq  100 mililitros,0.9349493
+caladryl incoloro locin frasco por 100 mililitros,pervino  soltpica  100 mililitros,0.9208865
+caladryl incoloro spray  90 mililitros,causalon ibu susporal  90 mililitros,0.9505683
+caladryl incoloro spray  90 mililitros,nateglin 90 miligramos comprimidos  24,0.82288986
+caladryl incoloro spray  90 mililitros,nateglin 90 miligramos comprimidos  48,0.8218324
+caladryl corp caladryl corp deshidratada emul 400 mililitros,ibuprofeni  mujer 400 miligramos comprimidos  10,0.818109
+caladryl corp caladryl corp deshidratada emul 400 mililitros,palite  400 miligramos comprimidos  5,0.81659395
+caladryl corp caladryl corp deshidratada emul 400 mililitros,ibuprofeni  400 miligramos comprimidos  20,0.8035106
+caladryl corp caladryl corp diabetes emul 400 mililitros,ibuprofeni  mujer 400 miligramos comprimidos  10,0.8118973
+caladryl corp caladryl corp diabetes emul 400 mililitros,palite  400 miligramos comprimidos  5,0.81186146
+caladryl corp caladryl corp diabetes emul 400 mililitros,ibuprofeni  400 miligramos comprimidos  20,0.80324376
+caladryl corp caladryl corp sensible emul 400 mililitros,ibuprofeni  mujer 400 miligramos comprimidos  10,0.82098335
+caladryl corp caladryl corp sensible emul 400 mililitros,palite  400 miligramos comprimidos  5,0.81771475
+caladryl corp caladryl corp sensible emul 400 mililitros,ibuprofeni  400 miligramos comprimidos  20,0.81122357
+caladryl corp caladryl corp sensible emul 200 mililitros,cvp cellulite gel crema  200 mililitros,0.9371418
+caladryl corp caladryl corp sensible emul 200 mililitros,pervino  soltpica  200 mililitros,0.9363994
+caladryl corp caladryl corp sensible emul 200 mililitros,teosona jarabe  200 mililitros,0.93153566
+caladryl corp caladryl corp deshidratada emul 200 mililitros,pervino  soltpica  200 mililitros,0.9419502
+caladryl corp caladryl corp deshidratada emul 200 mililitros,cvp cellulite gel crema  200 mililitros,0.93544894
+caladryl corp caladryl corp deshidratada emul 200 mililitros,teosona fuerte jarabe  200 mililitros,0.93430054
+carmin comprimidos recubiertos  28,vanticon comprimidos  28,0.95299953
+carmin comprimidos recubiertos  28,rudoxil 25 miligramos comprimidos  28,0.85640055
+carmin comprimidos recubiertos  28,rudoxil 125 miligramos comprimidos  28,0.8547706
+carple  15 miligramos cpsulas  10,rabloc 10 miligramos comprimidos  15,0.96406144
+carple  15 miligramos cpsulas  10,mextran 15 miligramos compran  10,0.9365443
+carple  15 miligramos cpsulas  10,nefagrel 10 miligramos comprimidos  15,0.901956
+carple  15 miligramos cpsulas  30,pioglit 15 miligramos comprimidos  30,0.96082747
+carple  15 miligramos cpsulas  30,pioglit 30 miligramos comprimidos  15,0.9607385
+carple  15 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.874295
+carple  3 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.87224114
+carple  3 miligramos cpsulas  30,palite  100 miligramos comprimidos  30,0.8670725
+carple  3 miligramos cpsulas  30,olane xr 25 miligramos comprimidos  30,0.86447585
+carple  6 miligramos cpsulas  30,xanol 6 microgramo capsulas  30,0.91475797
+carple  6 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.873282
+carple  6 miligramos cpsulas  30,palite  100 miligramos comprimidos  30,0.87082964
+cedric balsamico concent frasco  100 mililitros,causalon ibu susporal  100 mililitros,0.9583134
+cedric balsamico concent frasco  100 mililitros,pervino  jabliq  100 mililitros,0.9528348
+cedric balsamico concent frasco  100 mililitros,plenovit vitamina c adcompmast  100,0.9462833
+cedric jarabe frasco  220 mililitros,pervino  jabon espuma jabantibactrad  220 mililitros,0.9608635
+cedric jarabe frasco  220 mililitros,pervino  jabon espuma jabantibachum  220 mililitros,0.95085096
+cedric jarabe frasco  220 mililitros,usar fibras frasco  250 mililitros,0.77802485
+cedric pocket envase  9 caramelos,plenovit magnesioc envase  350 gramos,0.7381238
+cedric pocket envase  9 caramelos,rudoxil crema 40 miligramos capsulas  28,0.73361534
+cedric pocket envase  9 caramelos,rudoxil crema 10 miligramos capsulas  28,0.7312194
+cedrimuc sobres  10,cvpforte comprimidos  10,0.94023323
+cedrimuc sobres  10,cvpflebo capsulas  10,0.934399
+cedrimuc sobres  10,cortaler novo comprimidos  10,0.91440594
+chiacaps premium cpsulas  30,plenovit ginsengc capsulas  30,0.9425689
+chiacaps premium cpsulas  30,flebitol comprimidos  30,0.93747413
+chiacaps premium cpsulas  30,cvp cellulite comprimidos  30,0.93621296
+chiacaps premium cpsulas  60,neumoterol pediatrico capsulas  60 aplic,0.9364568
+chiacaps premium cpsulas  60,neumoterol pediatrico capsulas  60 saplicador,0.93184143
+chiacaps premium cpsulas  60,plenovit multivitaminas adcomp  60,0.92490965
+cilostal 100 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.9798649
+cilostal 100 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.9775012
+cilostal 100 miligramos comprimidos  30,idesole 100 comprimidos  30,0.9671265
+cilostal 100 miligramos comprimidos  60,neumote  100 capspinhalar  60,0.92303675
+cilostal 100 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8873944
+cilostal 100 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.88627553
+cilostal 50 miligramos comprimidos  30,dafe  50 miligramos compdispers  30,0.9628973
+cilostal 50 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8866311
+cilostal 50 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8834815
+clavulo  1 gramos  14 comprimidos rec,clavulo  1 gramos comprimidos  12,0.8580068
+clavulo  1 gramos  14 comprimidos rec,mezine xr 75 miligramos comprimidos  14,0.85487646
+clavulo  1 gramos  14 comprimidos rec,mezine xr 150 miligramos comprimidos  14,0.8535169
+clavulo  500 miligramos  14 comprimidos rec,impedil 500 miligramos comprimidos  20,0.88042766
+clavulo  500 miligramos  14 comprimidos rec,mezine xr 75 miligramos comprimidos  14,0.876541
+clavulo  500 miligramos  14 comprimidos rec,misile 500 miligramos comprimidos recubierto  7,0.8764103
+clavulo  duo  70 mililitros susp oral,cefuro  250 miligramos susporal  70 mililitros,0.8046145
+clavulo  duo  70 mililitros susp oral,pulsar comprimidos  20,0.7495789
+clavulo  duo  70 mililitros susp oral,pulsar comprimidos  40,0.7487613
+concor 10 miligramos comprimidos recubiertos  30,acotral 10 miligramos comprimidos  30,0.97501355
+concor 10 miligramos comprimidos recubiertos  30,dafe  10 miligramos comprimidos  30,0.963073
+concor 10 miligramos comprimidos recubiertos  30,loreme  antialergico 10 miligramos comprimidos  30,0.9479353
+concor 25 miligramos comprimidos recubiertos  30,mosar 25 miligramos comprimidos recubierto  30,0.98603666
+concor 25 miligramos comprimidos recubiertos  30,quepaz 25 miligramos comprimidos recubierto  30,0.98303413
+concor 25 miligramos comprimidos recubiertos  30,normital 25 miligramos comprimidos  30,0.961553
+concor 5 miligramos comprimidos recubiertos  30,dafe  5 miligramos compdispers  30,0.95225894
+concor 5 miligramos comprimidos recubiertos  30,rabloc 5 miligramos comprimidos  30,0.94292164
+concor 5 miligramos comprimidos recubiertos  30,nefagrel 5 miligramos comprimidos  30,0.9040705
+concor plus 10 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.9739218
+concor plus 10 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.9730202
+concor plus 10 miligramos comprimidos  30,loreme  antialergico 10 miligramos comprimidos  30,0.9679233
+concor plus 5 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.98494834
+concor plus 5 miligramos comprimidos  30,dafe  5 miligramos compdispers  30,0.9480174
+concor plus 5 miligramos comprimidos  30,nefagrel 5 miligramos comprimidos  30,0.93817925
+contractil comprimidos  30,flebitol comprimidos  30,0.97647154
+contractil comprimidos  30,mosar plus comprimidos  30,0.9620989
+contractil comprimidos  30,akatinol comprimidos  30,0.96193504
+contractil contractil extra pack 2 en 1 capsulas  60,mosar 1% pvopsusporal  60 mililitros,0.8286384
+contractil contractil extra pack 2 en 1 capsulas  60,causalon 300 miligramos sup  2  1 gramos,0.8239926
+contractil contractil extra pack 2 en 1 capsulas  60,neumoterol pediatrico capsulas  60 saplicador,0.79969555
+contractil contractil  60 extra pack,neumoterol pediatrico capsulas  60 saplicador,0.914219
+contractil contractil  60 extra pack,neumoterol pediatrico capsulas  60 aplic,0.9085041
+contractil contractil  60 extra pack,plenovit multivitaminas adcomp  60,0.88927376
+contractil f crema  20 gramos,mosar suspgts  20 mililitros,0.9329401
+contractil f crema  20 gramos,doxtran flex comprimidos recubierto  20,0.93052363
+contractil f crema  20 gramos,doxtran gesic comprimidos recubierto  20,0.9280017
+control k 600 miligramos cpsulas  30,fingras 120 miligramos capsulas  30,0.86115223
+control k 600 miligramos cpsulas  30,intal 20 miligramos capsulas  30,0.86032134
+control k 600 miligramos cpsulas  30,fingras 60 miligramos capsulas  30,0.8592959
+control k 600 miligramos cpsulas  60,didapho 200 miligramos capsulas  60,0.86259335
+control k 600 miligramos cpsulas  60,fingras 120 miligramos capsulas  60,0.86079293
+control k 600 miligramos cpsulas  60,fingras 60 miligramos capsulas  60,0.8590622
+corosan 160 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8840481
+corosan 160 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8839754
+corosan 160 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.8813466
+corosan 320 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8851178
+corosan 320 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.88375455
+corosan 320 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.8821328
+corosan 80 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.88451934
+corosan 80 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.88335395
+corosan 80 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.8820124
+corosan d 160 miligramos 125 miligramos comprimidos  30,olane xr 125 miligramos comprimidos  30,0.90132743
+corosan d 160 miligramos 125 miligramos comprimidos  30,idesole ii 45 miligramos comprimidos  30,0.84161425
+corosan d 160 miligramos 125 miligramos comprimidos  30,pioglit 45 miligramos comprimidos  30,0.84143615
+corosan d 80 miligramos 125 miligramos comprimidos  30,olane xr 125 miligramos comprimidos  30,0.9044046
+corosan d 80 miligramos 125 miligramos comprimidos  30,idesole ii 45 miligramos comprimidos  30,0.84267545
+corosan d 80 miligramos 125 miligramos comprimidos  30,pioglit 30 miligramos comprimidos  15,0.84216547
+crisplus 120 miligramos cpsulas  30,fingras 120 miligramos capsulas  30,0.97172654
+crisplus 120 miligramos cpsulas  30,fingras 120 miligramos capsulas  60,0.8708403
+crisplus 120 miligramos cpsulas  30,fingras 120 miligramos capsulas  42,0.87057143
+crisplus 120 miligramos cpsulas  60,fingras 120 miligramos capsulas  60,0.9723755
+crisplus 120 miligramos cpsulas  60,fingras 120 miligramos capsulas  30,0.8727726
+crisplus 120 miligramos cpsulas  60,fingras 120 miligramos capsulas  42,0.8716699
+crisplus 60 miligramos cpsulas  30,fingras 60 miligramos capsulas  30,0.96911037
+crisplus 60 miligramos cpsulas  30,idesole 30 miligramos comprimidos recubierto  60,0.9430556
+crisplus 60 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.8702298
+crisplus 60 miligramos cpsulas  60,fingras 60 miligramos capsulas  60,0.8703195
+crisplus 60 miligramos cpsulas  60,fingras 120 miligramos capsulas  60,0.8701122
+crisplus 60 miligramos cpsulas  60,fingras 60 miligramos capsulas  30,0.870014
+cronopen comprimidos recubiertos  3,doxtran b 12 inyeccion frasco ampolla  3,0.8454172
+cronopen comprimidos recubiertos  3,aminofilin 200 miligramos inyectable  3,0.81551486
+cronopen comprimidos recubiertos  3,dexa aminofilin 200 miligramos inyectable  3,0.81292826
+cronopen comprimidos recubiertos  5,clare  compuesto solucion oftalmica  5 mililitros,0.92256486
+cronopen comprimidos recubiertos  5,misile 750 miligramos comprimidos recubierto  5,0.8718401
+cronopen comprimidos recubiertos  5,palite  400 miligramos comprimidos  5,0.8697298
+cronopen comprimidos recubiertos  6,doxtran b 12 inyeccion frasco ampolla  6,0.8465584
+cronopen comprimidos recubiertos  6,me  24 comprimidos  6,0.8253382
+cronopen comprimidos recubiertos  6,aminofilin 200 miligramos inyectable  6,0.8137009
+cronopen suspensin  15 mililitros,teosona solucion comprimidos  15,0.9142133
+cronopen suspensin  15 mililitros,idesole plus comprimidos  15,0.90717113
+cronopen suspensin  15 mililitros,megale  comprimidos recubierto  15,0.9035018
+cronopen suspensin  30 mililitros,ventoplus nebu multidosis envase  30 mililitros,0.94433314
+cronopen suspensin  30 mililitros,plenovit melatonina comprimidos  30,0.94040096
+cronopen suspensin  30 mililitros,pulsar plus gotas  30 mililitros,0.934136
+cronopen balsamico adult inyectable frasco ampolla  22  5 mililitros,misile 750 miligramos comprimidos recubierto  5,0.85322076
+cronopen balsamico adult inyectable frasco ampolla  22  5 mililitros,rabloc 5 miligramos comprimidos  30,0.85266334
+cronopen balsamico adult inyectable frasco ampolla  22  5 mililitros,palite  400 miligramos comprimidos  5,0.85228807
+cronopen balsamico adult inyectable frasco ampolla  44  5 mililitros,rabloc 5 miligramos comprimidos  30,0.8536578
+cronopen balsamico adult inyectable frasco ampolla  44  5 mililitros,misile 750 miligramos comprimidos recubierto  5,0.8522434
+cronopen balsamico adult inyectable frasco ampolla  44  5 mililitros,palite  400 miligramos comprimidos  5,0.85206586
+cronopen balsamico inf inyectable frasco ampolla  33  25 mililitros,olane xr 25 miligramos comprimidos  30,0.85842115
+cronopen balsamico inf inyectable frasco ampolla  33  25 mililitros,olane xr 25 miligramos comprimidos  10,0.8582032
+cronopen balsamico inf inyectable frasco ampolla  33  25 mililitros,doxtran ma  25 miligramos comprimidos recubierto  10,0.85191184
+cvp cannabidiol crema  400 gramos,palite  400 miligramos comprimidos  5,0.81784636
+cvp cannabidiol crema  400 gramos,ibuprofeni  mujer 400 miligramos comprimidos  10,0.81346995
+cvp cannabidiol crema  400 gramos,ibuprofeni  400 miligramos comprimidos  20,0.8111793
+cvp flebo comprimidos masticables  30,cvp cellulite comprimidos  30,0.9661962
+cvp flebo comprimidos masticables  30,flebitol comprimidos  30,0.95286494
+cvp flebo comprimidos masticables  30,plenovit melatonina comprimidos  30,0.94414264
+cvp flebo cvp flebo comprimidos mastic  60,mosar enzimatico comprimidos  60,0.8968796
+cvp flebo cvp flebo comprimidos mastic  60,plenovit multivitaminas adcomp  60,0.88914186
+cvp flebo cvp flebo comprimidos mastic  60,plenovit magnesioc comprimidos  60,0.88829005
+dabidane 110 miligramos cpsulas  30,rabloc 5 miligramos comprimidos  30,0.8702594
+dabidane 110 miligramos cpsulas  30,olane xr 375 miligramos comprimidos  30,0.8698634
+dabidane 110 miligramos cpsulas  30,doxolbran 4 miligramos comprimidos  30,0.86937594
+dabidane 110 miligramos cpsulas  60,rabloc 20 miligramos comprimidos  60,0.8750934
+dabidane 110 miligramos cpsulas  60,rabloc 10 miligramos comprimidos  60,0.8733271
+dabidane 110 miligramos cpsulas  60,idesole ii 45 miligramos comprimidos  60,0.8690756
+dabidane 150 miligramos cpsulas  30,olane xr 125 miligramos comprimidos  30,0.869741
+dabidane 150 miligramos cpsulas  30,mezine xr 150 miligramos comprimidos  14,0.8691984
+dabidane 150 miligramos cpsulas  30,mezine xr 150 miligramos comprimidos  28,0.8690748
+dabidane 150 miligramos cpsulas  60,rabloc 20 miligramos comprimidos  60,0.87385297
+dabidane 150 miligramos cpsulas  60,rabloc 10 miligramos comprimidos  60,0.87132
+dabidane 150 miligramos cpsulas  60,mezine xr 150 miligramos comprimidos  28,0.8690236
+dabidane 75 miligramos cpsulas  30,idesole ii 45 miligramos comprimidos  30,0.870539
+dabidane 75 miligramos cpsulas  30,rabloc 5 miligramos comprimidos  30,0.8692981
+dabidane 75 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.86891246
+dacten 16 miligramos  15 comprimidos,dacten 32 miligramos comprimidos  15,0.890913
+dacten 16 miligramos  15 comprimidos,rabloc 20 miligramos comprimidos  15,0.8810693
+dacten 16 miligramos  15 comprimidos,rabloc 10 miligramos comprimidos  15,0.8809729
+dacten 16 miligramos  30 comprimidos,dafe  10 miligramos comprimidos  30,0.8802473
+dacten 16 miligramos  30 comprimidos,olane xr 25 miligramos comprimidos  30,0.8792625
+dacten 16 miligramos  30 comprimidos,olane xr 375 miligramos comprimidos  30,0.8780475
+dacten 8 miligramos  15 comprimidos,dacten 32 miligramos comprimidos  15,0.88961273
+dacten 8 miligramos  15 comprimidos,rabloc 10 miligramos comprimidos  15,0.88056624
+dacten 8 miligramos  15 comprimidos,rabloc 20 miligramos comprimidos  15,0.88042057
+dacten 8 miligramos  30 comprimidos,dafe  10 miligramos comprimidos  30,0.88103867
+dacten 8 miligramos  30 comprimidos,olane xr 25 miligramos comprimidos  30,0.8803631
+dacten 8 miligramos  30 comprimidos,olane xr 375 miligramos comprimidos  30,0.87858254
+dacten d  15 comprimidos,teosona solucion comprimidos  15,0.9546777
+dacten d  15 comprimidos,megale  comprimidos recubierto  15,0.92551243
+dacten d  15 comprimidos,idesole plus comprimidos  15,0.90695
+dacten d  30 comprimidos,teosona solucion comprimidos  30,0.95426977
+dacten d  30 comprimidos,plenovit melatonina comprimidos  30,0.95390713
+dacten d  30 comprimidos,flebitol comprimidos  30,0.95107
+dactilus 28 comprimidos recubiertos  10 miligramos,rudoxil crema 10 miligramos capsulas  28,0.94505864
+dactilus 28 comprimidos recubiertos  10 miligramos,olane 20 miligramos comprimidos recubierto  10,0.8816529
+dactilus 28 comprimidos recubiertos  10 miligramos,acotral 10 miligramos comprimidos  10,0.8786984
+darisec 15 miligramos comprimidos  30,pioglit 15 miligramos comprimidos  30,0.98473185
+darisec 15 miligramos comprimidos  30,pioglit 30 miligramos comprimidos  15,0.98447335
+darisec 15 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.89053386
+darisec 75 miligramos comprimidos  15,rabloc 20 miligramos comprimidos  15,0.8865297
+darisec 75 miligramos comprimidos  15,rabloc 10 miligramos comprimidos  15,0.8859077
+darisec 75 miligramos comprimidos  15,dacten 32 miligramos comprimidos  15,0.8839384
+darisec 75 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.88679594
+darisec 75 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.88299865
+darisec 75 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8822074
+deltar susp oft  10 mililitros,modernel gotas  10 mililitros,0.9409638
+deltar susp oft  10 mililitros,doxtran gesic comprimidos recubierto  10,0.9064544
+deltar susp oft  10 mililitros,megale  antiacido compmast  10,0.90537107
+deltisona b 4 miligramos  20 comprimidos,rabloc 20 miligramos comprimidos  15,0.87327623
+deltisona b 4 miligramos  20 comprimidos,rabloc 20 miligramos comprimidos  60,0.8717185
+deltisona b 4 miligramos  20 comprimidos,nefazan 300 miligramos comprimidos  4,0.8714184
+deltisona b 40 miligramos  20 comprimidos,impedil 500 miligramos comprimidos  20,0.8698501
+deltisona b 40 miligramos  20 comprimidos,rabloc 20 miligramos comprimidos  15,0.86938566
+deltisona b 40 miligramos  20 comprimidos,impedil 250 miligramos comprimidos  20,0.8693777
+deltisona b 8 miligramos  20 comprimidos,rabloc 20 miligramos comprimidos  15,0.87221426
+deltisona b 8 miligramos  20 comprimidos,mefeni  20 miligramos comprimidos recubierto  20,0.8702174
+deltisona b 8 miligramos  20 comprimidos,rabloc 20 miligramos comprimidos  60,0.87015754
+deltisona b gotas nf  20 mililitros,mosar suspgts  20 mililitros,0.9568931
+deltisona b gotas nf  20 mililitros,cenacert susp  20 mililitros,0.95206356
+deltisona b gotas nf  20 mililitros,causalon pedgts  20 mililitros,0.95163125
+diabutil 2 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.9880928
+diabutil 2 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.88872415
+diabutil 2 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8887212
+diabutil 4 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.9894691
+diabutil 4 miligramos comprimidos  30,rolast nios 4 miligramos sobgran  30,0.94589436
+diabutil 4 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8881692
+discretest envase  1,proterenal inyeccion lioffa  1,0.8408734
+discretest envase  1,micranil inyectable  1,0.8317571
+discretest envase  1,mosar 1% pvopsusporal  60 mililitros,0.7457999
+ditropan comprimidos  20,dresan comprimidos  20,0.9648967
+ditropan comprimidos  20,cvpforte comprimidos  20,0.963934
+ditropan comprimidos  20,mucome  comprimidos  20,0.9636443
+ditropan comprimidos  30,flebitol comprimidos  30,0.97383106
+ditropan comprimidos  30,cvp cellulite comprimidos  30,0.9540922
+ditropan comprimidos  30,plenovit melatonina comprimidos  30,0.94586474
+ditropan comprimidos  50,cvpflebo capsulas  50,0.94746417
+ditropan comprimidos  50,inteligen ginseng fuerte comprimidos recubierto  50,0.927517
+ditropan comprimidos  50,plenovit ginseng capsulas  50,0.92262065
+ditropan jarabe  200 mililitros,inteligen jarabe  200 mililitros,0.97182864
+ditropan jarabe  200 mililitros,teosona fuerte jarabe  200 mililitros,0.96862775
+ditropan jarabe  200 mililitros,teosona jarabe  200 mililitros,0.965976
+ditropan ud 10 miligramos  30 comprimidos rec lib cont,dafe  10 miligramos comprimidos  30,0.9492822
+ditropan ud 10 miligramos  30 comprimidos rec lib cont,acotral 10 miligramos comprimidos  30,0.9447298
+ditropan ud 10 miligramos  30 comprimidos rec lib cont,loreme  antialergico 10 miligramos comprimidos  30,0.9221159
+ditropan ud 10 miligramos  20 comprimidos rec lib cont,olane 20 miligramos comprimidos recubierto  10,0.9661691
+ditropan ud 10 miligramos  20 comprimidos rec lib cont,acotral 10 miligramos comprimidos  20,0.94408244
+ditropan ud 10 miligramos  20 comprimidos rec lib cont,olane 20 miligramos comprimidos recubierto  30,0.8663171
+ditropan ud 15 miligramos  30 comprimidos rec lib cont,pioglit 15 miligramos comprimidos  30,0.95578164
+ditropan ud 15 miligramos  30 comprimidos rec lib cont,pioglit 30 miligramos comprimidos  15,0.955289
+ditropan ud 15 miligramos  30 comprimidos rec lib cont,mosar 25 miligramos comprimidos recubierto  30,0.86562914
+ditropan ud 15 miligramos  20 comprimidos rec lib cont,rabloc 20 miligramos comprimidos  15,0.932227
+ditropan ud 15 miligramos  20 comprimidos rec lib cont,olmec 20 miligramos comprimidos  15,0.9225582
+ditropan ud 15 miligramos  20 comprimidos rec lib cont,mextran 15 miligramos compran  20,0.9190706
+ditropan ud 5 miligramos  30 comprimidos rec lib cont,dafe  5 miligramos compdispers  30,0.95595026
+ditropan ud 5 miligramos  30 comprimidos rec lib cont,rabloc 5 miligramos comprimidos  30,0.9278245
+ditropan ud 5 miligramos  30 comprimidos rec lib cont,nefagrel 5 miligramos comprimidos  30,0.91221935
+ditropan ud 5 miligramos  20 comprimidos rec lib cont,olane 20 miligramos comprimidos recubierto  30,0.86829686
+ditropan ud 5 miligramos  20 comprimidos rec lib cont,olane 20 miligramos comprimidos recubierto  10,0.8680637
+ditropan ud 5 miligramos  20 comprimidos rec lib cont,mosar 5 miligramos comprimidos recubierto  40,0.86745065
+diva comprimidos recubiertos  28,vanticon comprimidos  28,0.94815797
+diva comprimidos recubiertos  28,rudoxil 25 miligramos comprimidos  28,0.85030234
+diva comprimidos recubiertos  28,rudoxil crema 80 miligramos capsulas  28,0.84910756
+diva comprimidos recubiertos  28 stroquel,vanticon comprimidos  28,0.93843496
+diva comprimidos recubiertos  28 stroquel,mezine xr 75 miligramos comprimidos  28,0.8487141
+diva comprimidos recubiertos  28 stroquel,mezine xr 150 miligramos comprimidos  28,0.8455508
+diva comprimidos recubiertos  56,vanticon comprimidos  56,0.94469506
+diva comprimidos recubiertos  56,megale  comprimidos recubierto  15,0.77952886
+diva comprimidos recubiertos  56,kalter forte comprimidos recubierto  30,0.7786491
+diva total comprimidos recubiertos  56,vanticon comprimidos  56,0.9452264
+diva total comprimidos recubiertos  56,megale  comprimidos recubierto  15,0.77972007
+diva total comprimidos recubiertos  56,kalter forte comprimidos recubierto  30,0.77638644
+diva total comprimidos  24  4 de placebo,doxolbran 4 miligramos comprimidos  30,0.860063
+diva total comprimidos  24  4 de placebo,loreme  antigripal comprimidos  24,0.85368365
+diva total comprimidos  24  4 de placebo,nefazan 300 miligramos comprimidos  4,0.8501349
+diva total comprimidos  24  4 stroquel,me  24 comprimidos  6,0.8575952
+diva total comprimidos  24  4 stroquel,doxolbran 4 miligramos comprimidos  30,0.8480411
+diva total comprimidos  24  4 stroquel,loreme  antigripal comprimidos  24,0.8402868
+divina comprimidos recubiertos  28,vanticon comprimidos  28,0.93844783
+divina comprimidos recubiertos  28,mezine xr 75 miligramos comprimidos  28,0.84180695
+divina comprimidos recubiertos  28,mezine xr 225 miligramos comprimidos  28,0.8412554
+divina comprimidos recubiertos  28 stroquel,vanticon comprimidos  28,0.92536455
+divina comprimidos recubiertos  28 stroquel,mezine xr 75 miligramos comprimidos  28,0.83867776
+divina comprimidos recubiertos  28 stroquel,mezine xr 150 miligramos comprimidos  28,0.8353064
+divina comprimidos recubiertos  84,nateglin 30 miligramos comprimidos  84,0.831198
+divina comprimidos recubiertos  84,nateglin 120 miligramos comprimidos  84,0.8274748
+divina comprimidos recubiertos  84,nateglin 90 miligramos comprimidos  84,0.8272046
+dolonervobion 10000 6 pampnf,doxtran b 12 inyeccion frasco ampolla  6,0.82691634
+dolonervobion 10000 6 pampnf,aminofilin 200 miligramos inyectable  6,0.8182013
+dolonervobion 10000 6 pampnf,xanol 6 microgramo capsulas  60,0.8169778
+dolonervobion cpsulas  20,cvpflebo capsulas  20,0.9568038
+dolonervobion cpsulas  20,cvpforte comprimidos  20,0.9394666
+dolonervobion cpsulas  20,dresan comprimidos  20,0.9284063
+dos dias n comprimidos  2,edictum 2 miligramos comprimidos  10,0.8626551
+dos dias n comprimidos  2,doxolbran 2 miligramos comprimidos  30,0.84314835
+dos dias n comprimidos  2,omate  40 miligramos jeringa prellenada  2,0.8327787
+dutide 14 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8825524
+dutide 14 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.88178855
+dutide 14 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.8814975
+dutide 3 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8835543
+dutide 3 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.88238364
+dutide 3 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8812352
+dutide 7 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8840479
+dutide 7 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.88108784
+dutide 7 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.88089293
+duranil lquido frasco  200 mililitros,pervino  quirurgico envase  200 mililitros,0.96720815
+duranil lquido frasco  200 mililitros,pervino  jabliq  200 mililitros,0.9454709
+duranil lquido frasco  200 mililitros,teosona fuerte jarabe  200 mililitros,0.9440589
+egestan folico 1 miligramos comprimidos  30,pioglit 15 miligramos comprimidos  30,0.87469226
+egestan folico 1 miligramos comprimidos  30,pioglit 30 miligramos comprimidos  15,0.874038
+egestan folico 1 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8739556
+egestan folico 1 miligramos comprimidos  60,mosar 1% pvopsusporal  60 mililitros,0.93489254
+egestan folico 1 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.87301826
+egestan folico 1 miligramos comprimidos  60,doxolbran 1 miligramos comprimidos  20,0.8713253
+egestan folico 5 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.96831274
+egestan folico 5 miligramos comprimidos  30,dafe  5 miligramos compdispers  30,0.9548204
+egestan folico 5 miligramos comprimidos  30,nefagrel 5 miligramos comprimidos  30,0.935522
+egestan folico 5 miligramos comprimidos  60,idesole ii 45 miligramos comprimidos  60,0.8762442
+egestan folico 5 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8713591
+egestan folico 5 miligramos comprimidos  60,palite  400 miligramos comprimidos  5,0.87101614
+egestan 10 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.969625
+egestan 10 miligramos comprimidos  60,safoxen 500 miligramos comprimidos  10,0.8746621
+egestan 10 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  15,0.871852
+egestan 10 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.9679219
+egestan 10 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.96286315
+egestan 10 miligramos comprimidos  30,loreme  antialergico 10 miligramos comprimidos  30,0.9603167
+ellering anillo vaginal envase  1,proterenal inyeccion lioffa  1,0.90129673
+ellering anillo vaginal envase  1,micranil inyectable  1,0.889777
+ellering anillo vaginal envase  1,mosar 1% pvopsusporal  60 mililitros,0.788956
+elpi lip comprimidos  30,flebitol comprimidos  30,0.9699402
+elpi lip comprimidos  30,akatinol comprimidos  30,0.95106137
+elpi lip comprimidos  30,mosar plus comprimidos  30,0.9487619
+epamin cpsulas frasco por 30,mosar enzimatico comprimidos  30,0.9633173
+epamin cpsulas frasco por 30,holomagnesio vital comprimidos recubierto  30,0.9495915
+epamin cpsulas frasco por 30,kalter forte comprimidos recubierto  30,0.9492929
+epamin cpsulas frasco por 60,mosar enzimatico comprimidos  60,0.9625264
+epamin cpsulas frasco por 60,neumoterol pediatrico capsulas  60 aplic,0.9503365
+epamin cpsulas frasco por 60,plenovit magnesioc comprimidos  60,0.94569576
+epamin cpsulas frasco por 90,causalon ibu susporal  90 mililitros,0.9395793
+epamin cpsulas frasco por 90,nateglin 90 miligramos comprimidos  24,0.8239631
+epamin cpsulas frasco por 90,nateglin 90 miligramos comprimidos  84,0.8236684
+epamin lquido frasco por 120 mililitros,causalon ibu susporal  120 mililitros,0.94236356
+epamin lquido frasco por 120 mililitros,causalon bronquial susp  120 mililitros,0.9281294
+epamin lquido frasco por 120 mililitros,causalon pro susp  120 mililitros,0.9271909
+equifem comprimidos rec  28,vanticon comprimidos  28,0.9394069
+equifem comprimidos rec  28,mezine xr 75 miligramos comprimidos  28,0.8331121
+equifem comprimidos rec  28,mezine xr 225 miligramos comprimidos  28,0.83275944
+equilea 1000 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8799344
+equilea 1000 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.8777367
+equilea 1000 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.87716955
+equilea 1000 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8823769
+equilea 1000 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8808224
+equilea 1000 miligramos comprimidos  60,idesole ii 45 miligramos comprimidos  60,0.8675739
+equilea 500 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.8805936
+equilea 500 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.88010985
+equilea 500 miligramos comprimidos  30,impedil 500 miligramos comprimidos  20,0.8795281
+equilea 500 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.883502
+equilea 500 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.88184756
+equilea 500 miligramos comprimidos  60,impedil 500 miligramos comprimidos  20,0.879852
+eritromicina elea gotas oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.91509086
+eritromicina elea gotas oft  5 mililitros,palite  400 miligramos comprimidos  5,0.8544486
+eritromicina elea gotas oft  5 mililitros,rabloc 5 miligramos comprimidos  30,0.8492455
+eritromicina elea unguento oftalmico  35 gramos,pervino  antiseptico bucal extra mint  65 mililitros,0.76474184
+eritromicina elea unguento oftalmico  35 gramos,pervino  antiseptico bucal extra mint  240 mililitros,0.7638984
+eritromicina elea unguento oftalmico  35 gramos,pervino  antiseptico bucal extra mint  480 mililitros,0.76373976
+esclerovitan antioxid cpsulas  30,akatinol comprimidos  30,0.9334822
+esclerovitan antioxid cpsulas  30,plenovit melatonina comprimidos  30,0.9328347
+esclerovitan antioxid cpsulas  30,flebitol comprimidos  30,0.9325602
+esclerovitan antioxid cpsulas  60,plenovit multivitaminas adcomp  60,0.9383205
+esclerovitan antioxid cpsulas  60,neumoterol pediatrico capsulas  60 aplic,0.9328506
+esclerovitan antioxid cpsulas  60,neumoterol pediatrico capsulas  60 saplicador,0.9297529
+esclerovitan e cpsulas  100,plenovit vitamina c adcompmast  100,0.9316994
+esclerovitan e cpsulas  100,pervino  soltpica  100 mililitros,0.91820574
+esclerovitan e cpsulas  100,cutidermin pvotalq  100 gramos,0.9138044
+esclerovitan e cpsulas  50,cvpflebo capsulas  50,0.9330288
+esclerovitan e cpsulas  50,inteligen ginseng fuerte comprimidos recubierto  50,0.924337
+esclerovitan e cpsulas  50,causalon comprimidos  50,0.9170915
+eslipel 100 miligramos 100 miligramos com  28,misile 500 miligramos inyvial  1  100 mililitros,0.83199775
+eslipel 100 miligramos 100 miligramos com  28,dexa aminofilin 200 miligramos jarabe  100 mililitros,0.82987154
+eslipel 100 miligramos 100 miligramos com  28,mezine xr 150 miligramos comprimidos  28,0.8178339
+eslipel 25 miligramos 25 miligramos com  28,rudoxil 25 miligramos comprimidos  28,0.8787351
+eslipel 25 miligramos 25 miligramos com  28,mezine xr 75 miligramos comprimidos  28,0.81850994
+eslipel 25 miligramos 25 miligramos com  28,mezine xr 150 miligramos comprimidos  28,0.8182695
+eslipel 50 miligramos 50 miligramos com  28,mezine xr 150 miligramos comprimidos  28,0.81719816
+eslipel 50 miligramos 50 miligramos com  28,mezine xr 75 miligramos comprimidos  28,0.81563425
+eslipel 50 miligramos 50 miligramos com  28,amenicil 300 miligramos grag  50,0.8123542
+eslipel met 501000 miligramos comprimidos  30,nateglin 30 miligramos comprimidos  24,0.8703564
+eslipel met 501000 miligramos comprimidos  30,nateglin 30 miligramos comprimidos  84,0.87026614
+eslipel met 501000 miligramos comprimidos  30,nateglin 30 miligramos comprimidos  48,0.8701586
+eslipel met 501000 miligramos comprimidos  60,nefazan 75 miligramos comprimidos  60,0.86872715
+eslipel met 501000 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.86370146
+eslipel met 501000 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.86254156
+eslipel met 50850 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.86946034
+eslipel met 50850 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.86779076
+eslipel met 50850 miligramos comprimidos  60,nefazan 75 miligramos comprimidos  60,0.86558867
+euthyro  100 microgramo comprimidos  50,neumote  nasal ped 50 microgramo spray  100 dosis,0.9373294
+euthyro  100 microgramo comprimidos  50,doxtran 50 miligramos comprimidos recubierto  100,0.9373096
+euthyro  100 microgramo comprimidos  50,idesole 100 comprimidos  15,0.8574164
+euthyro  112 microgramo comprimidos  50,dexa aminofilin 300 miligramos comprimidos  50,0.8422893
+euthyro  112 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.84180653
+euthyro  112 microgramo comprimidos  50,doxtran 50 miligramos comprimidos recubierto  20,0.8350793
+euthyro  125 microgramo comprimidos  50,rudoxil 125 miligramos comprimidos  28,0.8562797
+euthyro  125 microgramo comprimidos  50,rinisona bronquial 125 microgramo aer  120 dosis,0.85624295
+euthyro  125 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.853875
+euthyro  137 microgramo comprimidos  50,dexa aminofilin 300 miligramos comprimidos  50,0.8477085
+euthyro  137 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.84349614
+euthyro  137 microgramo comprimidos  50,doxtran 50 miligramos comprimidos recubierto  20,0.8393373
+euthyro  150 microgramo comprimidos  50,mezine xr 150 miligramos comprimidos  28,0.85415167
+euthyro  150 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.85307306
+euthyro  150 microgramo comprimidos  50,mezine xr 150 miligramos comprimidos  14,0.8529826
+euthyro  175 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.8493121
+euthyro  175 microgramo comprimidos  50,dexa aminofilin 300 miligramos comprimidos  50,0.84907216
+euthyro  175 microgramo comprimidos  50,fenisona 50 microgramo spray nas  140 dosis,0.84141445
+euthyro  200 microgramo comprimidos  50,neumote  nasal ped 50 microgramo spray  200 dosis,0.9404589
+euthyro  200 microgramo comprimidos  50,teosona 200 miligramos dividosis comprimidos  50,0.9186031
+euthyro  200 microgramo comprimidos  50,inastmol 200 miligramos comprimidos  20,0.8569752
+euthyro  25 microgramo comprimidos  50,rudoxil 25 miligramos comprimidos  28,0.8606619
+euthyro  25 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.8530732
+euthyro  25 microgramo comprimidos  50,dexa aminofilin 300 miligramos comprimidos  50,0.850987
+euthyro  50 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.8525815
+euthyro  50 microgramo comprimidos  50,dexa aminofilin 300 miligramos comprimidos  50,0.8498177
+euthyro  50 microgramo comprimidos  50,fenisona 50 microgramo spray nas  140 dosis,0.8443251
+euthyro  75 microgramo comprimidos  50,mezine xr 75 miligramos comprimidos  28,0.8536301
+euthyro  75 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.8526521
+euthyro  75 microgramo comprimidos  50,mezine xr 75 miligramos comprimidos  14,0.85228354
+euthyro  88 microgramo comprimidos  50,dexa aminofilin 300 miligramos comprimidos  50,0.8448326
+euthyro  88 microgramo comprimidos  50,rinisona bronquial 50 microgramo aer  120 dosis,0.84442276
+euthyro  88 microgramo comprimidos  50,doxtran 50 miligramos comprimidos recubierto  20,0.8362109
+evacare crema evacare crema vaginal  35 gramos,pervino  antiseptico bucal fruit  240 mililitros,0.7150837
+evacare crema evacare crema vaginal  35 gramos,pervino  antiseptico bucal fruit  480 mililitros,0.71464354
+evacare crema evacare crema vaginal  35 gramos,pervino  antiseptico bucal fresh mint  480 mililitros,0.71423286
+evacare gyno capsulas  1,proterenal inyeccion lioffa  1,0.9433171
+evacare gyno capsulas  1,micranil inyectable  1,0.9158516
+evacare gyno capsulas  1,omate  40 miligramos jeringa prellenada  1,0.8345657
+evacare ovulos evacare ovulos  1,proterenal inyeccion lioffa  1,0.874106
+evacare ovulos evacare ovulos  1,micranil inyectable  1,0.8433884
+evacare ovulos evacare ovulos  1,omate  40 miligramos jeringa prellenada  1,0.78425604
+evacopa d 40 t 1  1,omate  40 miligramos jeringa prellenada  1,0.8486457
+evacopa d 40 t 1  1,omate  40 miligramos jeringa prellenada  2,0.77980113
+evacopa d 40 t 1  1,mosar 1% pvopsusporal  60 mililitros,0.7766533
+evacopa d 44 t 2  1,causalon 300 miligramos sup  2  1 gramos,0.8337783
+evacopa d 44 t 2  1,omate  40 miligramos jeringa prellenada  1,0.79141617
+evacopa d 44 t 2  1,proterenal inyeccion lioffa  1,0.79079247
+evacopa d 48 t 3  1,gero h 3 aslan a  6,0.7870118
+evacopa d 48 t 3  1,omate  40 miligramos jeringa prellenada  1,0.7861481
+evacopa d 48 t 3  1,proterenal inyeccion lioffa  1,0.78485155
+evagina jabon espuma  240 mililitros,pervino  antiseptico bucal fresh mint  240 mililitros,0.95121163
+evagina jabon espuma  240 mililitros,pervino  antiseptico bucal extra mint  240 mililitros,0.9477383
+evagina jabon espuma  240 mililitros,pervino  antiseptico bucal fruit  240 mililitros,0.9403769
+evagina toallitas humedas  20,pulsar forte comprimidos  20,0.94041884
+evagina toallitas humedas  20,doxtran flex comprimidos recubierto  20,0.93467224
+evagina toallitas humedas  20,mefeni  rela  comprimidos  20,0.9334359
+kit evagina kit regalo evagina,aguja espinal puncion lumbar 21 gramos  312 phoeni  um unidad,0.70649546
+kit evagina kit regalo evagina,allopurinol phoeni  300 miligramos capsulas  20,0.70366406
+kit evagina kit regalo evagina,allopurinol phoeni  300 miligramos capsulas  100,0.70291513
+evagina gel pomo  50 mililitros,doxtran gel pomo  50 gramos,0.9323815
+evagina gel pomo  50 mililitros,inteligen ginseng fuerte comprimidos recubierto  50,0.909083
+evagina gel pomo  50 mililitros,doxtran ma  gel  50 gramos,0.8983289
+evagina evagina rutina completa pack ahorro,teosona 300 miligramos dividosis comprimidos  20,0.7204061
+evagina evagina rutina completa pack ahorro,teosona 300 miligramos dividosis comprimidos  50,0.7190834
+evagina evagina rutina completa pack ahorro,teosona 200 miligramos dividosis comprimidos  20,0.7189822
+evagina jabon liquido  200 mililitros,pervino  quirurgico envase  200 mililitros,0.9631955
+evagina jabon liquido  200 mililitros,pervino  jabliq  200 mililitros,0.95529574
+evagina jabon liquido  200 mililitros,pervino  soltpica  200 mililitros,0.9534085
+evagina deo intimo,aguja epidural tuohy 18 gramos  phoeni  unidad de medida unidad,0.71137124
+evagina deo intimo,teosona 300 miligramos dividosis comprimidos  20,0.70581156
+evagina deo intimo,teosona 300 miligramos dividosis comprimidos  50,0.7055983
+evagina intimo  30 mililitros,ventoplus nebu multidosis envase  30 mililitros,0.90902746
+evagina intimo  30 mililitros,holomagnesio vital comprimidos recubierto  30,0.90414083
+evagina intimo  30 mililitros,plenovit melatonina comprimidos  30,0.9001759
+evagina evagina higiene 30 ff pack ahorro,plenovit vitamina e adcomp  30,0.9185665
+evagina evagina higiene 30 ff pack ahorro,kalter forte comprimidos recubierto  30,0.909839
+evagina evagina higiene 30 ff pack ahorro,plenovit vitamina c adcompmast  30,0.90964305
+evagina tradepack evagina tradepack lnea,pervino  antiseptico bucal extra mint  480 mililitros,0.702719
+evagina tradepack evagina tradepack lnea,pervino  antiseptico bucal fresh mint  240 mililitros,0.70263255
+evagina tradepack evagina tradepack lnea,pervino  antiseptico bucal extra mint  240 mililitros,0.7024278
+evaplan digital envase  7,mezine xr 375 miligramos comprimidos  7,0.8049125
+evaplan digital envase  7,akatinol 20 miligramos comprimidos  7,0.8006227
+evaplan digital envase  7,misile 500 miligramos comprimidos recubierto  7,0.7815754
+evatest classic envase  1,proterenal inyeccion lioffa  1,0.9377276
+evatest classic envase  1,micranil inyectable  1,0.9091508
+evatest classic envase  1,omate  40 miligramos jeringa prellenada  1,0.83214885
+evatest digital envase  1,proterenal inyeccion lioffa  1,0.9301806
+evatest digital envase  1,micranil inyectable  1,0.91421425
+evatest digital envase  1,omate  40 miligramos jeringa prellenada  1,0.8222911
+evatest easy plus envase  1,proterenal inyeccion lioffa  1,0.9287771
+evatest easy plus envase  1,micranil inyectable  1,0.9014746
+evatest easy plus envase  1,mosar 1% pvopsusporal  60 mililitros,0.82752424
+evatest simple test  1,proterenal inyeccion lioffa  1,0.91924965
+evatest simple test  1,micranil inyectable  1,0.91199243
+evatest simple test  1,mosar 1% pvopsusporal  60 mililitros,0.8186367
+evatest classic promo evatest classic promo aniversario,pervino  solucion 10% botella  1 litro phoeni  botella  1 litro,0.7157728
+evatest classic promo evatest classic promo aniversario,aguja espinal punta lapiz 25 gramos 5 cintrod  phoeni  caja  50 unidad  umunidad,0.7117703
+evatest classic promo evatest classic promo aniversario,aguja espinal punta lapiz 27 gramos 5 cintrod  phoeni  caja  50 unidad  umunidad,0.7103942
+evra parche  3,doxtran b 12 inyeccion frasco ampolla  3,0.80904216
+evra parche  3,aminofilin 200 miligramos inyectable  3,0.7852051
+evra parche  3,dexa aminofilin 200 miligramos inyectable  3,0.7758537
+falgos comprimidos  12,loreme  antigripal comprimidos  12,0.9322677
+falgos comprimidos  12,agiofibras sobres  12,0.9272607
+falgos comprimidos  12,agiola  sobres  12,0.91402924
+falgos expendedor xpendedor  25 bl,pulsar gotas  25 mililitros,0.87940615
+falgos expendedor xpendedor  25 bl,respisol spray nasal  25 mililitros,0.87783283
+falgos expendedor xpendedor  25 bl,causalon gotas  25 mililitros,0.87729627
+feen a mint chicles  18,aguja epidural tuohy 18 gramos  phoeni  unidad de medida unidad,0.85150033
+feen a mint chicles  18,modernel gotas  10 mililitros,0.7029708
+feen a mint chicles  18,neumote  nebu envase  20 mililitros,0.7014316
+feen a mint chi men  6 d 20 chicle menta expend de 20 est  6,olane 20 miligramos comprimidos recubierto  30,0.7641919
+feen a mint chi men  6 d 20 chicle menta expend de 20 est  6,olane 20 miligramos comprimidos recubierto  10,0.7637941
+feen a mint chi men  6 d 20 chicle menta expend de 20 est  6,causalon para nios 80 miligramos frambcompmast  20,0.76124215
+femexin comprimidos  21,flebitol comprimidos  30,0.77551496
+femexin comprimidos  21,cvpforte comprimidos  20,0.7739323
+femexin comprimidos  21,cvpforte comprimidos  10,0.773097
+femexin 28 comprimidos  28,rudoxil 25 miligramos comprimidos  28,0.8524784
+femexin 28 comprimidos  28,rudoxil 625 miligramos comprimidos  28,0.8517099
+femexin 28 comprimidos  28,rudoxil 125 miligramos comprimidos  28,0.84987396
+femorel comprimidos  1,proterenal inyeccion lioffa  1,0.94737786
+femorel comprimidos  1,micranil inyectable  1,0.90174854
+femorel comprimidos  1,clavulo  1 gramos comprimidos  12,0.8574775
+femorel comprimidos  3,doxtran b 12 inyeccion frasco ampolla  3,0.83426636
+femorel comprimidos  3,aminofilin 200 miligramos inyectable  3,0.8062442
+femorel comprimidos  3,dexa aminofilin 200 miligramos inyectable  3,0.80176175
+femorel iv inyectable  1,micranil inyectable  1,0.9485327
+femorel iv inyectable  1,proterenal inyeccion lioffa  1,0.91844636
+femorel iv inyectable  1,mosar 1% pvopsusporal  60 mililitros,0.81597
+femorel ma  comprimidos  1  30 compr,acotral 10 miligramos comprimidos  30,0.8590572
+femorel ma  comprimidos  1  30 compr,palite  100 miligramos comprimidos  30,0.857271
+femorel ma  comprimidos  1  30 compr,mosar enzimatico comprimidos  30,0.85643524
+fenisona spray nasal  120 d,neumoterol pediatrico capsulas  120 aplic,0.91340667
+fenisona spray nasal  120 d,neumoterol pediatrico capsulas  120 saplicador,0.9126466
+fenisona spray nasal  120 d,mucome  jarabe  120 mililitros,0.8987945
+fenisona spray nasal  60 d,neumoterol pediatrico capsulas  60 aplic,0.9137007
+fenisona spray nasal  60 d,mosar plus comprimidos  60,0.9133985
+fenisona spray nasal  60 d,neumoterol pediatrico capsulas  60 saplicador,0.912426
+fensartan 100 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.9620277
+fensartan 100 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.95944476
+fensartan 100 miligramos comprimidos  30,dafe  100 miligramos compdispers  30,0.9480412
+fensartan 50 miligramos comprimidos  30,dafe  50 miligramos compdispers  30,0.9416571
+fensartan 50 miligramos comprimidos  30,nateglin 30 miligramos comprimidos  24,0.88040936
+fensartan 50 miligramos comprimidos  30,nateglin 30 miligramos comprimidos  48,0.88035566
+fensartan 50 miligramos comprimidos  60,dexa aminofilin 300 miligramos comprimidos  50,0.87415177
+fensartan 50 miligramos comprimidos  60,nefazan 75 miligramos comprimidos  60,0.8693573
+fensartan 50 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8686087
+fensartan cronos comprimidos  30,plenovit melatonina comprimidos  30,0.9377106
+fensartan cronos comprimidos  30,akatinol comprimidos  30,0.9332378
+fensartan cronos comprimidos  30,flebitol comprimidos  30,0.9306642
+fensartan d comprimidos  30,plenovit melatonina comprimidos  30,0.94327843
+fensartan d comprimidos  30,akatinol comprimidos  30,0.9415546
+fensartan d comprimidos  30,flebitol comprimidos  30,0.9354318
+fensartan unima  100 miligramos 5 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8864257
+fensartan unima  100 miligramos 5 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.8834128
+fensartan unima  100 miligramos 5 miligramos comprimidos  30,nefagrel 5 miligramos comprimidos  30,0.8797992
+fensartan unima  50 miligramos 5 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.88787717
+fensartan unima  50 miligramos 5 miligramos comprimidos  30,nefagrel 5 miligramos comprimidos  30,0.881325
+fensartan unima  50 miligramos 5 miligramos comprimidos  30,dafe  5 miligramos compdispers  30,0.87920076
+fito chiacaps cpsulas  30,pervino  gasa  30,0.9419416
+fito chiacaps cpsulas  30,teosona solucion comprimidos  30,0.9393307
+fito chiacaps cpsulas  30,plenovit ginsengc capsulas  30,0.93767774
+fito chiacaps cpsulas  60,neumoterol pediatrico capsulas  60 aplic,0.93454015
+fito chiacaps cpsulas  60,neumoterol pediatrico capsulas  60 saplicador,0.92649543
+fito chiacaps cpsulas  60,plenovit magnesioc comprimidos  60,0.9210439
+flenomid xr 100 miligramos cpsulas  30,idesole 100 comprimidos  30,0.9320792
+flenomid xr 100 miligramos cpsulas  30,palite  100 miligramos comprimidos  30,0.92274296
+flenomid xr 100 miligramos cpsulas  30,normital 100 miligramos comprimidos  30,0.91512364
+flenomid xr 200 miligramos cpsulas  30,dafe  200 miligramos compdispers  30,0.91832066
+flenomid xr 200 miligramos cpsulas  30,quepaz 200 miligramos comprimidos recubierto  30,0.89047706
+flenomid xr 200 miligramos cpsulas  30,flebitol comprimidos  30,0.842017
+flevoma  500 miligramos comprimidos  30,impedil 500 miligramos comprimidos  20,0.88583845
+flevoma  500 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.88528305
+flevoma  500 miligramos comprimidos  30,safoxen 500 miligramos comprimidos  10,0.88442546
+flevoma  1000 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.8856952
+flevoma  1000 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.8826894
+flevoma  1000 miligramos comprimidos  30,pioglit 30 miligramos comprimidos  15,0.8810674
+flevoma  500 miligramos comprimidos  60,impedil 500 miligramos comprimidos  20,0.8869377
+flevoma  500 miligramos comprimidos  60,safoxen 500 miligramos comprimidos  10,0.8856051
+flevoma  500 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.88318163
+florence comprimidos  21,aguja espinal puncion lumbar 21 gramos  312 phoeni  um unidad,0.77969545
+florence comprimidos  21,pulsar comprimidos  20,0.7739026
+florence comprimidos  21,cvpforte comprimidos  20,0.77350724
+fosfolea 1 sobre de polvo para solucin oral,proterenal inyeccion lioffa  1,0.9269648
+fosfolea 1 sobre de polvo para solucin oral,micranil inyectable  1,0.87706685
+fosfolea 1 sobre de polvo para solucin oral,omate  40 miligramos jeringa prellenada  1,0.8234903
+fotade  susp oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.9215821
+fotade  susp oft  5 mililitros,dafe  5 miligramos compdispers  30,0.85448116
+fotade  susp oft  5 mililitros,emivo  8 miligramos a  5,0.8403162
+fotade  ung oft  35 gramos,causalon 150 miligramos sup  10  05 gramos,0.7438285
+fotade  ung oft  35 gramos,causalon 150 miligramos sup  2  05 gramos,0.74286824
+fotade  ung oft  35 gramos,causalon 600 miligramos sup  10  2 gramos,0.74099344
+fotamicin susp oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.89588374
+fotamicin susp oft  5 mililitros,rabloc 5 miligramos comprimidos  30,0.8531761
+fotamicin susp oft  5 mililitros,dafe  5 miligramos compdispers  30,0.8484358
+fotamicin unguento oftalmico  35 gramos,tanakan 120 miligramos comprimidos  20,0.7589628
+fotamicin unguento oftalmico  35 gramos,normatensil as 250 miligramos comprimidos recubierto  20,0.758563
+fotamicin unguento oftalmico  35 gramos,normatensil as 250 miligramos comprimidos recubierto  40,0.7580455
+fote  solucion oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.9076326
+fote  solucion oft  5 mililitros,emivo  8 miligramos a  5,0.8432706
+fote  solucion oft  5 mililitros,dafe  5 miligramos compdispers  30,0.83924073
+gatimicin solucion oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.90069723
+gatimicin solucion oft  5 mililitros,rabloc 5 miligramos comprimidos  30,0.8538516
+gatimicin solucion oft  5 mililitros,palite  400 miligramos comprimidos  5,0.8458324
+gatimicin d susp oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.9184073
+gatimicin d susp oft  5 mililitros,rabloc 5 miligramos comprimidos  30,0.8526488
+gatimicin d susp oft  5 mililitros,dafe  5 miligramos compdispers  30,0.8512612
+gatimicin forte solucion oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.92400837
+gatimicin forte solucion oft  5 mililitros,dafe  5 miligramos compdispers  30,0.8492124
+gatimicin forte solucion oft  5 mililitros,misile 750 miligramos comprimidos recubierto  5,0.8451285
+geniol exp 500 miligramos  50 bl,amenicil 300 miligramos grag  50,0.8501318
+geniol exp 500 miligramos  50 bl,neumote  nasal ped 50 microgramo spray  100 dosis,0.8384568
+geniol exp 500 miligramos  50 bl,neumote  nasal ped 50 microgramo spray  200 dosis,0.83717424
+geniol geniol 500 miligramos exp 8 blister  8 64 comprimidos,impedil 500 miligramos inyectable  6  2 mililitros,0.80761963
+geniol geniol 500 miligramos exp 8 blister  8 64 comprimidos,impedil 500 miligramos inyectable  3  2 mililitros,0.8069471
+geniol geniol 500 miligramos exp 8 blister  8 64 comprimidos,impedil 500 miligramos comprimidos  20,0.80329853
+geniol geniol 500 miligramos  16 comprimidos,impedil 500 miligramos comprimidos  20,0.87387204
+geniol geniol 500 miligramos  16 comprimidos,safoxen 500 miligramos comprimidos  10,0.8702599
+geniol geniol 500 miligramos  16 comprimidos,causalon 500 miligramos comprimidos  20,0.86703277
+geniol geniol 650 miligramos exp 8 blisters  8 64 comprimidos,emivo  8 miligramos a  5,0.78763825
+geniol geniol 650 miligramos exp 8 blisters  8 64 comprimidos,emivo  8 miligramos a  1,0.7848174
+geniol geniol 650 miligramos exp 8 blisters  8 64 comprimidos,terfenadina dg comprimidos  8,0.7666988
+geniol geniol 650 miligramos  16 comprimidos,aguja epidural tuohy n 16 gramos 312 phoeni  unidad  um unidad,0.8294846
+geniol geniol 650 miligramos  16 comprimidos,terfenadina dg comprimidos  16,0.8285501
+geniol geniol 650 miligramos  16 comprimidos,intal nebu apnebul  16,0.81790566
+geniol 1 gramos comprimidos  8,emivo  8 miligramos a  1,0.93286294
+geniol 1 gramos comprimidos  8,terfenadina dg comprimidos  8,0.8627792
+geniol 1 gramos comprimidos  8,doxolbran 1 miligramos comprimidos  20,0.862239
+geniol 1 gramos frasco 50 comprimidos,teosona 300 miligramos dividosis comprimidos  50,0.8687572
+geniol 1 gramos frasco 50 comprimidos,teosona 200 miligramos dividosis comprimidos  50,0.8681808
+geniol 1 gramos frasco 50 comprimidos,doxtran 50 miligramos comprimidos recubierto  20,0.86278623
+geniol geniol 1 gramos caja  56,omate  40 miligramos jeringa prellenada  1,0.853364
+geniol geniol 1 gramos caja  56,proterenal inyeccion lioffa  1,0.8333401
+geniol geniol 1 gramos caja  56,doxolbran 1 miligramos comprimidos  20,0.81875503
+geniol plus rpida accin 12 cpsulas blandas,loreme  antigripal comprimidos  12,0.9182666
+geniol plus rpida accin 12 cpsulas blandas,agiofibras sobres  12,0.90663075
+geniol plus rpida accin 12 cpsulas blandas,agiola  sobres  12,0.8659042
+geniol plus rpida accin expendedor conteniendo 60 cpsulas blandas,neumoterol pediatrico capsulas  60 aplic,0.9434592
+geniol plus rpida accin expendedor conteniendo 60 cpsulas blandas,mosar enzimatico comprimidos  60,0.9376481
+geniol plus rpida accin expendedor conteniendo 60 cpsulas blandas,neumoterol pediatrico capsulas  60 saplicador,0.9348959
+ginelea grageas estuche  21,aguja espinal puncion lumbar 21 gramos  312 phoeni  um unidad,0.7933043
+ginelea grageas estuche  21,aguja espinal punta lapiz 21 gramos 3 12 unidad  um unidad,0.77561086
+ginelea grageas estuche  21,omate  40 miligramos jeringa prellenada  1,0.75219136
+ginelea md grageas estuche  21,aguja espinal puncion lumbar 21 gramos  312 phoeni  um unidad,0.80644
+ginelea md grageas estuche  21,aguja espinal punta lapiz 21 gramos 3 12 unidad  um unidad,0.762426
+ginelea md grageas estuche  21,omate  40 miligramos jeringa prellenada  1,0.74691504
+ginelea md grageas estuche  28,vanticon comprimidos  28,0.8904981
+ginelea md grageas estuche  28,rudoxil crema 20 miligramos capsulas  28,0.84423524
+ginelea md grageas estuche  28,rudoxil crema 80 miligramos capsulas  28,0.8439844
+glucophage 1000 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.88146466
+glucophage 1000 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8811229
+glucophage 1000 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.87852263
+glucophage 1000 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.87654525
+glucophage 1000 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.876505
+glucophage 1000 miligramos comprimidos  60,aminofilin 300 comprimidos  60,0.8635397
+glucophage 500 miligramos comprimidos  100,safoxen 500 miligramos comprimidos  10,0.8772182
+glucophage 500 miligramos comprimidos  100,impedil 500 miligramos comprimidos  20,0.86933005
+glucophage 500 miligramos comprimidos  100,allopurinol phoeni  100 miligramos comprimidos  40,0.8649406
+glucophage 500 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.8797391
+glucophage 500 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.87966454
+glucophage 500 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8787763
+glucophage 850 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8775826
+glucophage 850 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8760908
+glucophage 850 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.87541837
+glucophage 850 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8761012
+glucophage 850 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.87542254
+glucophage 850 miligramos comprimidos  60,nefazan 75 miligramos comprimidos  60,0.8592939
+glucophage xr 1000 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.88074756
+glucophage xr 1000 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.8792557
+glucophage xr 1000 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8779413
+glucophage xr 1000 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.877604
+glucophage xr 1000 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8773734
+glucophage xr 1000 miligramos comprimidos  60,aminofilin 300 comprimidos  60,0.86592895
+glucophage xr 500 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8812144
+glucophage xr 500 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.88017285
+glucophage xr 500 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8790203
+glucophage xr 500 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8774989
+glucophage xr 500 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8770802
+glucophage xr 500 miligramos comprimidos  60,safoxen 500 miligramos comprimidos  10,0.8766161
+glucophage xr 750 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8798798
+glucophage xr 750 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.87926906
+glucophage xr 750 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.87894577
+glucophage xr 750 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8786098
+glucophage xr 750 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.87798333
+glucophage xr 750 miligramos comprimidos  60,aminofilin 300 comprimidos  60,0.8630187
+glucovance 500250 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8800836
+glucovance 500250 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.8796424
+glucovance 500250 miligramos comprimidos  30,nateglin 30 miligramos comprimidos  24,0.87378246
+glucovance 500500 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8772136
+glucovance 500500 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.87595695
+glucovance 500500 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.87462646
+glucovance 500500 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8750024
+glucovance 500500 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.87418187
+glucovance 500500 miligramos comprimidos  60,aminofilin 300 comprimidos  60,0.8650165
+hepatalgina comprimidos  10,cvpforte comprimidos  10,0.9485178
+hepatalgina comprimidos  10,doxtran flex comprimidos recubierto  10,0.946379
+hepatalgina comprimidos  10,causalon grip comprimidos  10,0.9414044
+hepatalgina comprimidos  20,dresan comprimidos  20,0.9627813
+hepatalgina comprimidos  20,pulsar comprimidos  20,0.9593407
+hepatalgina comprimidos  20,pulsar forte comprimidos  20,0.958125
+hepatalgina comprimidos  40,pulsar comprimidos  40,0.9582609
+hepatalgina comprimidos  40,pulsar forte comprimidos  40,0.955966
+hepatalgina comprimidos  40,pulsar enzimatico comprimidos  40,0.9386496
+hepatalgina gotas  120 mililitros,mucome  jarabe  120 mililitros,0.9568332
+hepatalgina gotas  120 mililitros,loreme  jarabe  120 mililitros,0.9538229
+hepatalgina gotas  120 mililitros,aminofilin forte jarabe  120 mililitros,0.95236146
+hepatalgina 9 hierbas  50 mililitros,teosona 300 miligramos dividosis comprimidos  50,0.8413419
+hepatalgina 9 hierbas  50 mililitros,teosona 200 miligramos dividosis comprimidos  50,0.83924884
+hepatalgina 9 hierbas  50 mililitros,doxtran 50 miligramos comprimidos recubierto  100,0.8390396
+hepatalgina gotas  45 mililitros,pervisept gel gel  45 gramos,0.8732215
+hepatalgina gotas  45 mililitros,idesole ii 45 miligramos comprimidos  15,0.84036785
+hepatalgina gotas  45 mililitros,idesole ii 45 miligramos comprimidos  30,0.84009594
+holomagnesio comprimidos rec  20,holomagnesio antioxidante comprimidos  20,0.96712226
+holomagnesio comprimidos rec  20,dresan comprimidos  20,0.95938647
+holomagnesio comprimidos rec  20,mefeni  rela  comprimidos  20,0.95935756
+holomagnesio comprimidos rec  50,inteligen ginseng fuerte comprimidos recubierto  50,0.95042545
+holomagnesio comprimidos rec  50,cvpflebo capsulas  50,0.92950904
+holomagnesio comprimidos rec  50,causalon comprimidos  50,0.9266611
+holomagnesio comprimidos rec  100,plenovit vitamina c adcompmast  100,0.93802935
+holomagnesio comprimidos rec  100,pervino  soltpica  100 mililitros,0.9270859
+holomagnesio comprimidos rec  100,cutidermin pvotalq  100 gramos,0.9174344
+holomagnesio b 6 comprimidos rec  20,doxtran b 12 comprimidos recubierto  20,0.86426187
+holomagnesio b 6 comprimidos rec  20,doxtran gesic comprimidos recubierto  20,0.86165124
+holomagnesio b 6 comprimidos rec  20,holomagnesio antioxidante comprimidos  20,0.86104643
+holomagnesio b 6 comprimidos rec  50,doxtran 50 miligramos comprimidos recubierto  20,0.8519116
+holomagnesio b 6 comprimidos rec  50,doxtran 50 miligramos comprimidos recubierto  100,0.85151434
+holomagnesio b 6 comprimidos rec  50,doxtran 50 miligramos comprimidos recubierto  10,0.85136086
+holomagnesio integ polvo,plenovit magnesioc comprimidos  30,0.75456065
+holomagnesio integ polvo,plenovit magnesioc comprimidos  60,0.75330406
+holomagnesio integ polvo,plenovit magnesioe comprimidos  30,0.7515652
+infiltre  polvo 300 gramos,aminofilin 300 comprimidos  60,0.8487831
+infiltre  polvo 300 gramos,aminofilin 300 comprimidos  20,0.84825754
+infiltre  polvo 300 gramos,allopurinol phoeni  300 miligramos capsulas  100,0.82787055
+infiltre  comprimidos recubiertos  30,kalter forte comprimidos recubierto  30,0.9754903
+infiltre  comprimidos recubiertos  30,fioton comprimidos recubierto  30,0.97266567
+infiltre  comprimidos recubiertos  30,holomagnesio vital comprimidos recubierto  30,0.9680392
+infiltre  comprimidos  60 pack promocional,mosar enzimatico comprimidos  60,0.95338994
+infiltre  comprimidos  60 pack promocional,plenovit magnesioe comprimidos  60,0.94641286
+infiltre  comprimidos  60 pack promocional,neumoterol pediatrico capsulas  60 aplic,0.94511217
+infiltre  infiltre  mega tradepack 6 compr  3 polvo,gero h 3 aslan a  6,0.8607771
+infiltre  infiltre  mega tradepack 6 compr  3 polvo,aminofilin 200 miligramos inyectable  6,0.80857384
+infiltre  infiltre  mega tradepack 6 compr  3 polvo,aminofilin 200 miligramos inyectable  3,0.808515
+infiltre  infiltre  tradepack 3 compr  1 polvo,mosar 1% pvopsusporal  60 mililitros,0.81496394
+infiltre  infiltre  tradepack 3 compr  1 polvo,aminofilin 200 miligramos inyectable  3,0.80826026
+infiltre  infiltre  tradepack 3 compr  1 polvo,doxtran b 12 inyeccion frasco ampolla  3,0.80563676
+inmunosporin 01% solucion oft  5 mililitros,pulsar gotas 01% suspped  100 mililitros,0.8425401
+inmunosporin 01% solucion oft  5 mililitros,rabloc 5 miligramos comprimidos  30,0.8384505
+inmunosporin 01% solucion oft  5 mililitros,emivo  8 miligramos a  5,0.8281742
+ismigen comprimidos  10,cvpforte comprimidos  10,0.9644657
+ismigen comprimidos  10,cortaler novo comprimidos  10,0.9495036
+ismigen comprimidos  10,megale  antiacido compmast  10,0.94149613
+iver p 18 miligramos comprimidos  15,rabloc 20 miligramos comprimidos  15,0.87980866
+iver p 18 miligramos comprimidos  15,rabloc 10 miligramos comprimidos  15,0.87805563
+iver p 18 miligramos comprimidos  15,pioglit 45 miligramos comprimidos  15,0.8772739
+iver p 9 miligramos comprimidos  30,olane xr 375 miligramos comprimidos  30,0.8809245
+iver p 9 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8801885
+iver p 9 miligramos comprimidos  30,olane xr 125 miligramos comprimidos  30,0.87953556
+iver p 3 miligramos comprimidos  6,gero h 3 aslan a  6,0.87845427
+iver p 3 miligramos comprimidos  6,me  24 comprimidos  6,0.86006206
+iver p 3 miligramos comprimidos  6,aminofilin 200 miligramos inyectable  3,0.8421534
+iver p 6 miligramos comprimidos  6,me  24 comprimidos  6,0.86008537
+iver p 6 miligramos comprimidos  6,aminofilin 200 miligramos inyectable  6,0.8401789
+iver p 6 miligramos comprimidos  6,doxtran b 12 inyeccion frasco ampolla  6,0.83812344
+kanbis 100 miligramos por mililitro solucion oral  100 mililitros,dexa aminofilin 200 miligramos jarabe  100 mililitros,0.86570764
+kanbis 100 miligramos por mililitro solucion oral  100 mililitros,causalon ibu susporal  100 mililitros,0.8456245
+kanbis 100 miligramos por mililitro solucion oral  100 mililitros,normital 100 miligramos comprimidos  30,0.83976895
+kanbis 30 miligramos por mililitro solucion oral,pulsar plus gotas  30 mililitros,0.9486308
+kanbis 30 miligramos por mililitro solucion oral,ventoplus nebu multidosis envase  30 mililitros,0.94684714
+kanbis 30 miligramos por mililitro solucion oral,kalter forte comprimidos recubierto  30,0.94684047
+kanbis cbd 100 miligramos por mililitro solucion oral  10 mililitros,omate  100 miligramos jeringa prellenada  10,0.94186807
+kanbis cbd 100 miligramos por mililitro solucion oral  10 mililitros,quepaz 100 miligramos comprimidos recubierto  10,0.9417173
+kanbis cbd 100 miligramos por mililitro solucion oral  10 mililitros,dexa aminofilin 200 miligramos jarabe  100 mililitros,0.8670977
+karidium 10 miligramos  60 comprimidos,rabloc 10 miligramos comprimidos  60,0.97118515
+karidium 10 miligramos  60 comprimidos,olane xr 125 miligramos comprimidos  10,0.87651473
+karidium 10 miligramos  60 comprimidos,rabloc 10 miligramos comprimidos  15,0.87299204
+karidium 20 miligramos  60 comprimidos,rabloc 20 miligramos comprimidos  60,0.971851
+karidium 20 miligramos  60 comprimidos,rabloc 20 miligramos comprimidos  15,0.8736553
+karidium 20 miligramos  60 comprimidos,inastmol 200 miligramos comprimidos  20,0.87098765
+karidium 10 miligramos  15 comprimidos,rabloc 10 miligramos comprimidos  15,0.9746531
+karidium 10 miligramos  15 comprimidos,mextran 15 miligramos compran  10,0.9525115
+karidium 10 miligramos  15 comprimidos,nefagrel 10 miligramos comprimidos  15,0.930256
+karidium 10 miligramos  30 comprimidos,acotral 10 miligramos comprimidos  30,0.9683218
+karidium 10 miligramos  30 comprimidos,dafe  10 miligramos comprimidos  30,0.9652515
+karidium 10 miligramos  30 comprimidos,loreme  antialergico 10 miligramos comprimidos  30,0.95902896
+kemoter 100 miligramos  comprimidos recubiertos  30,palite  100 miligramos comprimidos  30,0.97491485
+kemoter 100 miligramos  comprimidos recubiertos  30,quepaz 100 miligramos comprimidos recubierto  30,0.97042626
+kemoter 100 miligramos  comprimidos recubiertos  30,normital 100 miligramos comprimidos  30,0.96770126
+kemoter 200 miligramos  comprimidos recubiertos  30,quepaz 200 miligramos comprimidos recubierto  30,0.97159654
+kemoter 200 miligramos  comprimidos recubiertos  30,dafe  200 miligramos compdispers  30,0.94858015
+kemoter 200 miligramos  comprimidos recubiertos  30,palite  100 miligramos comprimidos  30,0.87485415
+kemoter 25 miligramos  comprimidos recubiertos  10,quepaz 25 miligramos comprimidos recubierto  10,0.97467124
+kemoter 25 miligramos  comprimidos recubiertos  10,doxtran ma  25 miligramos comprimidos recubierto  10,0.9729374
+kemoter 25 miligramos  comprimidos recubiertos  10,olane xr 25 miligramos comprimidos  10,0.9590559
+kemoter 25 miligramos  comprimidos recubiertos  30,quepaz 25 miligramos comprimidos recubierto  30,0.97492725
+kemoter 25 miligramos  comprimidos recubiertos  30,mosar 25 miligramos comprimidos recubierto  30,0.9715967
+kemoter 25 miligramos  comprimidos recubiertos  30,normital 25 miligramos comprimidos  30,0.9680335
+kemoter xr 200 miligramos  comprimidos recubiertos  30,quepaz 200 miligramos comprimidos recubierto  30,0.9779927
+kemoter xr 200 miligramos  comprimidos recubiertos  30,dafe  200 miligramos compdispers  30,0.9588553
+kemoter xr 200 miligramos  comprimidos recubiertos  30,quepaz 200 miligramos comprimidos recubierto  10,0.87738574
+kemoter xr 300 miligramos  comprimidos recubiertos  30,quepaz 200 miligramos comprimidos recubierto  30,0.8760175
+kemoter xr 300 miligramos  comprimidos recubiertos  30,palite  100 miligramos comprimidos  30,0.8749351
+kemoter xr 300 miligramos  comprimidos recubiertos  30,quepaz 25 miligramos comprimidos recubierto  30,0.8745909
+kemoter xr 400 miligramos  comprimidos recubiertos  30,quepaz 200 miligramos comprimidos recubierto  30,0.87495524
+kemoter xr 400 miligramos  comprimidos recubiertos  30,palite  400 miligramos comprimidos  5,0.87448853
+kemoter xr 400 miligramos  comprimidos recubiertos  30,quepaz 100 miligramos comprimidos recubierto  30,0.8730352
+kemoter xr 50 miligramos  comprimidos recubiertos  30,dafe  50 miligramos compdispers  30,0.9549467
+kemoter xr 50 miligramos  comprimidos recubiertos  30,quepaz 200 miligramos comprimidos recubierto  30,0.8747522
+kemoter xr 50 miligramos  comprimidos recubiertos  30,doxtran 50 miligramos comprimidos recubierto  20,0.87471133
+lamira  100 miligramos comprimidos dispersables  30,palite  100 miligramos comprimidos  30,0.9744306
+lamira  100 miligramos comprimidos dispersables  30,normital 100 miligramos comprimidos  30,0.9712311
+lamira  100 miligramos comprimidos dispersables  30,quepaz 100 miligramos comprimidos recubierto  30,0.9699537
+lamira  100 miligramos comprimidos dispersables  60,neumote  100 capspinhalar  60,0.9065999
+lamira  100 miligramos comprimidos dispersables  60,palite  100 miligramos comprimidos  30,0.87518007
+lamira  100 miligramos comprimidos dispersables  60,palite  100 miligramos comprimidos  20,0.87387156
+lamira  200 miligramos comprimidos dispersables  30,quepaz 200 miligramos comprimidos recubierto  30,0.9703629
+lamira  200 miligramos comprimidos dispersables  30,dafe  200 miligramos compdispers  30,0.9633664
+lamira  200 miligramos comprimidos dispersables  30,acotral 10 miligramos comprimidos  30,0.8757012
+lamira  25 miligramos comprimidos dispersables  30,olane xr 25 miligramos comprimidos  30,0.9732498
+lamira  25 miligramos comprimidos dispersables  30,quepaz 25 miligramos comprimidos recubierto  30,0.97173166
+lamira  25 miligramos comprimidos dispersables  30,mosar 25 miligramos comprimidos recubierto  30,0.9714907
+lamira  50 miligramos comprimidos dispersables  10,doxtran 50 miligramos comprimidos recubierto  10,0.9678584
+lamira  50 miligramos comprimidos dispersables  10,acotral 10 miligramos comprimidos  30,0.8781875
+lamira  50 miligramos comprimidos dispersables  10,acotral 10 miligramos comprimidos  20,0.87784016
+lamira  50 miligramos comprimidos dispersables  30,dafe  50 miligramos compdispers  30,0.96320164
+lamira  50 miligramos comprimidos dispersables  30,acotral 10 miligramos comprimidos  30,0.8784942
+lamira  50 miligramos comprimidos dispersables  30,palite  100 miligramos comprimidos  30,0.873823
+lan  100 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.9854183
+lan  100 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.97593516
+lan  100 miligramos comprimidos  30,dafe  100 miligramos compdispers  30,0.97260606
+lan  25 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.98563707
+lan  25 miligramos comprimidos  30,normital 25 miligramos comprimidos  30,0.9824025
+lan  25 miligramos comprimidos  30,quepaz 25 miligramos comprimidos recubierto  30,0.971449
+lan  ep 25 miligramos comprimidos  30,mosar 25 miligramos comprimidos recubierto  30,0.97427845
+lan  ep 25 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.9741794
+lan  ep 25 miligramos comprimidos  30,quepaz 25 miligramos comprimidos recubierto  30,0.97245085
+lan  ep 50 miligramos comprimidos  30,dafe  50 miligramos compdispers  30,0.9654397
+lan  ep 50 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.875638
+lan  ep 50 miligramos comprimidos  30,mosar 25 miligramos comprimidos recubierto  30,0.8725688
+lefluma  500 miligramos comprimidos recubiertos  7,misile 500 miligramos comprimidos recubierto  7,0.9911195
+lefluma  500 miligramos comprimidos recubiertos  7,impedil 500 miligramos comprimidos  20,0.8755115
+lefluma  500 miligramos comprimidos recubiertos  7,causalon 500 miligramos comprimidos  20,0.8712231
+lefluma  750 miligramos comprimidos recubiertos  5,misile 750 miligramos comprimidos recubierto  5,0.990152
+lefluma  750 miligramos comprimidos recubiertos  5,mosar 5 miligramos comprimidos recubierto  4,0.8853536
+lefluma  750 miligramos comprimidos recubiertos  5,mosar 5 miligramos comprimidos recubierto  40,0.88466626
+leval 20 miligramos comprimidos  1,doxolbran 1 miligramos comprimidos  20,0.96174157
+leval 20 miligramos comprimidos  1,acotral 10 miligramos comprimidos  20,0.8823734
+leval 20 miligramos comprimidos  1,impedil 250 miligramos comprimidos  20,0.8813432
+leval 20 miligramos comprimidos  2,omate  20 miligramos jeringa prellenada  2,0.9426519
+leval 20 miligramos comprimidos  2,acotral 10 miligramos comprimidos  20,0.8823836
+leval 20 miligramos comprimidos  2,impedil 250 miligramos comprimidos  20,0.88103926
+leval 20 miligramos comprimidos  4,acotral 10 miligramos comprimidos  20,0.8815943
+leval 20 miligramos comprimidos  4,impedil 250 miligramos comprimidos  20,0.8800187
+leval 20 miligramos comprimidos  4,impedil 500 miligramos comprimidos  20,0.87962013
+leval 5 miligramos comprimidos  30,dafe  5 miligramos compdispers  30,0.9714444
+leval 5 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.9657241
+leval 5 miligramos comprimidos  30,nefagrel 5 miligramos comprimidos  30,0.9330839
+licuagen 100 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.98544836
+licuagen 100 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.9825393
+licuagen 100 miligramos comprimidos  30,quepaz 100 miligramos comprimidos recubierto  30,0.97858316
+licuagen 50 mgcomp  30,dafe  50 miligramos compdispers  30,0.9085439
+licuagen 50 mgcomp  30,neumote  nasal ped 50 microgramo spray  100 dosis,0.83657575
+licuagen 50 mgcomp  30,neumote  nasal ped 50 microgramo spray  200 dosis,0.8356106
+linus comprimidos  30,flebitol comprimidos  30,0.9723588
+linus comprimidos  30,cvp cellulite comprimidos  30,0.96775335
+linus comprimidos  30,teosona solucion comprimidos  30,0.953372
+linus duo cpsulas  30,flebitol comprimidos  30,0.9198333
+linus duo cpsulas  30,plenovit melatonina comprimidos  30,0.9194273
+linus duo cpsulas  30,plenovit magnesioc comprimidos  30,0.9117204
+lipe  10 miligramos comprimidos recub  30,loreme  antialergico 10 miligramos comprimidos  30,0.9691888
+lipe  10 miligramos comprimidos recub  30,dafe  10 miligramos comprimidos  30,0.96623933
+lipe  10 miligramos comprimidos recub  30,acotral 10 miligramos comprimidos  30,0.96040684
+lipe  10 miligramos comprimidos recub  28,rudoxil crema 10 miligramos capsulas  28,0.9350316
+lipe  10 miligramos comprimidos recub  28,loreme  antialergico 10 miligramos comprimidos  10,0.8698761
+lipe  10 miligramos comprimidos recub  28,loreme  antialergico 10 miligramos comprimidos  30,0.8685932
+lipe  20 miligramos comprimidos recub  30,olmec 20 miligramos comprimidos  30,0.96244526
+lipe  20 miligramos comprimidos recub  30,olane 20 miligramos comprimidos recubierto  30,0.9606089
+lipe  20 miligramos comprimidos recub  30,idesole 30 miligramos comprimidos recubierto  20,0.9590936
+lipe  40 miligramos comprimidos recub  30,olmec 40 miligramos comprimidos  30,0.9610572
+lipe  40 miligramos comprimidos recub  30,kalter 40 miligramos comprimidos recubierto  30,0.96052873
+lipe  40 miligramos comprimidos recub  30,normital 25 miligramos comprimidos  30,0.87685454
+lipe  5 miligramos comprimidos recub  30,rabloc 5 miligramos comprimidos  30,0.9683025
+lipe  5 miligramos comprimidos recub  30,dafe  5 miligramos compdispers  30,0.9473389
+lipe  5 miligramos comprimidos recub  30,nefagrel 5 miligramos comprimidos  30,0.93577045
+lipe  plus 1010 comprimidos  30,mosar plus comprimidos  30,0.86819464
+lipe  plus 1010 comprimidos  30,idesole 100 comprimidos  30,0.86652285
+lipe  plus 1010 comprimidos  30,idesole plus comprimidos  30,0.85582894
+lipe  plus 2010 comprimidos  30,mosar plus comprimidos  30,0.8701758
+lipe  plus 2010 comprimidos  30,idesole 100 comprimidos  30,0.86224943
+lipe  plus 2010 comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8583852
+lisovyr cpsulas  20,cvpflebo capsulas  20,0.9635152
+lisovyr cpsulas  20,dresan comprimidos  20,0.93830633
+lisovyr cpsulas  20,cvpforte comprimidos  20,0.9381881
+lisovyr unguento  10 gramos,doxtran gesic comprimidos recubierto  10,0.9357892
+lisovyr unguento  10 gramos,doxtran flex comprimidos recubierto  10,0.9343893
+lisovyr unguento  10 gramos,cvpflebo capsulas  10,0.9255823
+lisovyr 800 comprimidos recubiertos  20,acotral 10 miligramos comprimidos  20,0.8665103
+lisovyr 800 comprimidos recubiertos  20,palite  100 miligramos comprimidos  20,0.8663407
+lisovyr 800 comprimidos recubiertos  20,doxtran gesic comprimidos recubierto  20,0.86627394
+lisovyr 800 comprimidos recubiertos  40,pulsar enzimatico comprimidos  40,0.8592525
+lisovyr 800 comprimidos recubiertos  40,pulsar forte comprimidos  40,0.857428
+lisovyr 800 comprimidos recubiertos  40,normatensil as 250 miligramos comprimidos recubierto  40,0.8566225
+lisovyr 400 miligramos comprimidos recubiertos  20,ibuprofeni  400 miligramos comprimidos  20,0.94342387
+lisovyr 400 miligramos comprimidos recubiertos  20,teosona 400 miligramos 24 hs comprimidos  20,0.8953502
+lisovyr 400 miligramos comprimidos recubiertos  20,mefeni  20 miligramos comprimidos recubierto  20,0.88152444
+lisovyr cort crema pomo  5 grs,clare  compuesto solucion oftalmica  5 mililitros,0.85719764
+lisovyr cort crema pomo  5 grs,rabloc 5 miligramos comprimidos  30,0.81825715
+lisovyr cort crema pomo  5 grs,palite  400 miligramos comprimidos  5,0.8145894
+lisovyr crema pomo  5 grs,clare  compuesto solucion oftalmica  5 mililitros,0.85368
+lisovyr crema pomo  5 grs,rabloc 5 miligramos comprimidos  30,0.82057565
+lisovyr crema pomo  5 grs,palite  400 miligramos comprimidos  5,0.81799275
+lisovyr suspension frasco  120 mililitros,mucome  jarabe  120 mililitros,0.96298
+lisovyr suspension frasco  120 mililitros,causalon ibu susporal  120 mililitros,0.9509859
+lisovyr suspension frasco  120 mililitros,causalon bronquial susp  120 mililitros,0.9460483
+lonikan comprimidos  50,cvpflebo capsulas  50,0.9498775
+lonikan comprimidos  50,inteligen ginseng fuerte comprimidos recubierto  50,0.94671917
+lonikan comprimidos  50,plenovit ginseng capsulas  50,0.93291473
+lopred susp oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.91233253
+lopred susp oft  5 mililitros,dafe  5 miligramos compdispers  30,0.849935
+lopred susp oft  5 mililitros,misile 750 miligramos comprimidos recubierto  5,0.8370178
+lopred biotic susp oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.9159697
+lopred biotic susp oft  5 mililitros,dafe  5 miligramos compdispers  30,0.8521352
+lopred biotic susp oft  5 mililitros,rabloc 5 miligramos comprimidos  30,0.8414494
+loreme  descongestivo comprimidos  5,clare  compuesto solucion oftalmica  5 mililitros,0.9287554
+loreme  descongestivo comprimidos  5,misile 750 miligramos comprimidos recubierto  5,0.8561221
+loreme  descongestivo comprimidos  5,mosar 5 miligramos comprimidos recubierto  40,0.85460347
+lumiere vial 02 mililitros  5 miligramos,emivo  8 miligramos a  5,0.8440434
+lumiere vial 02 mililitros  5 miligramos,dafe  5 miligramos compdispers  30,0.83446723
+lumiere vial 02 mililitros  5 miligramos,teosona 200 miligramos a  5  10 mililitros,0.833609
+mileva 35 comprimidos recubiertos  21,aguja espinal puncion lumbar 21 gramos  312 phoeni  um unidad,0.8118397
+mileva 35 comprimidos recubiertos  21,aguja espinal punta lapiz 21 gramos 3 12 unidad  um unidad,0.8067183
+mileva 35 comprimidos recubiertos  21,kalter 40 miligramos comprimidos recubierto  30,0.7816648
+minicam comprimidos  10,cvpforte comprimidos  10,0.9682225
+minicam comprimidos  10,cvpflebo capsulas  10,0.94653857
+minicam comprimidos  10,causalon grip comprimidos  10,0.9412335
+miranda comprimidos  28 24  4,loreme  antigripal comprimidos  24,0.81163514
+miranda comprimidos  28 24  4,rudoxil 25 miligramos comprimidos  28,0.80864525
+miranda comprimidos  28 24  4,rudoxil crema 80 miligramos capsulas  28,0.8070279
+mosar 5 miligramos comprimidos rec  30,rabloc 5 miligramos comprimidos  30,0.965734
+mosar 5 miligramos comprimidos rec  30,dafe  5 miligramos compdispers  30,0.96225214
+mosar 5 miligramos comprimidos rec  30,nefagrel 5 miligramos comprimidos  30,0.9310622
+mosar 5 miligramos comprimidos rec  60,mosar 5 miligramos comprimidos recubierto  4,0.8844044
+mosar 5 miligramos comprimidos rec  60,mosar 5 miligramos comprimidos recubierto  40,0.8837768
+mosar 5 miligramos comprimidos rec  60,mosar 25 miligramos comprimidos recubierto  60,0.88173145
+mylanta ii comprimidos  30,flebitol comprimidos  30,0.9714097
+mylanta ii comprimidos  30,plenovit melatonina comprimidos  30,0.9667558
+mylanta ii comprimidos  30,teosona solucion comprimidos  30,0.9642972
+mylanta ii comprimidos  60,mosar enzimatico comprimidos  60,0.96027315
+mylanta ii comprimidos  60,plenovit magnesioe comprimidos  60,0.94417226
+mylanta ii comprimidos  60,plenovit magnesioc comprimidos  60,0.9436469
+mylanta ii lquido frasco por 160 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.77555746
+mylanta ii lquido frasco por 160 mililitros,ciclete  160 microgramo inhaldosis  60,0.7721183
+mylanta ii lquido frasco por 160 mililitros,arixtra 75 miligramos 06 mililitros jeringa prellenada  5,0.7663524
+mylanta ii lquido frasco por 360 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.77496725
+mylanta ii lquido frasco por 360 mililitros,arixtra 75 miligramos 06 mililitros jeringa prellenada  5,0.7663942
+mylanta ii lquido frasco por 360 mililitros,arixtra 25 miligramos 05 mililitros jeringa prellenada  5,0.7656488
+mylanta ii frutal lquido frasco por 160 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.78085846
+mylanta ii frutal lquido frasco por 160 mililitros,causalon pro 200 200 miligramos comprimidos recubierto  10,0.76689446
+mylanta ii frutal lquido frasco por 160 mililitros,causalon pro 500 500 miligramos comprimidos recubierto  10,0.76677394
+mylanta simple lquido frasco por 160 mililitros,ciclete  160 microgramo inhaldosis  60,0.78841615
+mylanta simple lquido frasco por 160 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.7733665
+mylanta simple lquido frasco por 160 mililitros,arixtra 75 miligramos 06 mililitros jeringa prellenada  5,0.7680623
+mylanta extra comprimidos masticables  24,loreme  antigripal comprimidos  24,0.9290775
+mylanta extra comprimidos masticables  24,nateglin 30 miligramos comprimidos  24,0.81354547
+mylanta extra comprimidos masticables  24,nateglin 90 miligramos comprimidos  24,0.8121474
+mylanta extra expendedor comprimidos masticables  96,plenovit magnesioc comprimidos  60,0.74312496
+mylanta extra expendedor comprimidos masticables  96,plenovit melatonina comprimidos  30,0.74288553
+mylanta extra expendedor comprimidos masticables  96,plenovit magnesioc comprimidos  30,0.74191964
+mylanta tabletas frutilla comprimidos masticables  96,plenovit melatonina comprimidos  30,0.7583162
+mylanta tabletas frutilla comprimidos masticables  96,rudoxil crema 80 miligramos capsulas  28,0.75656074
+mylanta tabletas frutilla comprimidos masticables  96,rudoxil crema 40 miligramos capsulas  28,0.75516874
+mylanta tabletas frutilla sabor frutilla estuche  24,loreme  antigripal comprimidos  24,0.9090093
+mylanta tabletas frutilla sabor frutilla estuche  24,plenovit vitamina c 1000 miligramos compmast  24,0.8180662
+mylanta tabletas frutilla sabor frutilla estuche  24,nateglin 30 miligramos comprimidos  24,0.7994018
+mylanta tabletas limon comprimidos masticables  96,teosona solucion comprimidos  30,0.76214117
+mylanta tabletas limon comprimidos masticables  96,teosona solucion comprimidos  15,0.7617313
+mylanta tabletas limon comprimidos masticables  96,plenovit melatonina comprimidos  30,0.76028365
+mylanta tabletas limon sabor limn estuche  24,loreme  antigripal comprimidos  24,0.9168721
+mylanta tabletas limon sabor limn estuche  24,plenovit vitamina c 1000 miligramos compmast  24,0.82360506
+mylanta tabletas limon sabor limn estuche  24,nateglin 30 miligramos comprimidos  24,0.8046735
+mylanta tabletas menta comprimidos masticables  96,acotral 10 miligramos comprimidos  30,0.7553815
+mylanta tabletas menta comprimidos masticables  96,acotral 10 miligramos comprimidos  20,0.75486815
+mylanta tabletas menta comprimidos masticables  96,teosona solucion comprimidos  30,0.75456554
+mylanta tabletas menta sabor menta estuche  24,loreme  antigripal comprimidos  24,0.89580566
+mylanta tabletas menta sabor menta estuche  24,plenovit vitamina c 1000 miligramos compmast  24,0.8211161
+mylanta tabletas menta sabor menta estuche  24,nateglin 30 miligramos comprimidos  24,0.79295784
+nefazan 75 miligramos  15 comprimidos rec,nefazan 75 miligramos comprimidos  60,0.8853931
+nefazan 75 miligramos  15 comprimidos rec,pioglit 15 miligramos comprimidos  30,0.8727229
+nefazan 75 miligramos  15 comprimidos rec,pioglit 15 miligramos comprimidos  15,0.8712748
+nefazan 75 miligramos  30 comprimidos rec,nefazan 75 miligramos comprimidos  60,0.8833292
+nefazan 75 miligramos  30 comprimidos rec,pioglit 30 miligramos comprimidos  30,0.87346643
+nefazan 75 miligramos  30 comprimidos rec,pioglit 30 miligramos comprimidos  15,0.8724733
+nematel 400 miligramos comprimidos masticables  3,palite  400 miligramos comprimidos  5,0.8704633
+nematel 400 miligramos comprimidos masticables  3,ibuprofeni  mujer 400 miligramos comprimidos  10,0.8660022
+nematel 400 miligramos comprimidos masticables  3,ibuprofeni  400 miligramos comprimidos  20,0.85660726
+nematel 400 miligramos comprimidos masticables  6,palite  400 miligramos comprimidos  5,0.8689598
+nematel 400 miligramos comprimidos masticables  6,ibuprofeni  mujer 400 miligramos comprimidos  10,0.86467993
+nematel 400 miligramos comprimidos masticables  6,ibuprofeni  400 miligramos comprimidos  20,0.8557028
+nematel 400 miligramos comprimidos  6,palite  400 miligramos comprimidos  5,0.8841552
+nematel 400 miligramos comprimidos  6,ibuprofeni  mujer 400 miligramos comprimidos  10,0.87400085
+nematel 400 miligramos comprimidos  6,ibuprofeni  400 miligramos comprimidos  20,0.87050587
+netunal susp frutas frasco  200 mililitros,pervino  quirurgico envase  200 mililitros,0.9492494
+netunal susp frutas frasco  200 mililitros,teosona fuerte jarabe  200 mililitros,0.90661156
+netunal susp frutas frasco  200 mililitros,pervino  jabliq  200 mililitros,0.9037621
+neumoterol 200 microgramo  120 capsulas saplic,neumoterol pediatrico capsulas  120 saplicador,0.8700884
+neumoterol 200 microgramo  120 capsulas saplic,neumoterol pediatrico capsulas  120 aplic,0.86455095
+neumoterol 200 microgramo  120 capsulas saplic,neumote  nasal ped 50 microgramo spray  200 dosis,0.8590806
+neumoterol 200 microgramo  120 capsulas caplic,neumoterol pediatrico capsulas  120 saplicador,0.86753124
+neumoterol 200 microgramo  120 capsulas caplic,neumoterol pediatrico capsulas  120 aplic,0.86476594
+neumoterol 200 microgramo  120 capsulas caplic,neumote  nasal ped 50 microgramo spray  200 dosis,0.8617199
+neumoterol 200 microgramo  60 capsulas saplic,didapho 200 miligramos capsulas  60,0.9527527
+neumoterol 200 microgramo  60 capsulas saplic,neumotide capsulas 50050 microgramo capsulas  60 apl,0.8695057
+neumoterol 200 microgramo  60 capsulas saplic,neumoterol pediatrico capsulas  60 saplicador,0.8693715
+neumoterol 200 microgramo  60 capsulas caplic,didapho 200 miligramos capsulas  60,0.9538554
+neumoterol 200 microgramo  60 capsulas caplic,neumotide capsulas 50050 microgramo capsulas  60 apl,0.86747545
+neumoterol 200 microgramo  60 capsulas caplic,neumoterol pediatrico capsulas  60 saplicador,0.86691487
+neumoterol 400 microgramo  60 capsulas caplic,neumoterol pediatrico capsulas  60 saplicador,0.86806524
+neumoterol 400 microgramo  60 capsulas caplic,neumotide capsulas 50050 microgramo capsulas  60 apl,0.8677874
+neumoterol 400 microgramo  60 capsulas caplic,neumotide capsulas 25050 microgramo capsulas  60 apl,0.8671396
+neumoterol aerosol 160 45 microgramo aer  120 dosis,rinisona bronquial 250 microgramo aer  120 dosis,0.8373645
+neumoterol aerosol 160 45 microgramo aer  120 dosis,rinisona bronquial 125 microgramo aer  120 dosis,0.83721364
+neumoterol aerosol 160 45 microgramo aer  120 dosis,rinisona bronquial 50 microgramo aer  120 dosis,0.8367583
+neumoterol aerosol 80 45 microgramo aer  120 dosis,rinisona bronquial 125 microgramo aer  120 dosis,0.83987886
+neumoterol aerosol 80 45 microgramo aer  120 dosis,rinisona bronquial 250 microgramo aer  120 dosis,0.8398366
+neumoterol aerosol 80 45 microgramo aer  120 dosis,rinisona bronquial 50 microgramo aer  120 dosis,0.83963966
+neumote  bronq forte aerosol  100 dosis 400 microgramo,neumote  nasal ped 50 microgramo spray  100 dosis,0.8699132
+neumote  bronq forte aerosol  100 dosis 400 microgramo,neumote  nasal spray  100 dosis,0.864512
+neumote  bronq forte aerosol  100 dosis 400 microgramo,neumote  100 capspinhalar  60,0.8382408
+neumote  bronquial 200 microgramo  100 dosis caeroc,dexa aminofilin 200 miligramos jarabe  100 mililitros,0.928016
+neumote  bronquial 200 microgramo  100 dosis caeroc,neumote  nasal ped 50 microgramo spray  100 dosis,0.8661666
+neumote  bronquial 200 microgramo  100 dosis caeroc,neumote  nasal ped 50 microgramo spray  200 dosis,0.8654484
+neumote  bronquial aerosol  100 dosis 200 microgramo,dexa aminofilin 200 miligramos jarabe  100 mililitros,0.9114027
+neumote  bronquial aerosol  100 dosis 200 microgramo,neumote  nasal ped 50 microgramo spray  200 dosis,0.87198126
+neumote  bronquial aerosol  100 dosis 200 microgramo,neumote  nasal ped 50 microgramo spray  100 dosis,0.87074244
+neumote  bronquial aerosol  200 dosis 200 microgramo,neumote  nasal ped 50 microgramo spray  200 dosis,0.8718908
+neumote  bronquial aerosol  200 dosis 200 microgramo,ventoplus aerosol 45 microgramo dosis  200,0.87020475
+neumote  bronquial aerosol  200 dosis 200 microgramo,ventoplus aerosol 45 microgramo dosis  200 caeroc,0.86961615
+neumote  bronquial pediatrico  200 d caeroc,pervino  quirurgico envase  200 mililitros,0.9458396
+neumote  bronquial pediatrico  200 d caeroc,teosona fuerte jarabe  200 mililitros,0.92433393
+neumote  bronquial pediatrico  200 d caeroc,pervino  soltpica  200 mililitros,0.91834056
+neumote  bronquial pediatrico  200 dosis 50 microgramo,neumote  nasal ped 50 microgramo spray  200 dosis,0.96222544
+neumote  bronquial pediatrico  200 dosis 50 microgramo,teosona 200 miligramos dividosis comprimidos  50,0.93448865
+neumote  bronquial pediatrico  200 dosis 50 microgramo,rinisona bronquial 50 microgramo aer  120 dosis,0.8640047
+neumote  capsulas 200 microgramo capsulas pinhal  60,didapho 200 miligramos capsulas  60,0.95103896
+neumote  capsulas 200 microgramo capsulas pinhal  60,neumotide capsulas 25050 microgramo capsulas  60 apl,0.88141453
+neumote  capsulas 200 microgramo capsulas pinhal  60,neumotide capsulas 50050 microgramo capsulas  60 apl,0.88134456
+neumote  capsulas 400 microgramo cpas pinhal  60,neumotide capsulas 10050 microgramo capsulas  60 apl,0.8775559
+neumote  capsulas 400 microgramo cpas pinhal  60,neumotide capsulas 25050 microgramo capsulas  60 apl,0.8771994
+neumote  capsulas 400 microgramo cpas pinhal  60,neumotide capsulas 50050 microgramo capsulas  60 apl,0.877099
+neumote  nasal aerosol  200 dosis 50 microgramo,neumote  nasal ped 50 microgramo spray  200 dosis,0.97665936
+neumote  nasal aerosol  200 dosis 50 microgramo,teosona 200 miligramos dividosis comprimidos  50,0.8855606
+neumote  nasal aerosol  200 dosis 50 microgramo,neumote  nasal spray  200 dosis,0.87627536
+neumote  nebu  20 mililitros,neumote  nebu envase  20 mililitros,0.9835486
+neumote  nebu  20 mililitros,cenacert susp  20 mililitros,0.9485017
+neumote  nebu  20 mililitros,causalon pedgts  20 mililitros,0.9464437
+neumotide 12525 microgramo  120 d caeroc,rinisona bronquial 125 microgramo aer  120 dosis,0.86627954
+neumotide 12525 microgramo  120 d caeroc,rinisona bronquial 250 microgramo aer  120 dosis,0.86553466
+neumotide 12525 microgramo  120 d caeroc,rinisona bronquial 50 microgramo aer  120 dosis,0.8629707
+neumotide 25050  60 c ap,neumotide capsulas 25050 microgramo capsulas  60 apl,0.94305164
+neumotide 25050  60 c ap,neumotide capsulas 10050 microgramo capsulas  60 apl,0.84297127
+neumotide 25050  60 c ap,neumotide capsulas 50050 microgramo capsulas  60 apl,0.84101915
+neumotide 50050  60 c ap,neumotide capsulas 50050 microgramo capsulas  60 apl,0.9389189
+neumotide 50050  60 c ap,neumotide capsulas 10050 microgramo capsulas  60 apl,0.8399952
+neumotide 50050  60 c ap,neumotide capsulas 25050 microgramo capsulas  60 apl,0.8386505
+neumotide aerosol 12525 microgramo  120 d,rinisona bronquial 125 microgramo aer  120 dosis,0.84908545
+neumotide aerosol 12525 microgramo  120 d,rinisona bronquial 250 microgramo aer  120 dosis,0.84840095
+neumotide aerosol 12525 microgramo  120 d,rinisona bronquial 50 microgramo aer  120 dosis,0.84779894
+neumotide aerosol 25025 microgramo  120 d,rinisona bronquial 250 microgramo aer  120 dosis,0.8471128
+neumotide aerosol 25025 microgramo  120 d,rinisona bronquial 125 microgramo aer  120 dosis,0.8466916
+neumotide aerosol 25025 microgramo  120 d,rinisona bronquial 50 microgramo aer  120 dosis,0.8461792
+neumotropio 10 microgramo capsulas  30,acotral 10 miligramos comprimidos  30,0.91119516
+neumotropio 10 microgramo capsulas  30,loreme  antialergico 10 miligramos comprimidos  30,0.90957284
+neumotropio 10 microgramo capsulas  30,dafe  10 miligramos comprimidos  30,0.8952874
+neurotro  20 miligramos  comprimidos  30,olmec 20 miligramos comprimidos  30,0.9718676
+neurotro  20 miligramos  comprimidos  30,olane 20 miligramos comprimidos recubierto  30,0.9589035
+neurotro  20 miligramos  comprimidos  30,idesole 30 miligramos comprimidos recubierto  20,0.9556757
+neutop 100 miligramos comprimidos recubiertos  28,quepaz 100 miligramos comprimidos recubierto  30,0.8823043
+neutop 100 miligramos comprimidos recubiertos  28,quepaz 100 miligramos comprimidos recubierto  10,0.8821746
+neutop 100 miligramos comprimidos recubiertos  28,doxtran 50 miligramos comprimidos recubierto  100,0.8769141
+neutop 100 miligramos comprimidos recubiertos  56,quepaz 100 miligramos comprimidos recubierto  30,0.8814556
+neutop 100 miligramos comprimidos recubiertos  56,quepaz 100 miligramos comprimidos recubierto  10,0.88125926
+neutop 100 miligramos comprimidos recubiertos  56,palite  100 miligramos comprimidos  30,0.8771438
+neutop 25 miligramos comprimidos recubiertos  28,rudoxil 25 miligramos comprimidos  28,0.94775784
+neutop 25 miligramos comprimidos recubiertos  28,mosar 25 miligramos comprimidos recubierto  60,0.88543165
+neutop 25 miligramos comprimidos recubiertos  28,mosar 25 miligramos comprimidos recubierto  30,0.8850122
+neutop 25 miligramos comprimidos recubiertos  56,mosar 25 miligramos comprimidos recubierto  60,0.88513273
+neutop 25 miligramos comprimidos recubiertos  56,mosar 25 miligramos comprimidos recubierto  30,0.8845504
+neutop 25 miligramos comprimidos recubiertos  56,mosar 25 miligramos comprimidos recubierto  20,0.88451284
+neutop 50 miligramos comprimidos recubiertos  28,doxtran 50 miligramos comprimidos recubierto  100,0.87623286
+neutop 50 miligramos comprimidos recubiertos  28,doxtran 50 miligramos comprimidos recubierto  20,0.8758447
+neutop 50 miligramos comprimidos recubiertos  28,teosona 200 miligramos dividosis comprimidos  50,0.8758123
+neutop 50 miligramos comprimidos recubiertos  56,teosona 200 miligramos dividosis comprimidos  50,0.87629133
+neutop 50 miligramos comprimidos recubiertos  56,teosona 300 miligramos dividosis comprimidos  50,0.8761504
+neutop 50 miligramos comprimidos recubiertos  56,doxtran 50 miligramos comprimidos recubierto  100,0.8759225
+nifed solucion 30 miligramos  30 comprimidos rec lib cont,olane 20 miligramos comprimidos recubierto  30,0.870564
+nifed solucion 30 miligramos  30 comprimidos rec lib cont,mosar 25 miligramos comprimidos recubierto  30,0.86973506
+nifed solucion 30 miligramos  30 comprimidos rec lib cont,idesole 30 miligramos comprimidos recubierto  20,0.86764246
+nifed solucion 60 miligramos  30 comprimidos rec lib cont,idesole 30 miligramos comprimidos recubierto  60,0.9677701
+nifed solucion 60 miligramos  30 comprimidos rec lib cont,fingras 60 miligramos capsulas  30,0.90352994
+nifed solucion 60 miligramos  30 comprimidos rec lib cont,olane 20 miligramos comprimidos recubierto  30,0.8721502
+nopucid iver spray  60 mililitros,pervino  solbucofar  60 mililitros,0.947626
+nopucid iver spray  60 mililitros,dresan jarabe  60 mililitros,0.9367841
+nopucid iver spray  60 mililitros,neumoterol pediatrico capsulas  60 aplic,0.93106586
+nopucid kit ahorro nopucid kit ahorro,pervino  solucion 10% botella  1 litro phoeni  botella  1 litro,0.706345
+nopucid kit ahorro nopucid kit ahorro,intal bucal y nasal spinhaler bucal,0.6973224
+nopucid kit ahorro nopucid kit ahorro,rinisona bronquial con aerocamara 125 microgramo aer  120 dosis,0.69678134
+nopucid locion envase  65 mililitros,pervino  antiseptico bucal extra mint  65 mililitros,0.9590176
+nopucid locion envase  65 mililitros,pervicol gel manzana roja  65 mililitros,0.9436117
+nopucid locion envase  65 mililitros,pervicol gel manzana verde  65 mililitros,0.94200486
+nopucid repelente spray  80 mililitros,plenovit vitamina e adcomp  80,0.90787745
+nopucid repelente spray  80 mililitros,rudoxil crema 80 miligramos capsulas  28,0.85824597
+nopucid repelente spray  80 mililitros,ciclete  80 microgramo inhaldosis  60,0.83738494
+nopucid shampoo uso diario frasco  200 mililitros,pervino  quirurgico envase  200 mililitros,0.9411791
+nopucid shampoo uso diario frasco  200 mililitros,pervino  soltpica  200 mililitros,0.898862
+nopucid shampoo uso diario frasco  200 mililitros,pervino  shampoo  200 mililitros,0.8898051
+nopucid touch aerosol  145 mililitros,pervisept aerosol aerosol  150 mililitros,0.7762155
+nopucid touch aerosol  145 mililitros,pervicol gel  65 mililitros,0.75849503
+nopucid touch aerosol  145 mililitros,pervicol pomo gel  123 mililitros,0.7583654
+nopucid tribit locion ahorro  120 mililitros,causalon ibu susporal  120 mililitros,0.9490551
+nopucid tribit locion ahorro  120 mililitros,loreme  jarabe  120 mililitros,0.9466592
+nopucid tribit locion ahorro  120 mililitros,mucome  jarabe  120 mililitros,0.9399613
+oldinot 10 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.9807478
+oldinot 10 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.9786204
+oldinot 10 miligramos comprimidos  30,loreme  antialergico 10 miligramos comprimidos  30,0.9617812
+oldinot 5 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.97384566
+oldinot 5 miligramos comprimidos  30,dafe  5 miligramos compdispers  30,0.9693092
+oldinot 5 miligramos comprimidos  30,nefagrel 5 miligramos comprimidos  30,0.9362269
+oldinot duo 14 comprimidos  30,idesole 100 comprimidos  30,0.87306273
+oldinot duo 14 comprimidos  30,normital 25 miligramos comprimidos  30,0.8696411
+oldinot duo 14 comprimidos  30,rabloc 5 miligramos comprimidos  30,0.86813116
+oldinot duo comprimidos  30,mosar enzimatico comprimidos  30,0.9681231
+oldinot duo comprimidos  30,fioton comprimidos recubierto  30,0.9611343
+oldinot duo comprimidos  30,akatinol comprimidos  30,0.9601133
+olopat solucion oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.9081861
+olopat solucion oft  5 mililitros,dafe  5 miligramos compdispers  30,0.84143645
+olopat solucion oft  5 mililitros,rabloc 5 miligramos comprimidos  30,0.83982176
+olopat f solucion oft  25 mililitros,causalon gotas  25 mililitros,0.95632184
+olopat f solucion oft  25 mililitros,pulsar gotas  25 mililitros,0.95234597
+olopat f solucion oft  25 mililitros,respisol spray nasal  25 mililitros,0.90819263
+omate  20 miligramos jeringa prellenada  10,acotral 10 miligramos comprimidos  20,0.96031225
+omate  20 miligramos jeringa prellenada  10,olane 20 miligramos comprimidos recubierto  10,0.95671666
+omate  20 miligramos jeringa prellenada  10,omate  20 miligramos jeringa prellenada  2,0.8984258
+omate  40 miligramos jeringa prellenada  10,omate  40 miligramos jeringa prellenada  2,0.89844346
+omate  40 miligramos jeringa prellenada  10,omate  40 miligramos jeringa prellenada  1,0.8980282
+omate  40 miligramos jeringa prellenada  10,omate  100 miligramos jeringa prellenada  10,0.89675105
+omate  40 miligramos jeringa prellenada  2,omate  40 miligramos jeringa prellenada  2,1.0000002
+omate  40 miligramos jeringa prellenada  2,omate  40 miligramos jeringa prellenada  1,0.898881
+omate  40 miligramos jeringa prellenada  2,omate  20 miligramos jeringa prellenada  2,0.8983313
+omate  60 miligramos jeringa prellenada  10,rabloc 10 miligramos comprimidos  60,0.9499029
+omate  60 miligramos jeringa prellenada  10,omate  100 miligramos jeringa prellenada  10,0.896248
+omate  60 miligramos jeringa prellenada  10,rudoxil crema 10 miligramos capsulas  28,0.85895044
+omate  80 miligramos jeringa prellenada  10,omate  100 miligramos jeringa prellenada  10,0.8962353
+omate  80 miligramos jeringa prellenada  10,rudoxil crema 10 miligramos capsulas  28,0.85798097
+omate  80 miligramos jeringa prellenada  10,rudoxil crema 80 miligramos capsulas  28,0.8554319
+osiris solucion oft  10 mililitros,doxtran gesic comprimidos recubierto  10,0.9435982
+osiris solucion oft  10 mililitros,doxtran flex comprimidos recubierto  10,0.93475467
+osiris solucion oft  10 mililitros,modernel gotas  10 mililitros,0.93174446
+ovumi  ovulos  6,doxtran b 12 inyeccion frasco ampolla  6,0.7709977
+ovumi  ovulos  6,xanol 6 microgramo capsulas  60,0.7631449
+ovumi  ovulos  6,xanol 6 microgramo capsulas  30,0.762896
+ovumi  ma  cpsulas blandas vaginales  7,akatinol 20 miligramos comprimidos  7,0.8300954
+ovumi  ma  cpsulas blandas vaginales  7,mezine xr 375 miligramos comprimidos  7,0.8265918
+ovumi  ma  cpsulas blandas vaginales  7,misile 500 miligramos comprimidos recubierto  7,0.822902
+paraclim comprimidos  30,flebitol comprimidos  30,0.96839964
+paraclim comprimidos  30,cvp cellulite comprimidos  30,0.9569141
+paraclim comprimidos  30,plenovit melatonina comprimidos  30,0.9430142
+paraclim 125 miligramos comprimidos  30,olane xr 125 miligramos comprimidos  30,0.9727176
+paraclim 125 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.8820985
+paraclim 125 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.8818518
+pervicol gel incoloro  100 mililitros 90 gramos,pervino  soltpica  100 mililitros,0.857795
+pervicol gel incoloro  100 mililitros 90 gramos,omate  100 miligramos jeringa prellenada  10,0.8547404
+pervicol gel incoloro  100 mililitros 90 gramos,allopurinol phoeni  300 miligramos capsulas  100,0.8503412
+pervicol gel incoloro  250 mililitros 225 gramos,pervicol gel manzvercv  250 mililitros,0.86659676
+pervicol gel incoloro  250 mililitros 225 gramos,impedil 250 miligramos comprimidos  20,0.85322505
+pervicol gel incoloro  250 mililitros 225 gramos,rinisona bronquial 250 microgramo aer  120 dosis,0.8520505
+pervicol gel incoloro  500 mililitros 450 gramos,impedil 500 miligramos comprimidos  20,0.8505606
+pervicol gel incoloro  500 mililitros 450 gramos,safoxen 500 miligramos comprimidos  10,0.84627074
+pervicol gel incoloro  500 mililitros 450 gramos,causalon 500 miligramos comprimidos  20,0.8373968
+pervicol gel incoloro  65 mililitros 585 gramos,pervicol gel manzana roja  65 mililitros,0.8684084
+pervicol gel incoloro  65 mililitros 585 gramos,pervicol gel limn  65 mililitros,0.86800236
+pervicol gel incoloro  65 mililitros 585 gramos,pervicol gel manzana verde  65 mililitros,0.86318076
+pervino  incoloro solucin  60 mililitros,pervino  solbucofar  60 mililitros,0.9670139
+pervino  incoloro solucin  60 mililitros,neumoterol pediatrico capsulas  60 aplic,0.94452757
+pervino  incoloro solucin  60 mililitros,mosar enzimatico comprimidos  60,0.94257677
+pervino  incoloro spray  40 mililitros,feparil gel pomo  40 gramos,0.9411705
+pervino  incoloro spray  40 mililitros,pervicol toallas toallas antibacter  40,0.93708086
+pervino  incoloro spray  40 mililitros,pulsar reflu  comprimidos  40,0.93008834
+pervino  incoloro spray  60 mililitros,pervino  solbucofar  60 mililitros,0.9597713
+pervino  incoloro spray  60 mililitros,neumoterol pediatrico capsulas  60 aplic,0.944121
+pervino  incoloro spray  60 mililitros,neumoterol pediatrico capsulas  60 saplicador,0.9396633
+pervino  jabesphumec  240 mililitros,pervino  antiseptico bucal fruit  240 mililitros,0.9687592
+pervino  jabesphumec  240 mililitros,pervino  antiseptico bucal fresh mint  240 mililitros,0.9603022
+pervino  jabesphumec  240 mililitros,pervino  antiseptico bucal extra mint  240 mililitros,0.9590748
+pervino  jabesplimon  240 mililitros,pervino  antiseptico bucal fruit  240 mililitros,0.966475
+pervino  jabesplimon  240 mililitros,pervino  antiseptico bucal fresh mint  240 mililitros,0.96529037
+pervino  jabesplimon  240 mililitros,pervino  antiseptico bucal extra mint  240 mililitros,0.95747644
+pervino  jabesptrad  240 mililitros,pervino  antiseptico bucal fresh mint  240 mililitros,0.9700084
+pervino  jabesptrad  240 mililitros,pervino  antiseptico bucal fruit  240 mililitros,0.968676
+pervino  jabesptrad  240 mililitros,pervino  antiseptico bucal extra mint  240 mililitros,0.961609
+pervino  solucin  60 mililitros,pervino  solbucofar  60 mililitros,0.965831
+pervino  solucin  60 mililitros,neumoterol pediatrico capsulas  60 aplic,0.94323003
+pervino  solucin  60 mililitros,neumoterol pediatrico capsulas  60 saplicador,0.94018745
+pervino  solucin  120 mililitros,mucome  jarabe  120 mililitros,0.96726817
+pervino  solucin  120 mililitros,cvpduo jarabe  120 mililitros,0.9489482
+pervino  solucin  120 mililitros,causalon ibu susporal  120 mililitros,0.94887793
+pervino  campo quirur 1 ampolla  26 mililitros,omate  40 miligramos jeringa prellenada  1,0.85514194
+pervino  campo quirur 1 ampolla  26 mililitros,proterenal inyeccion lioffa  1,0.8501744
+pervino  campo quirur 1 ampolla  26 mililitros,mosar 1% pvopsusporal  60 mililitros,0.84286165
+pervino  clorhexidina  200 mililitros,pervino  soltpica  200 mililitros,0.94979113
+pervino  clorhexidina  200 mililitros,cvp cellulite gel crema  200 mililitros,0.94462967
+pervino  clorhexidina  200 mililitros,pervino  shampoo  200 mililitros,0.9425284
+pervino  clorhexidina  500 mililitros,safoxen 500 miligramos comprimidos  10,0.8448265
+pervino  clorhexidina  500 mililitros,impedil 500 miligramos comprimidos  20,0.8372329
+pervino  clorhexidina  500 mililitros,causalon 500 miligramos comprimidos  20,0.82738
+pervino  jabn liquido  60 mililitros,pervino  solbucofar  60 mililitros,0.9469425
+pervino  jabn liquido  60 mililitros,plenovit magnesioc comprimidos  60,0.93113095
+pervino  jabn liquido  60 mililitros,dresan jarabe  60 mililitros,0.92820895
+pervino  jabn liquido  1 litro,proterenal inyeccion lioffa  1,0.9178184
+pervino  jabn liquido  1 litro,micranil inyectable  1,0.87796324
+pervino  jabn liquido  1 litro,xeomin 100 ui vial  1,0.8068709
+pervino  jabn liquido  120 mililitros,causalon ibu susporal  120 mililitros,0.9592102
+pervino  jabn liquido  120 mililitros,mucome  jarabe  120 mililitros,0.94376814
+pervino  jabn liquido  120 mililitros,loreme  jarabe  120 mililitros,0.94251025
+pervino  jabn liquido  250 cv,pervicol gel manzvercv  250 mililitros,0.9296178
+pervino  jabn liquido  250 cv,usar fibras frasco  250 mililitros,0.9263695
+pervino  jabn liquido  250 cv,agiofibras gran  250 gramos,0.9094507
+pervino  jabon solido 15 grs envase  20,rabloc 20 miligramos comprimidos  15,0.9339529
+pervino  jabon solido 15 grs envase  20,mextran 15 miligramos compran  20,0.9214503
+pervino  jabon solido 15 grs envase  20,olmec 20 miligramos comprimidos  15,0.9106866
+pervino  jabon slido  100 gramos,pervino  soltpica  100 mililitros,0.9564488
+pervino  jabon slido  100 gramos,pervino  shampoo  100 mililitros,0.9424991
+pervino  jabon slido  100 gramos,cutidermin pvotalq  100 gramos,0.94127977
+pervino  prequir bote  500 mililitros,misile 500 miligramos comprimidos recubierto  7,0.86326486
+pervino  prequir bote  500 mililitros,causalon 500 miligramos comprimidos  20,0.854122
+pervino  prequir bote  500 mililitros,impedil 500 miligramos comprimidos  20,0.8516055
+pervino  solucin  1 l,proterenal inyeccion lioffa  1,0.9432944
+pervino  solucin  1 l,micranil inyectable  1,0.9072792
+pervino  solucin  1 l,omate  40 miligramos jeringa prellenada  1,0.8324945
+pervino  solucin  250 cv,pervicol gel manzvercv  250 mililitros,0.93599206
+pervino  solucin  250 cv,usar fibras frasco  250 mililitros,0.9274252
+pervino  solucin  250 cv,agiofibras gran  250 gramos,0.91931903
+pervino  clorhexidina alcoholica 60 mililitros,pervino  solbucofar  60 mililitros,0.9642209
+pervino  clorhexidina alcoholica 60 mililitros,neumoterol pediatrico capsulas  60 aplic,0.9447206
+pervino  clorhexidina alcoholica 60 mililitros,neumoterol pediatrico capsulas  60 saplicador,0.9383937
+pervino  clorhexidina alcoholica 250 mililitros,usar fibras frasco  250 mililitros,0.96006125
+pervino  clorhexidina alcoholica 250 mililitros,pervicol gel manzvercv  250 mililitros,0.9548433
+pervino  clorhexidina alcoholica 250 mililitros,agiofibras gran  250 gramos,0.91399395
+pervino  clorhexidina alcoholica 500 mililitros,impedil 500 miligramos comprimidos  20,0.85113615
+pervino  clorhexidina alcoholica 500 mililitros,safoxen 500 miligramos comprimidos  10,0.8502431
+pervino  clorhexidina alcoholica 500 mililitros,misile 500 miligramos comprimidos recubierto  7,0.84347403
+pervino  anestsico spray  40 mililitros,pulsar enzimatico comprimidos  40,0.9406929
+pervino  anestsico spray  40 mililitros,feparil gel pomo  40 gramos,0.9386925
+pervino  anestsico spray  40 mililitros,pervicol toallas toallas antibacter  40,0.93795455
+petrium 4 miligramos cpsulas  30,rolast nios 4 miligramos sobgran  30,0.9510589
+petrium 4 miligramos cpsulas  30,doxolbran 4 miligramos comprimidos  30,0.9425711
+petrium 4 miligramos cpsulas  30,fingras 60 miligramos capsulas  30,0.8579757
+petrium 8 miligramos cpsulas  30,fingras 60 miligramos capsulas  30,0.85741854
+petrium 8 miligramos cpsulas  30,fingras 120 miligramos capsulas  30,0.8548151
+petrium 8 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.85390735
+ph lagrimas solucion oft  15 mililitros,megale  comprimidos recubierto  15,0.8982643
+ph lagrimas solucion oft  15 mililitros,teosona solucion comprimidos  15,0.8854683
+ph lagrimas solucion oft  15 mililitros,tanakan grag  15,0.82455945
+ph lagrimas gel gel  10 mililitros,doxtran gesic comprimidos recubierto  10,0.9222811
+ph lagrimas gel gel  10 mililitros,doxtran flex comprimidos recubierto  10,0.9207779
+ph lagrimas gel gel  10 mililitros,modernel gotas  10 mililitros,0.91434395
+polyple  susp oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.8965915
+polyple  susp oft  5 mililitros,dafe  5 miligramos compdispers  30,0.8455172
+polyple  susp oft  5 mililitros,emivo  8 miligramos a  5,0.83683944
+ponstil forte comprimidos estuche por 100,causalon ibu susporal  100 mililitros,0.92463523
+ponstil forte comprimidos estuche por 100,plenovit vitamina c adcompmast  100,0.9215833
+ponstil forte comprimidos estuche por 100,pervino  soltpica  100 mililitros,0.90296286
+ponstil forte comprimidos estuche por 15,megale  comprimidos recubierto  15,0.9508082
+ponstil forte comprimidos estuche por 15,teosona solucion comprimidos  15,0.9382761
+ponstil forte comprimidos estuche por 15,idesole plus comprimidos  15,0.88160497
+ponstil forte comprimidos estuche por 30,kalter forte comprimidos recubierto  30,0.95686656
+ponstil forte comprimidos estuche por 30,plenovit vitamina e adcomp  30,0.94621164
+ponstil forte comprimidos estuche por 30,mosar enzimatico comprimidos  30,0.9449589
+ponstin 4% susp oral frasco  100 mililitros,doxolbran 4 miligramos comprimidos  30,0.85714823
+ponstin 4% susp oral frasco  100 mililitros,allopurinol phoeni  300 miligramos capsulas  100,0.84736687
+ponstin 4% susp oral frasco  100 mililitros,nefazan 300 miligramos comprimidos  4,0.8473088
+ponstin pediatrico susp frasco  100 mililitros,causalon ibu susporal  100 mililitros,0.9252761
+ponstin pediatrico susp frasco  100 mililitros,pervino  jabliq  100 mililitros,0.9122385
+ponstin pediatrico susp frasco  100 mililitros,plenovit vitamina c adcompmast  100,0.8966241
+ponstinetas comprimidos masticables  16,dresan biotic comprimidos  16,0.9395868
+ponstinetas comprimidos masticables  16,terfenadina dg comprimidos  16,0.9220192
+ponstinetas comprimidos masticables  16,intal nebu apnebul  16,0.90729123
+praxant 25 25 miligramos comprimidos  60,mosar 25 miligramos comprimidos recubierto  60,0.8977302
+praxant 25 25 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.852828
+praxant 25 25 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8506675
+praxant 5 miligramos 5 miligramos comprimidos  60,idesole ii 45 miligramos comprimidos  60,0.84141684
+praxant 5 miligramos 5 miligramos comprimidos  60,palite  400 miligramos comprimidos  5,0.83399874
+praxant 5 miligramos 5 miligramos comprimidos  60,misile 750 miligramos comprimidos recubierto  5,0.8330367
+principia 150 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.86788666
+principia 150 miligramos cpsulas  30,palite  100 miligramos comprimidos  30,0.86241204
+principia 150 miligramos cpsulas  30,olane xr 25 miligramos comprimidos  30,0.8584114
+principia 25 miligramos cpsulas  30,mosar 25 miligramos comprimidos recubierto  30,0.95717794
+principia 25 miligramos cpsulas  30,olane xr 25 miligramos comprimidos  30,0.95511574
+principia 25 miligramos cpsulas  30,normital 25 miligramos comprimidos  30,0.9538625
+principia 300 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.8693764
+principia 300 miligramos cpsulas  30,palite  100 miligramos comprimidos  30,0.8640937
+principia 300 miligramos cpsulas  30,teosona 300 miligramos dividosis comprimidos  20,0.86320835
+principia 75 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.8660807
+principia 75 miligramos cpsulas  30,palite  100 miligramos comprimidos  30,0.8592616
+principia 75 miligramos cpsulas  30,mosar 25 miligramos comprimidos recubierto  30,0.8581552
+principia 75 miligramos cpsulas  60,nefazan 75 miligramos comprimidos  60,0.9278443
+principia 75 miligramos cpsulas  60,mosar 25 miligramos comprimidos recubierto  60,0.85840887
+principia 75 miligramos cpsulas  60,idesole ii 45 miligramos comprimidos  60,0.85819155
+principia practidosis 75 miligramos comprimidos birranurados  30,acotral 10 miligramos comprimidos  30,0.87355584
+principia practidosis 75 miligramos comprimidos birranurados  30,palite  100 miligramos comprimidos  30,0.87063944
+principia practidosis 75 miligramos comprimidos birranurados  30,quepaz 25 miligramos comprimidos recubierto  30,0.8645989
+progest cpsulas blandas  30,plenovit melatonina comprimidos  30,0.9438243
+progest cpsulas blandas  30,pulsar plus gotas  30 mililitros,0.93747276
+progest cpsulas blandas  30,plenovit vitamina c adcompmast  30,0.93412787
+progest 200 miligramos cpsulas blandas  15,pioglit 30 miligramos comprimidos  15,0.85324615
+progest 200 miligramos cpsulas blandas  15,inastmol 200 miligramos comprimidos  20,0.852701
+progest 200 miligramos cpsulas blandas  15,pioglit 15 miligramos comprimidos  30,0.8517961
+progest 200 miligramos cpsulas blandas  30,quepaz 200 miligramos comprimidos recubierto  30,0.9488783
+progest 200 miligramos cpsulas blandas  30,dafe  200 miligramos compdispers  30,0.9480544
+progest 200 miligramos cpsulas blandas  30,olane xr 25 miligramos comprimidos  30,0.8563699
+rabec 10 miligramos  28 comprimidos rec,rudoxil crema 10 miligramos capsulas  28,0.9408876
+rabec 10 miligramos  28 comprimidos rec,dafe  10 miligramos comprimidos  30,0.88319045
+rabec 10 miligramos  28 comprimidos rec,mezine xr 75 miligramos comprimidos  28,0.8810791
+rabec 20 miligramos  28 comprimidos rec,rudoxil crema 20 miligramos capsulas  28,0.9345453
+rabec 20 miligramos  28 comprimidos rec,mefeni  20 miligramos comprimidos recubierto  20,0.8794331
+rabec 20 miligramos  28 comprimidos rec,olane 20 miligramos comprimidos recubierto  10,0.87903583
+rabloc 10 miligramos  30 comprimidos rec,dafe  10 miligramos comprimidos  30,0.9811153
+rabloc 10 miligramos  30 comprimidos rec,acotral 10 miligramos comprimidos  30,0.9793931
+rabloc 10 miligramos  30 comprimidos rec,loreme  antialergico 10 miligramos comprimidos  30,0.9624309
+rabloc 20 miligramos  30 comprimidos rec,olane 20 miligramos comprimidos recubierto  30,0.9740095
+rabloc 20 miligramos  30 comprimidos rec,idesole 30 miligramos comprimidos recubierto  20,0.971553
+rabloc 20 miligramos  30 comprimidos rec,olmec 20 miligramos comprimidos  30,0.96309465
+rapila  gotas  10 mililitros,modernel gotas  10 mililitros,0.9706569
+rapila  gotas  10 mililitros,megale  antiacido compmast  10,0.914981
+rapila  gotas  10 mililitros,doxtran gesic comprimidos recubierto  10,0.9076073
+rapila  gotas  50 mililitros,inteligen ginseng fuerte comprimidos recubierto  50,0.8910886
+rapila  gotas  50 mililitros,doxtran gel pomo  50 gramos,0.87699765
+rapila  gotas  50 mililitros,causalon comprimidos  50,0.8767382
+ratisalil crema 150 gramos,pervino  aer  150 mililitros,0.9238393
+ratisalil crema 150 gramos,pervisept aerosol aerosol  150 mililitros,0.90424556
+ratisalil crema 150 gramos,mezine xr 150 miligramos comprimidos  14,0.8212328
+ratisalil crema  40 gramos,feparil gel pomo  40 gramos,0.95477706
+ratisalil crema  40 gramos,pervicol toallas toallas antibacter  40,0.9304752
+ratisalil crema  40 gramos,pulsar plus comprimidos  40,0.9232756
+ratisalil flex crema  40 gramos,feparil gel pomo  40 gramos,0.9237925
+ratisalil flex crema  40 gramos,pervicol toallas toallas antibacter  40,0.9213651
+ratisalil flex crema  40 gramos,pulsar reflu  comprimidos  40,0.9145184
+ratisalil gel  40 gramos,feparil gel pomo  40 gramos,0.965562
+ratisalil gel  40 gramos,pervicol toallas toallas antibacter  40,0.90948683
+ratisalil gel  40 gramos,pulsar plus comprimidos  40,0.9064981
+ratisalil cbd crema  150 gramos,pervino  aer  150 mililitros,0.92875004
+ratisalil cbd crema  150 gramos,pervisept aerosol aerosol  150 mililitros,0.9056572
+ratisalil cbd crema  150 gramos,mezine xr 150 miligramos comprimidos  14,0.8450056
+ratisalil cbd ratisalil cbd crema tradepack  6,doxtran b 12 inyeccion frasco ampolla  6,0.7840703
+ratisalil cbd ratisalil cbd crema tradepack  6,aminofilin 200 miligramos inyectable  6,0.77389044
+ratisalil cbd ratisalil cbd crema tradepack  6,impedil 250 miligramos inyectable  6  2 mililitros,0.7634753
+ratisalil d gel  40 gramos,feparil gel pomo  40 gramos,0.96792483
+ratisalil d gel  40 gramos,pervicol toallas toallas antibacter  40,0.91158783
+ratisalil d gel  40 gramos,pulsar plus comprimidos  40,0.9101857
+regenesis 70 miligramos comprimidos  4,doxolbran 4 miligramos comprimidos  30,0.8758584
+regenesis 70 miligramos comprimidos  4,nefazan 300 miligramos comprimidos  4,0.8631615
+regenesis 70 miligramos comprimidos  4,emivo  4 miligramos a  1,0.8483123
+remivo  15 miligramos  28 comprimidos rec,idesole ii 45 miligramos comprimidos  15,0.8776693
+remivo  15 miligramos  28 comprimidos rec,pioglit 15 miligramos comprimidos  30,0.8775454
+remivo  15 miligramos  28 comprimidos rec,pioglit 15 miligramos comprimidos  15,0.8766534
+remivo  20 miligramos  28 comprimidos rec,rudoxil crema 20 miligramos capsulas  28,0.92222244
+remivo  20 miligramos  28 comprimidos rec,mefeni  20 miligramos comprimidos recubierto  20,0.88154614
+remivo  20 miligramos  28 comprimidos rec,idesole 30 miligramos comprimidos recubierto  20,0.8765706
+remivo  10 miligramos  10 comprimidos rec,quepaz 25 miligramos comprimidos recubierto  10,0.874663
+remivo  10 miligramos  10 comprimidos rec,quepaz 100 miligramos comprimidos recubierto  10,0.8746314
+remivo  10 miligramos  10 comprimidos rec,olane 20 miligramos comprimidos recubierto  10,0.8742167
+remivo  10 miligramos  30 comprimidos rec,dafe  10 miligramos comprimidos  30,0.97691685
+remivo  10 miligramos  30 comprimidos rec,acotral 10 miligramos comprimidos  30,0.9713833
+remivo  10 miligramos  30 comprimidos rec,loreme  antialergico 10 miligramos comprimidos  30,0.95093143
+restelea 050 miligramos comprimidos  20,olane 20 miligramos comprimidos recubierto  30,0.876973
+restelea 050 miligramos comprimidos  20,acotral 10 miligramos comprimidos  20,0.87685424
+restelea 050 miligramos comprimidos  20,olane 20 miligramos comprimidos recubierto  10,0.8765624
+restelea 1 miligramos comprimidos  20,doxolbran 1 miligramos comprimidos  20,0.9436856
+restelea 1 miligramos comprimidos  20,idesole 30 miligramos comprimidos recubierto  20,0.8836337
+restelea 1 miligramos comprimidos  20,olane 20 miligramos comprimidos recubierto  30,0.8829393
+restelea 1 miligramos comprimidos  60,mosar 1% pvopsusporal  60 mililitros,0.9234499
+restelea 1 miligramos comprimidos  60,kalter 40 miligramos comprimidos recubierto  60,0.8842845
+restelea 1 miligramos comprimidos  60,idesole 30 miligramos comprimidos recubierto  60,0.88336885
+restelea 2 miligramos comprimidos  20,omate  20 miligramos jeringa prellenada  2,0.9445561
+restelea 2 miligramos comprimidos  20,idesole 30 miligramos comprimidos recubierto  20,0.8834727
+restelea 2 miligramos comprimidos  20,olane 20 miligramos comprimidos recubierto  30,0.8821264
+restelea 2 miligramos comprimidos  60,kalter 40 miligramos comprimidos recubierto  60,0.8838179
+restelea 2 miligramos comprimidos  60,idesole 30 miligramos comprimidos recubierto  60,0.883285
+restelea 2 miligramos comprimidos  60,idesole ii 45 miligramos comprimidos  60,0.88136655
+restelea 3 miligramos comprimidos  20,idesole 30 miligramos comprimidos recubierto  20,0.884674
+restelea 3 miligramos comprimidos  20,olane 20 miligramos comprimidos recubierto  30,0.88277906
+restelea 3 miligramos comprimidos  20,mefeni  20 miligramos comprimidos recubierto  20,0.88198817
+restelea 3 miligramos comprimidos  60,idesole 30 miligramos comprimidos recubierto  60,0.8848472
+restelea 3 miligramos comprimidos  60,kalter 40 miligramos comprimidos recubierto  60,0.8840635
+restelea 3 miligramos comprimidos  60,mosar 25 miligramos comprimidos recubierto  60,0.88031936
+rino  b nebu gotas para nebulizar  20 mililitros,doxtran gesic comprimidos recubierto  20,0.934501
+rino  b nebu gotas para nebulizar  20 mililitros,neumote  nebu envase  20 mililitros,0.93429184
+rino  b nebu gotas para nebulizar  20 mililitros,doxtran flex comprimidos recubierto  20,0.92900383
+rino  b aerosol nasal 100 microgramo  100 dosis,neumote  nasal ped 50 microgramo spray  100 dosis,0.86863834
+rino  b aerosol nasal 100 microgramo  100 dosis,neumote  nasal spray  100 dosis,0.8543589
+rino  b aerosol nasal 100 microgramo  100 dosis,omate  100 miligramos jeringa prellenada  10,0.81854707
+rino  b aerosol nasal 50 microgramo  200 dosis,neumote  nasal ped 50 microgramo spray  200 dosis,0.9693473
+rino  b aerosol nasal 50 microgramo  200 dosis,teosona 200 miligramos dividosis comprimidos  50,0.8824198
+rino  b aerosol nasal 50 microgramo  200 dosis,ventoplus aerosol 45 microgramo dosis  200,0.87739396
+rino  b nebu gotas pneb  20 mililitros  diluyente,neumote  nebu envase  20 mililitros,0.9470181
+rino  b nebu gotas pneb  20 mililitros  diluyente,cenacert susp  20 mililitros,0.9371246
+rino  b nebu gotas pneb  20 mililitros  diluyente,causalon pedgts  20 mililitros,0.93248093
+ristonel 100 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.9801136
+ristonel 100 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.97402835
+ristonel 100 miligramos comprimidos  30,idesole 100 comprimidos  30,0.96358156
+ristonel 100 miligramos comprimidos  60,neumote  100 capspinhalar  60,0.9330417
+ristonel 100 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8814141
+ristonel 100 miligramos comprimidos  60,palite  100 miligramos comprimidos  30,0.88090867
+ristonel 200 miligramos comprimidos  60,didapho 200 miligramos capsulas  60,0.95079005
+ristonel 200 miligramos comprimidos  60,inastmol 200 miligramos comprimidos  20,0.887787
+ristonel 200 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8820341
+ristonel 50 miligramos comprimidos  30,dafe  50 miligramos compdispers  30,0.95538926
+ristonel 50 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8801647
+ristonel 50 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.878825
+rolast 10 miligramos  30 comprimidos rec,dafe  10 miligramos comprimidos  30,0.97603244
+rolast 10 miligramos  30 comprimidos rec,acotral 10 miligramos comprimidos  30,0.9741042
+rolast 10 miligramos  30 comprimidos rec,loreme  antialergico 10 miligramos comprimidos  30,0.9572585
+rolast 4 miligramos  30 comprimidos mast,doxolbran 4 miligramos comprimidos  30,0.97455394
+rolast 4 miligramos  30 comprimidos mast,rolast nios 4 miligramos sobgran  30,0.96965885
+rolast 4 miligramos  30 comprimidos mast,idesole ii 45 miligramos comprimidos  30,0.8834082
+rolast 5 miligramos  30 comprimidos mast,rabloc 5 miligramos comprimidos  30,0.9744815
+rolast 5 miligramos  30 comprimidos mast,dafe  5 miligramos compdispers  30,0.96534276
+rolast 5 miligramos  30 comprimidos mast,nefagrel 5 miligramos comprimidos  30,0.939743
+sacarina tabletas frasco por 1000,plenovit vitamina c 1000 miligramos compmast  24,0.8354054
+sacarina tabletas frasco por 1000,usar fibras frasco  250 mililitros,0.7534254
+sacarina tabletas frasco por 1000,palite  100 miligramos comprimidos  30,0.75150675
+sacarina tabletas frasco por 500,impedil 500 miligramos comprimidos  20,0.84787047
+sacarina tabletas frasco por 500,misile 500 miligramos comprimidos recubierto  7,0.843212
+sacarina tabletas frasco por 500,causalon 500 miligramos comprimidos  20,0.84133506
+secret 28 comprimidos  28,rudoxil 25 miligramos comprimidos  28,0.841678
+secret 28 comprimidos  28,mezine xr 225 miligramos comprimidos  28,0.8363752
+secret 28 comprimidos  28,rudoxil 125 miligramos comprimidos  28,0.83636373
+secufem 15 miligramos comprimidos  1,pioglit 15 miligramos comprimidos  30,0.8808525
+secufem 15 miligramos comprimidos  1,pioglit 45 miligramos comprimidos  15,0.87984765
+secufem 15 miligramos comprimidos  1,pioglit 15 miligramos comprimidos  15,0.87892896
+simina 10 miligramos comprimidos recub  14,dafe  10 miligramos comprimidos  30,0.8765283
+simina 10 miligramos comprimidos recub  14,edictum 2 miligramos comprimidos  10,0.8740143
+simina 10 miligramos comprimidos recub  14,olane xr 25 miligramos comprimidos  10,0.8734892
+simina 10 miligramos comprimidos recub  28,rudoxil crema 10 miligramos capsulas  28,0.93233585
+simina 10 miligramos comprimidos recub  28,dafe  10 miligramos comprimidos  30,0.8770566
+simina 10 miligramos comprimidos recub  28,quepaz 25 miligramos comprimidos recubierto  10,0.875235
+simina 5 miligramos comprimidos recub  14,misile 750 miligramos comprimidos recubierto  5,0.8747478
+simina 5 miligramos comprimidos recub  14,mezine xr 75 miligramos comprimidos  14,0.87123007
+simina 5 miligramos comprimidos recub  14,mezine xr 375 miligramos comprimidos  14,0.8701718
+simina 5 miligramos comprimidos recub  28,misile 750 miligramos comprimidos recubierto  5,0.8760356
+simina 5 miligramos comprimidos recub  28,mezine xr 75 miligramos comprimidos  28,0.8710688
+simina 5 miligramos comprimidos recub  28,mezine xr 225 miligramos comprimidos  28,0.8705506
+simpla frasco ampolla de 100 mililitros 5 miligramos,clare  compuesto solucion oftalmica  5 mililitros,0.87311405
+simpla frasco ampolla de 100 mililitros 5 miligramos,mosar 5 miligramos comprimidos recubierto  40,0.8607508
+simpla frasco ampolla de 100 mililitros 5 miligramos,mosar 5 miligramos comprimidos recubierto  4,0.8587191
+slinda comprimidos  244,dresan comprimidos  20,0.7819778
+slinda comprimidos  244,pulsar comprimidos  40,0.7799409
+slinda comprimidos  244,pulsar comprimidos  20,0.77904445
+sulos cpsulas  30,cvp cellulite comprimidos  30,0.9398901
+sulos cpsulas  30,flebitol comprimidos  30,0.9394348
+sulos cpsulas  30,pervino  gasa  30,0.9301762
+suposit glicerina cortos padultos estuche  10,doxtran gesic comprimidos recubierto  10,0.9475008
+suposit glicerina cortos padultos estuche  10,doxtran flex comprimidos recubierto  10,0.944957
+suposit glicerina cortos padultos estuche  10,loreme  descongestivo comprimidos  10,0.9347479
+suposit glicerina cortos pinfantes estuche  10,doxtran gesic comprimidos recubierto  10,0.9549667
+suposit glicerina cortos pinfantes estuche  10,doxtran flex comprimidos recubierto  10,0.95210624
+suposit glicerina cortos pinfantes estuche  10,loreme  descongestivo comprimidos  10,0.93702614
+tanakan comprimidos rec  30,mosar enzimatico comprimidos  30,0.95882714
+tanakan comprimidos rec  30,kalter forte comprimidos recubierto  30,0.95668375
+tanakan comprimidos rec  30,plenovit melatonina comprimidos  30,0.95539325
+tanakan comprimidos rec  60,mosar enzimatico comprimidos  60,0.9581524
+tanakan comprimidos rec  60,plenovit magnesioe comprimidos  60,0.9477398
+tanakan comprimidos rec  60,plenovit magnesioc comprimidos  60,0.9453281
+tanakan forte comprimidos rec  15,megale  comprimidos recubierto  15,0.95503515
+tanakan forte comprimidos rec  15,teosona solucion comprimidos  15,0.93799204
+tanakan forte comprimidos rec  15,idesole plus comprimidos  15,0.9018857
+tanakan forte comprimidos rec  30,kalter forte comprimidos recubierto  30,0.9640711
+tanakan forte comprimidos rec  30,mosar enzimatico comprimidos  30,0.95011365
+tanakan forte comprimidos rec  30,fioton comprimidos recubierto  30,0.94954664
+tea test envase  1,proterenal inyeccion lioffa  1,0.89016366
+tea test envase  1,micranil inyectable  1,0.87575763
+tea test envase  1,omate  40 miligramos jeringa prellenada  1,0.78575945
+terfin crema pomo  15 grs,teosona solucion comprimidos  15,0.93618286
+terfin crema pomo  15 grs,tanakan grag  15,0.909649
+terfin crema pomo  15 grs,megale  comprimidos recubierto  15,0.9095435
+terfin spray envase  75 mililitros,mezine xr 75 miligramos comprimidos  28,0.83352685
+terfin spray envase  75 mililitros,mezine xr 75 miligramos comprimidos  14,0.83300596
+terfin spray envase  75 mililitros,teosona micro 75 miligramos capsulas  20,0.8305111
+testri solucin oral  2 mililitros,doxolbran 2 miligramos comprimidos  30,0.8470115
+testri solucin oral  2 mililitros,omate  40 miligramos jeringa prellenada  2,0.8286751
+testri solucin oral  2 mililitros,omate  20 miligramos jeringa prellenada  2,0.8271297
+testri cb 100000 ui capsulas  1,proterenal inyeccion lioffa  1,0.8133019
+testri cb 100000 ui capsulas  1,clavulo  1 gramos comprimidos  12,0.8064063
+testri cb 100000 ui capsulas  1,doxolbran 1 miligramos comprimidos  20,0.80074
+testri cb 100000 ui capsulas  3,doxtran b 12 inyeccion frasco ampolla  3,0.8077326
+testri cb 100000 ui capsulas  3,aminofilin 200 miligramos inyectable  3,0.79475164
+testri cb 100000 ui capsulas  3,gero h 3 aslan a  6,0.79115903
+ticazan 90 miligramos  30 comprimidos,pioglit 30 miligramos comprimidos  15,0.88365453
+ticazan 90 miligramos  30 comprimidos,pioglit 30 miligramos comprimidos  30,0.88356715
+ticazan 90 miligramos  30 comprimidos,pioglit 45 miligramos comprimidos  30,0.8820117
+ticazan 90 miligramos  60 comprimidos,rabloc 20 miligramos comprimidos  60,0.8793737
+ticazan 90 miligramos  60 comprimidos,nefazan 75 miligramos comprimidos  60,0.8784843
+ticazan 90 miligramos  60 comprimidos,idesole ii 45 miligramos comprimidos  60,0.8781273
+trastocir trastocir 100 miligramos cpr  30,quepaz 100 miligramos comprimidos recubierto  30,0.9290432
+trastocir trastocir 100 miligramos cpr  30,dafe  100 miligramos compdispers  30,0.9289737
+trastocir trastocir 100 miligramos cpr  30,normital 100 miligramos comprimidos  30,0.9249732
+trastocir trastocir 100 miligramos  60 cpr,neumote  100 capspinhalar  60,0.8880604
+trastocir trastocir 100 miligramos  60 cpr,doxtran 50 miligramos comprimidos recubierto  100,0.8354323
+trastocir trastocir 100 miligramos  60 cpr,dexa aminofilin 200 miligramos jarabe  100 mililitros,0.8290947
+trastocir trastocir 50 miligramos  60 cpr,doxtran 50 miligramos comprimidos recubierto  10,0.8353813
+trastocir trastocir 50 miligramos  60 cpr,doxtran 50 miligramos comprimidos recubierto  20,0.83494717
+trastocir trastocir 50 miligramos  60 cpr,doxtran 50 miligramos comprimidos recubierto  100,0.83456683
+trastocir trastocir 50 miligramos cpr  30,dafe  50 miligramos compdispers  30,0.9272254
+trastocir trastocir 50 miligramos cpr  30,olane xr 25 miligramos comprimidos  30,0.8414252
+trastocir trastocir 50 miligramos cpr  30,doxtran 50 miligramos comprimidos recubierto  10,0.8408739
+trilip 10 miligramos comprimidos  30,loreme  antialergico 10 miligramos comprimidos  30,0.9583945
+trilip 10 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.95797056
+trilip 10 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.95119655
+usuali  gotas  10 mililitros,modernel gotas  10 mililitros,0.98854893
+usuali  gotas  10 mililitros,megale  antiacido compmast  10,0.8686628
+usuali  gotas  10 mililitros,doxtran gesic comprimidos recubierto  10,0.866412
+veraten 125 miligramos comprimidos  30,olane xr 125 miligramos comprimidos  30,0.9797815
+veraten 125 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.88237995
+veraten 125 miligramos comprimidos  30,rudoxil 125 miligramos comprimidos  28,0.8821926
+veraten 25 miligramos comprimidos  30,normital 25 miligramos comprimidos  30,0.97980106
+veraten 25 miligramos comprimidos  30,olane xr 25 miligramos comprimidos  30,0.97884476
+veraten 25 miligramos comprimidos  30,quepaz 25 miligramos comprimidos recubierto  30,0.9657585
+veraten 3125 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.8807565
+veraten 3125 miligramos comprimidos  30,pioglit 45 miligramos comprimidos  30,0.8779565
+veraten 3125 miligramos comprimidos  30,pioglit 30 miligramos comprimidos  15,0.8777831
+veraten 625 miligramos comprimidos  30,palite  100 miligramos comprimidos  30,0.8855525
+veraten 625 miligramos comprimidos  30,dafe  10 miligramos comprimidos  30,0.8825332
+veraten 625 miligramos comprimidos  30,acotral 10 miligramos comprimidos  30,0.8810052
+veraten ud 10 miligramos cpsulas  30,acotral 10 miligramos comprimidos  30,0.9411237
+veraten ud 10 miligramos cpsulas  30,dafe  10 miligramos comprimidos  30,0.9385066
+veraten ud 10 miligramos cpsulas  30,loreme  antialergico 10 miligramos comprimidos  30,0.9163089
+veraten ud 20 miligramos cpsulas  30,olane 20 miligramos comprimidos recubierto  30,0.95006734
+veraten ud 20 miligramos cpsulas  30,idesole 30 miligramos comprimidos recubierto  20,0.94529915
+veraten ud 20 miligramos cpsulas  30,olmec 20 miligramos comprimidos  30,0.9125742
+veraten ud 40 miligramos cpsulas  30,kalter 40 miligramos comprimidos recubierto  30,0.94326735
+veraten ud 40 miligramos cpsulas  30,olmec 40 miligramos comprimidos  30,0.90688825
+veraten ud 40 miligramos cpsulas  30,normatensil as 250 miligramos comprimidos recubierto  40,0.84904224
+veraten ud 80 miligramos cpsulas  30,olane xr 25 miligramos comprimidos  30,0.8497948
+veraten ud 80 miligramos cpsulas  30,rolast nios 4 miligramos sobgran  30,0.84767944
+veraten ud 80 miligramos cpsulas  30,olane 20 miligramos comprimidos recubierto  30,0.8463734
+virosol  10 comprimidos,cvpforte comprimidos  10,0.95098066
+virosol  10 comprimidos,cortaler novo comprimidos  10,0.9469423
+virosol  10 comprimidos,causalon grip comprimidos  10,0.946606
+virosol  30 comprimidos,flebitol comprimidos  30,0.96041393
+virosol  30 comprimidos,mosar plus comprimidos  30,0.95292485
+virosol  30 comprimidos,plenovit melatonina comprimidos  30,0.94754773
+visuclar frasco gotero  10 mililitros,doxtran gesic comprimidos recubierto  10,0.94417065
+visuclar frasco gotero  10 mililitros,doxtran flex comprimidos recubierto  10,0.9394283
+visuclar frasco gotero  10 mililitros,causalon grip comprimidos  10,0.9262034
+xalacom solucion oft  25 mililitros,pulsar gotas  25 mililitros,0.94435865
+xalacom solucion oft  25 mililitros,causalon gotas  25 mililitros,0.94333184
+xalacom solucion oft  25 mililitros,respisol spray nasal  25 mililitros,0.9180852
+xalatan solucion oft  25 mililitros,pulsar gotas  25 mililitros,0.94218016
+xalatan solucion oft  25 mililitros,causalon gotas  25 mililitros,0.939621
+xalatan solucion oft  25 mililitros,respisol spray nasal  25 mililitros,0.9194809
+xeomin 100 vipvofco  1,xeomin 100 ui vial  1,0.9280008
+xeomin 100 vipvofco  1,pervino  soltpica  100 mililitros,0.8530124
+xeomin 100 vipvofco  1,mosar 1% pvopsusporal  60 mililitros,0.84352976
+zarator 10 miligramos comprimidos recubiertos estuche  30,acotral 10 miligramos comprimidos  30,0.968235
+zarator 10 miligramos comprimidos recubiertos estuche  30,dafe  10 miligramos comprimidos  30,0.9596112
+zarator 10 miligramos comprimidos recubiertos estuche  30,loreme  antialergico 10 miligramos comprimidos  30,0.93666846
+zarator 10 miligramos comprecubiertos estuche  60,rabloc 10 miligramos comprimidos  60,0.9269042
+zarator 10 miligramos comprecubiertos estuche  60,mosar 25 miligramos comprimidos recubierto  60,0.87799144
+zarator 10 miligramos comprecubiertos estuche  60,kalter 40 miligramos comprimidos recubierto  60,0.87746054
+zarator 20 miligramos comprimidos recubiertos estuche  60,rabloc 20 miligramos comprimidos  60,0.9503306
+zarator 20 miligramos comprimidos recubiertos estuche  60,idesole 30 miligramos comprimidos recubierto  20,0.88697726
+zarator 20 miligramos comprimidos recubiertos estuche  60,kalter 40 miligramos comprimidos recubierto  60,0.886846
+zarator 20 miligramos comprecubiertos estuche  30,olane 20 miligramos comprimidos recubierto  30,0.97857934
+zarator 20 miligramos comprecubiertos estuche  30,idesole 30 miligramos comprimidos recubierto  20,0.9785631
+zarator 20 miligramos comprecubiertos estuche  30,olmec 20 miligramos comprimidos  30,0.92378765
+zarator 40 miligramos comprimidos recubiertos estuche  30,kalter 40 miligramos comprimidos recubierto  30,0.98673326
+zarator 40 miligramos comprimidos recubiertos estuche  30,olmec 40 miligramos comprimidos  30,0.9465971
+zarator 40 miligramos comprimidos recubiertos estuche  30,idesole 30 miligramos comprimidos recubierto  20,0.886179
+zarator plus 1010 comprimidos  30,mosar plus comprimidos  30,0.8715176
+zarator plus 1010 comprimidos  30,idesole 100 comprimidos  30,0.8701842
+zarator plus 1010 comprimidos  30,rabloc 5 miligramos comprimidos  30,0.86105
+zarator plus 2010 comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8635952
+zarator plus 2010 comprimidos  30,mosar plus comprimidos  30,0.86257297
+zarator plus 2010 comprimidos  30,idesole 100 comprimidos  30,0.8604434
+zarontin cpsulas frasco por 25,pulsar gotas  25 mililitros,0.915253
+zarontin cpsulas frasco por 25,causalon gotas  25 mililitros,0.91255265
+zarontin cpsulas frasco por 25,respisol spray nasal  25 mililitros,0.88316923
+zarontin lquido frasco por 120 mililitros,causalon ibu susporal  120 mililitros,0.9355045
+zarontin lquido frasco por 120 mililitros,causalon bronquial susp  120 mililitros,0.92307156
+zarontin lquido frasco por 120 mililitros,causalon pro susp  120 mililitros,0.9209223
+zatium 50 miligramos comprimidos  30,dafe  50 miligramos compdispers  30,0.95922726
+zatium 50 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.88373685
+zatium 50 miligramos comprimidos  30,olane xr 125 miligramos comprimidos  30,0.8820064
+zatium 50 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8877538
+zatium 50 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.88621396
+zatium 50 miligramos comprimidos  60,dexa aminofilin 300 miligramos comprimidos  50,0.8809774
+zatium met 501000 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.8754916
+zatium met 501000 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.8752543
+zatium met 501000 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.8751168
+zatium met 501000 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8739335
+zatium met 501000 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8739325
+zatium met 501000 miligramos comprimidos  60,nefazan 75 miligramos comprimidos  60,0.8706718
+zatium met 50500 miligramos comprimidos  30,normital 100 miligramos comprimidos  30,0.880067
+zatium met 50500 miligramos comprimidos  30,olane xr 125 miligramos comprimidos  30,0.8799968
+zatium met 50500 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.87897575
+zatium met 50500 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8815315
+zatium met 50500 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8802617
+zatium met 50500 miligramos comprimidos  60,idesole ii 45 miligramos comprimidos  60,0.87697107
+zatium met 50850 miligramos comprimidos  30,doxolbran 4 miligramos comprimidos  30,0.87961257
+zatium met 50850 miligramos comprimidos  30,rabloc 5 miligramos comprimidos  30,0.87825114
+zatium met 50850 miligramos comprimidos  30,doxolbran 2 miligramos comprimidos  30,0.8781612
+zatium met 50850 miligramos comprimidos  60,rabloc 20 miligramos comprimidos  60,0.8777712
+zatium met 50850 miligramos comprimidos  60,rabloc 10 miligramos comprimidos  60,0.8770516
+zatium met 50850 miligramos comprimidos  60,idesole ii 45 miligramos comprimidos  60,0.8699718
+zopirol 050% solucion oftalmica  5 mililitros,rabloc 5 miligramos comprimidos  30,0.8443175
+zopirol 050% solucion oftalmica  5 mililitros,palite  400 miligramos comprimidos  5,0.83918756
+zopirol 050% solucion oftalmica  5 mililitros,dafe  5 miligramos compdispers  30,0.83352834
+zopirol dm solucion oft  5 mililitros,clare  compuesto solucion oftalmica  5 mililitros,0.91931146
+zopirol dm solucion oft  5 mililitros,dafe  5 miligramos compdispers  30,0.8447068
+zopirol dm solucion oft  5 mililitros,emivo  8 miligramos a  5,0.84408253

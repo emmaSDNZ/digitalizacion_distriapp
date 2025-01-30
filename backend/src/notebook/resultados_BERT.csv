@@ -1,64 +1,64 @@
-descripcion_proveedor,descripcion_match,similitud
-humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,humira ac  2 20 miligramos 20 miligramos 02 mililitros jeringa prellenada  2,0.9012773
-humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,humira jeringa prellenada  2  08 mililitros,0.8215883
-humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,skyrizi 75 miligramos jeringa prellenada  2,0.8012959
-humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira ac  2 40 miligramos 40 miligramos 04 mililitros lapicera prellenada  2 caja  2 lapicera prellenada  um caja,0.8620915
-humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira pen lapicera  2  08 mililitros,0.8114534
-humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira jeringa prellenada  2  08 mililitros,0.80817395
-humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.9071167
-humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,humira pen lapicera  2  08 mililitros,0.8121779
-humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,humira jeringa prellenada  2  08 mililitros,0.81011766
-rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.86273664
-rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.7921523
-rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,zemplar 2 microgramo capsulas  30,0.76722574
-rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.79668474
-rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.79402643
-rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,zemplar 2 microgramo capsulas  30,0.76821697
-rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 45 miligramos comp lib prol   28,0.79607606
-rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.79476213
-rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.79311746
-skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,skyrizi 150 miligramos lapicera prellenada  1,0.856752
-skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,epkinly 60 miligramos por mililitro solucion inyeccion  1,0.7880975
-skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.78798395
-skyrizi 360 miligramos 24 mililitros obi ar fp,skyrizi 360 miligramos cart  1 inyeccion,0.8475909
-skyrizi 360 miligramos 24 mililitros obi ar fp,skyrizi 600 miligramos vial  1,0.7437689
-skyrizi 360 miligramos 24 mililitros obi ar fp,skyrizi 75 miligramos jeringa prellenada  2,0.7361021
-skyrizi 600 miligramos 100 mililitros vial ar fp,skyrizi 600 miligramos vial  1,0.87049943
-skyrizi 600 miligramos 100 mililitros vial ar fp,synagis 100 miligramos lioffa  1,0.8269918
-skyrizi 600 miligramos 100 mililitros vial ar fp,venclexta 100 miligramos comprimidos  120,0.8210269
-maviret 100 miligramos 40 miligramos  84 comprimidos rec,venclexta 100 miligramos comprimidos  120,0.8230519
-maviret 100 miligramos 40 miligramos  84 comprimidos rec,synagis 100 miligramos lioffa  1,0.78943324
-maviret 100 miligramos 40 miligramos  84 comprimidos rec,maviret comprimidos recubierto  84,0.776792
-venclexta kit inicio kit de inicio  1 pack 4  7 dias,venclexta kit de inicio  1,0.81155246
-venclexta kit inicio kit de inicio  1 pack 4  7 dias,viekira pak 28 blis  4 comp cu,0.76684225
-venclexta kit inicio kit de inicio  1 pack 4  7 dias,skyrizi 360 miligramos cart  1 inyeccion,0.75459784
-venclexta 100 miligramos 100 miligramos  120 comprimidos,venclexta 100 miligramos comprimidos  120,0.9075151
-venclexta 100 miligramos 100 miligramos  120 comprimidos,kaletra 50200 miligramos comprimidos recubierto  120,0.79934686
-venclexta 100 miligramos 100 miligramos  120 comprimidos,synagis 100 miligramos lioffa  1,0.7874404
-venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,venclexta 10 miligramos comprimidos  14,0.83054775
-venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,humira ac  2 20 miligramos 20 miligramos 02 mililitros jeringa prellenada  2,0.7359146
-venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.735359
-venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,venclexta 50 miligramos comprimidos  7,0.84443945
-venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,synagis 50 miligramos frasco ampolla  1,0.7507267
-venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,synagis solucian 50 miligramos frasco ampolla  1,0.74468493
-sevorane 250 mililitros,sevorane envase  250 mililitros,0.97597015
-sevorane 250 mililitros,sevorane quick fill envase  250 mililitros caja  1 frasco  250 mililitros  um frasco,0.78415513
-sevorane 250 mililitros,sevorane envase  50 mililitros,0.77731454
-sevorane quick fill 250 mililitros,sevorane envase  250 mililitros,0.96153164
-sevorane quick fill 250 mililitros,sevorane quick fill envase  250 mililitros caja  1 frasco  250 mililitros  um frasco,0.81151956
-sevorane quick fill 250 mililitros,sevorane envase  50 mililitros,0.7627465
-zemplar vial 5 viales,zemplar 5 microgramo vial  5  1 mililitros,0.759633
-zemplar vial 5 viales,zemplar 5 microgramo a  5  1 mililitros,0.7400301
-zemplar vial 5 viales,epkinly 5 miligramos por mililitro solucion inyeccion  1,0.72333777
-zemplar 2 microgramo 30 capsulas,zemplar 2 microgramo capsulas  30,0.9942895
-zemplar 2 microgramo 30 capsulas,humira jeringa prellenada  2  08 mililitros,0.84483176
-zemplar 2 microgramo 30 capsulas,humira pediatrico vial  2  08 mililitros,0.8348271
-boto  vial 100 unidad,synagis 100 miligramos lioffa  1,0.79412365
-boto  vial 100 unidad,venclexta 100 miligramos comprimidos  120,0.79037756
-boto  vial 100 unidad,synagis solucian 100 miligramos frasco ampolla  1,0.776526
-boto  vial 200 unidad,humira pediatrico vial  2  08 mililitros,0.73563176
-boto  vial 200 unidad,zemplar 2 microgramo capsulas  30,0.7302242
-boto  vial 200 unidad,survanta frasco ampolla  8 mililitros,0.7216544
-ozurde  07 miligramos c 1,skyrizi 600 miligramos vial  1,0.8514989
-ozurde  07 miligramos c 1,synagis 100 miligramos lioffa  1,0.8389129
-ozurde  07 miligramos c 1,skyrizi 360 miligramos cart  1 inyeccion,0.8349758
+descripcion_proveedor,descripcion_match,similitud,index_proveedor,index_producto,niprod
+humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,humira ac  2 20 miligramos 20 miligramos 02 mililitros jeringa prellenada  2,0.9012773,0,27614,119551.0
+humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,humira jeringa prellenada  2  08 mililitros,0.8215883,0,27616,119549.0
+humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros,skyrizi 75 miligramos jeringa prellenada  2,0.8012959,0,47492,119565.0
+humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira ac  2 40 miligramos 40 miligramos 04 mililitros lapicera prellenada  2 caja  2 lapicera prellenada  um caja,0.8620915,1,27615,119552.0
+humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira pen lapicera  2  08 mililitros,0.8114534,1,27618,119554.0
+humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros,humira jeringa prellenada  2  08 mililitros,0.80817395,1,27616,119549.0
+humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.9071167,2,27613,119550.0
+humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,humira pen lapicera  2  08 mililitros,0.8121779,2,27618,119554.0
+humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros,humira jeringa prellenada  2  08 mililitros,0.81011766,2,27616,119549.0
+rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.86273664,3,44810,119559.0
+rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.7921523,3,44811,124959.0
+rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada,zemplar 2 microgramo capsulas  30,0.76722574,3,56457,119577.0
+rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.79668474,4,44811,124959.0
+rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.79402643,4,44810,119559.0
+rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada,zemplar 2 microgramo capsulas  30,0.76821697,4,56457,119577.0
+rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 45 miligramos comp lib prol   28,0.79607606,5,44812,128184.0
+rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 15 miligramos comp lib prol   30,0.79476213,5,44810,119559.0
+rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada,rinvoq 30 miligramos comp lib prol   30,0.79311746,5,44811,124959.0
+skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,skyrizi 150 miligramos lapicera prellenada  1,0.856752,6,47489,124898.0
+skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,epkinly 60 miligramos por mililitro solucion inyeccion  1,0.7880975,6,19971,134920.0
+skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.78798395,6,27613,119550.0
+skyrizi 360 miligramos 24 mililitros obi ar fp,skyrizi 360 miligramos cart  1 inyeccion,0.8475909,7,47490,130997.0
+skyrizi 360 miligramos 24 mililitros obi ar fp,skyrizi 600 miligramos vial  1,0.7437689,7,47491,130998.0
+skyrizi 360 miligramos 24 mililitros obi ar fp,skyrizi 75 miligramos jeringa prellenada  2,0.7361021,7,47492,119565.0
+skyrizi 600 miligramos 100 mililitros vial ar fp,skyrizi 600 miligramos vial  1,0.87049943,8,47491,130998.0
+skyrizi 600 miligramos 100 mililitros vial ar fp,synagis 100 miligramos lioffa  1,0.8269918,8,49819,119568.0
+skyrizi 600 miligramos 100 mililitros vial ar fp,venclexta 100 miligramos comprimidos  120,0.8210269,8,54232,119573.0
+maviret 100 miligramos 40 miligramos  84 comprimidos rec,venclexta 100 miligramos comprimidos  120,0.8230519,9,54232,119573.0
+maviret 100 miligramos 40 miligramos  84 comprimidos rec,synagis 100 miligramos lioffa  1,0.78943324,9,49819,119568.0
+maviret 100 miligramos 40 miligramos  84 comprimidos rec,maviret comprimidos recubierto  84,0.776792,9,33496,119558.0
+venclexta kit inicio kit de inicio  1 pack 4  7 dias,venclexta kit de inicio  1,0.81155246,10,54234,119575.0
+venclexta kit inicio kit de inicio  1 pack 4  7 dias,viekira pak 28 blis  4 comp cu,0.76684225,10,54849,119576.0
+venclexta kit inicio kit de inicio  1 pack 4  7 dias,skyrizi 360 miligramos cart  1 inyeccion,0.75459784,10,47490,130997.0
+venclexta 100 miligramos 100 miligramos  120 comprimidos,venclexta 100 miligramos comprimidos  120,0.9075151,11,54232,119573.0
+venclexta 100 miligramos 100 miligramos  120 comprimidos,kaletra 50200 miligramos comprimidos recubierto  120,0.79934686,11,29856,119556.0
+venclexta 100 miligramos 100 miligramos  120 comprimidos,synagis 100 miligramos lioffa  1,0.7874404,11,49819,119568.0
+venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,venclexta 10 miligramos comprimidos  14,0.83054775,12,54231,119572.0
+venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,humira ac  2 20 miligramos 20 miligramos 02 mililitros jeringa prellenada  2,0.7359146,12,27614,119551.0
+venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14,humira ac  1 80 miligramos 80 miligramos 08 mililitros lapicera prellenada  1,0.735359,12,27613,119550.0
+venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,venclexta 50 miligramos comprimidos  7,0.84443945,13,54233,119574.0
+venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,synagis 50 miligramos frasco ampolla  1,0.7507267,13,49820,119569.0
+venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7,synagis solucian 50 miligramos frasco ampolla  1,0.74468493,13,49817,119571.0
+sevorane 250 mililitros,sevorane envase  250 mililitros,0.97597015,14,46831,119561.0
+sevorane 250 mililitros,sevorane quick fill envase  250 mililitros caja  1 frasco  250 mililitros  um frasco,0.78415513,14,46833,119563.0
+sevorane 250 mililitros,sevorane envase  50 mililitros,0.77731454,14,46832,119562.0
+sevorane quick fill 250 mililitros,sevorane envase  250 mililitros,0.96153164,15,46831,119561.0
+sevorane quick fill 250 mililitros,sevorane quick fill envase  250 mililitros caja  1 frasco  250 mililitros  um frasco,0.81151956,15,46833,119563.0
+sevorane quick fill 250 mililitros,sevorane envase  50 mililitros,0.7627465,15,46832,119562.0
+zemplar vial 5 viales,zemplar 5 microgramo vial  5  1 mililitros,0.759633,16,56459,119579.0
+zemplar vial 5 viales,zemplar 5 microgramo a  5  1 mililitros,0.7400301,16,56458,119578.0
+zemplar vial 5 viales,epkinly 5 miligramos por mililitro solucion inyeccion  1,0.72333777,16,19970,134919.0
+zemplar 2 microgramo 30 capsulas,zemplar 2 microgramo capsulas  30,0.9942895,17,56457,119577.0
+zemplar 2 microgramo 30 capsulas,humira jeringa prellenada  2  08 mililitros,0.84483176,17,27616,119549.0
+zemplar 2 microgramo 30 capsulas,humira pediatrico vial  2  08 mililitros,0.8348271,17,27617,119553.0
+boto  vial 100 unidad,synagis 100 miligramos lioffa  1,0.79412365,18,49819,119568.0
+boto  vial 100 unidad,venclexta 100 miligramos comprimidos  120,0.79037756,18,54232,119573.0
+boto  vial 100 unidad,synagis solucian 100 miligramos frasco ampolla  1,0.776526,18,49816,119570.0
+boto  vial 200 unidad,humira pediatrico vial  2  08 mililitros,0.73563176,19,27617,119553.0
+boto  vial 200 unidad,zemplar 2 microgramo capsulas  30,0.7302242,19,56457,119577.0
+boto  vial 200 unidad,survanta frasco ampolla  8 mililitros,0.7216544,19,49698,119567.0
+ozurde  07 miligramos c 1,skyrizi 600 miligramos vial  1,0.8514989,20,47491,130998.0
+ozurde  07 miligramos c 1,synagis 100 miligramos lioffa  1,0.8389129,20,49819,119568.0
+ozurde  07 miligramos c 1,skyrizi 360 miligramos cart  1 inyeccion,0.8349758,20,47490,130997.0
