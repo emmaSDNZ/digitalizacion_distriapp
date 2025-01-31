@@ -1,22 +1,22 @@
 condición de precios,cod. producto,descripcion,presentacion,unidades ,precio s/iva,descuento,total,index_proveedor,descripcion_limpia_proveedor
-,20015888,HUMIRA AC x 2 (20mg),"2 JERINGAS PRELL. X 0,2 ml",,,,  -   ,0,humira ac  2 20 miligramos 2 jeringas prellenada  02 mililitros
-,20005289,HUMIRA AC x 2 (40mg),"2 LAPICERAS PRELL. X 0,4 ml",,,,  -   ,1,humira ac  2 40 miligramos 2 lapiceras prellenada  04 mililitros
-,20021980,HUMIRA AC x 1 (80 mg),"1 LAPICERA PRELL. X 0,8 ml",,,,  -   ,2,humira ac  1 80 miligramos 1 lapicera prellenada  08 mililitros
-18% DESCUENTO -ISJ,20062091,RINVOQ 15mg,15 MG x 30 COMP REC DE LIB. PROLONGADA,1.0,"  2.345.085,38 ",18%,"  1.987.360,49 ",3,rinvoq 15 miligramos 15 miligramos  30 comprimidos rec de lib prolongada
-,20069005,RINVOQ 30mg,30 MG x 30 COMP REC DE LIB. PROLONGADA,,,,  -   ,4,rinvoq 30 miligramos 30 miligramos  30 comprimidos rec de lib prolongada
-,20078725,RINVOQ 45mg,45 MG x 30 COMP REC DE LIB. PROLONGADA,,,,  -   ,5,rinvoq 45 miligramos 45 miligramos  30 comprimidos rec de lib prolongada
+,20015888,HUMIRA AC x 2 (20mg),"2 JERINGAS PRELL. X 0,2 ml",,,,  -   ,0,humira ac 2 20 miligramos 2 jeringas prellenada 02 mililitros
+,20005289,HUMIRA AC x 2 (40mg),"2 LAPICERAS PRELL. X 0,4 ml",,,,  -   ,1,humira ac 2 40 miligramos 2 lapiceras prellenada 04 mililitros
+,20021980,HUMIRA AC x 1 (80 mg),"1 LAPICERA PRELL. X 0,8 ml",,,,  -   ,2,humira ac 1 80 miligramos 1 lapicera prellenada 08 mililitros
+18% DESCUENTO -ISJ,20062091,RINVOQ 15mg,15 MG x 30 COMP REC DE LIB. PROLONGADA,1.0,"  2.345.085,38 ",18%,"  1.987.360,49 ",3,rinvoq 15 miligramos 15 miligramos 30 comprimidos rec de lib prolongada
+,20069005,RINVOQ 30mg,30 MG x 30 COMP REC DE LIB. PROLONGADA,,,,  -   ,4,rinvoq 30 miligramos 30 miligramos 30 comprimidos rec de lib prolongada
+,20078725,RINVOQ 45mg,45 MG x 30 COMP REC DE LIB. PROLONGADA,,,,  -   ,5,rinvoq 45 miligramos 45 miligramos 30 comprimidos rec de lib prolongada
 ,20069017,SKYRIZI 150mg,1 LAPICERA PRELLENADA por 1 ML (150 mg),,,,  -   ,6,skyrizi 150 miligramos 1 lapicera prellenada por 1 mililitros 150 miligramos
 ,20079636,SKYRIZI 360mg,2.4ML OBI AR FP,,,,  -   ,7,skyrizi 360 miligramos 24 mililitros obi ar fp
 ,20079635,SKYRIZI 600 mg,10.0 mL VIAL AR FP,,,,  -   ,8,skyrizi 600 miligramos 100 mililitros vial ar fp
-,20011756,MAVIRET,100 MG/40 MG x 84 COMP REC,,,,  -   ,9,maviret 100 miligramos 40 miligramos  84 comprimidos rec
-,20019068,VENCLEXTA KIT INICIO,KIT DE INICIO X 1 - PACK 4X7 DIAS ,,,,  -   ,10,venclexta kit inicio kit de inicio  1 pack 4  7 dias
-,20019067,VENCLEXTA 100mg,100 MG X 120 COMP.,,,,,11,venclexta 100 miligramos 100 miligramos  120 comprimidos
-,20060375,VENCLEXTA 10mg,"10MG WALLET, TWO 10MG TABS X14",,,,  -   ,12,venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs  14
-,20060376,VENCLEXTA 50mg,"50MG WALLET, ONE 50MG TAB X7",,,,  -   ,13,venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta  7
+,20011756,MAVIRET,100 MG/40 MG x 84 COMP REC,,,,  -   ,9,maviret 100 miligramos 40 miligramos 84 comprimidos rec
+,20019068,VENCLEXTA KIT INICIO,KIT DE INICIO X 1 - PACK 4X7 DIAS ,,,,  -   ,10,venclexta kit inicio kit de inicio 1 pack 4 7 dias
+,20019067,VENCLEXTA 100mg,100 MG X 120 COMP.,,,,,11,venclexta 100 miligramos 100 miligramos 120 comprimidos
+,20060375,VENCLEXTA 10mg,"10MG WALLET, TWO 10MG TABS X14",,,,  -   ,12,venclexta 10 miligramos 10 miligramos wallet two 10 miligramos tabs 14
+,20060376,VENCLEXTA 50mg,"50MG WALLET, ONE 50MG TAB X7",,,,  -   ,13,venclexta 50 miligramos 50 miligramos wallet one 50 miligramos tableta 7
 ,20012619,SEVORANE,250 ML,,,,  -   ,14,sevorane 250 mililitros
 ,20012621,SEVORANE QUICK FILL,250 ML,,,,  -   ,15,sevorane quick fill 250 mililitros
 ,20027971,ZEMPLAR VIAL,5 VIALES,,,,  -   ,16,zemplar vial 5 viales
 ,20059449,ZEMPLAR 2 MCG,30 CAPSULAS,,,,  -   ,17,zemplar 2 microgramo 30 capsulas
-,91223AR,BOTOX,Vial 100 U,,,,  -   ,18,boto  vial 100 unidad
-,93251AR,BOTOX,Vial 200 U,,,,  -   ,19,boto  vial 200 unidad
-,93348AR,OZURDEX,0.7 MG C/1,,,,  -   ,20,ozurde  07 miligramos c 1
+,91223AR,BOTOX,Vial 100 U,,,,  -   ,18,boto vial 100 unidad
+,93251AR,BOTOX,Vial 200 U,,,,  -   ,19,boto vial 200 unidad
+,93348AR,OZURDEX,0.7 MG C/1,,,,  -   ,20,ozurde 07 miligramos c 1
