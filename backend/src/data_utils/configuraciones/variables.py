@@ -19,3 +19,15 @@ class variables_data:
     #Columna Descripciones
     descripcion_limpia_MasterProductos = 'descripcion_limpia_producto'
     descripcion_limpia_Proveedor = 'descripcion_limpia_proveedor'
+
+    #Columna Codigo Producto
+    columna_codigo_producto_master = 'cod_prod'
+    columna_codigo_producto_proveedor = 'cod_producto_proveedor'
+
+    #Columna Codigo Proveedor
+    columna_codigo_de_barras_proveedor = 'cod_barra'
+    columna_codigo_de_barras_producto = 'codbarra'
+
+    niprod = 'niprod'
+
+
