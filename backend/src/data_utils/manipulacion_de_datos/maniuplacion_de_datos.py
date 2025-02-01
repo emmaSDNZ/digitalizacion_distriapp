@@ -102,7 +102,6 @@ def estandarizado_columnas(df, col_1, col_2, descripcion_limpia):
 
     return df
 
-
 def procesar_descripcion(data, nombre_columna):
     """
     Procesa una columna de un DataFrame aplicando normalización y manejo de combinaciones de texto.
@@ -144,12 +143,12 @@ def procesar_descripcion(data, nombre_columna):
         texto = re.sub(r'(\d+)\s*([a-zA-Z]+)', r'\1 \2', texto)
 
         # 7. Eliminar espacios redundantes nuevamente
-        texto = texto.strip()
+        texto = re.sub(r'\s+', ' ', texto).strip()  # <- Aquí se eliminan dobles espacios
 
         # 8. Combinaciones
         combinaciones = {
             'anemido x': 'anemidox',
-            'jgaprell' : 'jga prell',
+            'jgaprell' : 'jeringa prellenada',
             'fle x': 'flex',
             'argeflo x':'argeflox',
             'aropa x': 'aropax',
@@ -162,7 +161,7 @@ def procesar_descripcion(data, nombre_columna):
             'cr': 'crema',
             'comp' : 'comprimidos',
             'caps': 'capsulas',
-            "jer.pre" : "jeringa prell",
+            "jer.pre" : "jeringa prellenada",
             "mg" : "miligramos",
             "ml" : "mililitros",
             "mm" : "milimetros",
@@ -211,14 +210,25 @@ def procesar_descripcion(data, nombre_columna):
             'sach' : 'sachet',
             'mgvial': 'miligramos vial',
             'cpsbl' :'capsula blanda',
-            'x' : ''
+            'zyvali x': 'zyvalix',
+            'x' : '',
+            'lapprell': 'lapicera prellenada',
+            'complibprol' : 'comp lib prolongada',
+            'compcu': 'comp cu',
+            'jerprell'  : "jeringa prellenada",
+            'prell': 'prellenada',
+            'drenabprecortconv': 'drenable precorte conve',
+            'drenabprecortopac': 'drenable precorte opac '        
         }
         for key, val in combinaciones.items():
             texto = re.sub(rf'\b{key}\b', val, texto)
+
+        # 9. Eliminar cualquier doble espacio que haya quedado después de los reemplazos
+        texto = re.sub(r'\s+', ' ', texto).strip()
 
         return texto
 
     # Aplicar la función 'normalizar' a cada elemento de la columna
     data[nombre_columna] = data[nombre_columna].apply(normalizar)
     
-    return data  # Retorna el DataFrame con la columna procesada
+    return data
