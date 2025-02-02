@@ -73,6 +73,7 @@ def extraer_numeros(texto):
     return re.findall(r'\d+', texto)  # Encuentra todas las secuencias de dígitos en el texto
 
 # Función para comparar los números entre el proveedor y el master
+
 def comparar_numeros(numeros_proveedor, numeros_master):
     """
     Compara los números entre las descripciones de un proveedor y el master.
@@ -88,38 +89,26 @@ def comparar_numeros(numeros_proveedor, numeros_master):
         return 0  # Si alguna lista está vacía, no hay coincidencia
     return len(set(numeros_proveedor) & set(numeros_master)) / max(len(numeros_proveedor), len(numeros_master))  # Proporción de coincidencias
 
-# Función para calcular la similitud combinada entre el texto y los números
+
 # Función principal para comparar productos y generar resultados
-def procesar_comparacion(df_master, df_proveedor, modelo_nombre, nombre_modelo, columna_master, columna_proveedor):
-    """
-    Compara las descripciones de productos entre el master y el proveedor utilizando un modelo BERT y obtiene los mejores matches.
-    
-    Args:
-        df_master (pandas.DataFrame): DataFrame con los productos del master.
-        df_proveedor (pandas.DataFrame): DataFrame con los productos del proveedor.
-        modelo_nombre (str): Nombre del modelo BERT a utilizar.
-        nombre_modelo (str): Nombre que se asignará al archivo de resultados.
-        columna_master (str): Nombre de la columna con las descripciones en el master.
-        columna_proveedor (str): Nombre de la columna con las descripciones en el proveedor.
-        
-    Returns:
-        pandas.DataFrame: DataFrame con los resultados de las comparaciones.
-    """
+# Función principal para comparar productos y generar resultados con las tres mejores coincidencias
+def procesar_comparacion(df_master, df_proveedor, modelo_nombre, nombre_modelo, columna_descripcion_master, columna_descripcion_proveedor):
     tokenizer, model = cargar_modelo(modelo_nombre)  # Carga el modelo y el tokenizer
 
     # Normalización y extracción de números
-    df_master['numeros'] = df_master[columna_master].apply(extraer_numeros)  # Extrae números del master
-    df_proveedor['numeros'] = df_proveedor[columna_proveedor].apply(extraer_numeros)  # Extrae números del proveedor
+    df_master['numeros'] = df_master[columna_descripcion_master].apply(extraer_numeros)  # Extrae números del master
+    df_proveedor['numeros'] = df_proveedor[columna_descripcion_proveedor].apply(extraer_numeros)  # Extrae números del proveedor
 
     # Obtener embeddings del master
-    df_master['embedding_Master'] = df_master[columna_master].apply(
+    df_master['embedding_Master'] = df_master[columna_descripcion_master].apply(
         lambda x: obtener_embedding(x, tokenizer, model)  # Obtiene el embedding para cada descripción
     )
 
-    # Generación de resultados en formato vertical
-    resultados_vertical = []  # Lista para almacenar los resultados de las comparaciones
+    # Lista para almacenar las coincidencias
+    mejores_matches = []  # Lista que almacenará los mejores resultados de coincidencias
+
     for idx, row in tqdm(df_proveedor.iterrows(), total=len(df_proveedor)):  # Itera sobre el DataFrame del proveedor
-        emb_proveedor = obtener_embedding(row[columna_proveedor], tokenizer, model)  # Obtiene el embedding del proveedor
+        emb_proveedor = obtener_embedding(row[columna_descripcion_proveedor], tokenizer, model)  # Obtiene el embedding del proveedor
         numeros_proveedor = row['numeros']  # Obtiene los números extraídos del proveedor
 
         similitudes = []  # Lista para almacenar las similitudes
@@ -128,26 +117,29 @@ def procesar_comparacion(df_master, df_proveedor, modelo_nombre, nombre_modelo, 
             numeros_master = row_master['numeros']  # Obtiene los números extraídos del master
 
             similitud_final = calcular_similitud_final(emb_proveedor, emb_master, numeros_proveedor, numeros_master)  # Calcula la similitud combinada
-            similitudes.append((row_master[columna_master], similitud_final, row_master.name, row_master['niprod']))  # Agrega los resultados
+            similitudes.append((row_master[columna_descripcion_master], similitud_final, row_master.name, row_master['niprod'], row_master['descripcion_limpia_producto']))  # Agrega los resultados
 
         # Obtener los 3 mejores resultados
         top_3_matches = sorted(similitudes, key=lambda x: x[1], reverse=True)[:3]  # Ordena las similitudes y toma los 3 mejores
 
-        # Agregar coincidencias en formato vertical, incluyendo los índices
-        for match, similitud, idx_producto, niprod in top_3_matches:
-            resultados_vertical.append({
-                'descripcion_proveedor': row[columna_proveedor],  # Descripción del proveedor
+        # Agregar las coincidencias en la lista de mejores matches
+        for match, similitud, idx_producto, niprod, descripcion_limpia_producto in top_3_matches:
+            mejores_matches.append({
+                'index_proveedor': row.name,  # Índice del proveedor
+                'descripcion_proveedor': row[columna_descripcion_proveedor],  # Descripción del proveedor
                 'descripcion_match': match,  # Descripción del master coincidente
                 'similitud': similitud,  # Similitud calculada
-                'index_proveedor': row.name,  # Índice del proveedor
-                'index_producto': idx_producto,  # Índice del producto master
-                'niprod': niprod  # NIPROD asociado
+                'niprod': niprod,  # NIPROD asociado
+                'descripcion_limpia_producto': descripcion_limpia_producto  # Descripción limpia del producto
             })
 
-    # Convertir los resultados en un DataFrame y retornar
-    df_resultados_vertical = pd.DataFrame(resultados_vertical)  # Convierte los resultados en un DataFrame
-    return df_resultados_vertical  # Retorna el DataFrame generado con los resultados
+    # Convertir los mejores matches en un DataFrame
+    df_mejores_matches = pd.DataFrame(mejores_matches)
 
+    # Realizar un merge entre el df_proveedor y los mejores matches para obtener las columnas deseadas
+    df_proveedor = df_proveedor.merge(df_mejores_matches[['index_proveedor', 'niprod', 'descripcion_limpia_producto', 'similitud']], 
+                                      left_index=True, 
+                                      right_on='index_proveedor', 
+                                      how='left')
 
-
-
+    return df_proveedor  # Retorna el DataFrame con las columnas agregadas
