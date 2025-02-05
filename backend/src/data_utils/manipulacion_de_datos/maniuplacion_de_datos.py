@@ -15,7 +15,7 @@ def cargar_datos(ruta_csv):
     return pd.read_csv(ruta_csv)
 
 
-def limpiar_datos(df):
+def remover_filas_columnas_nulas(df):
     """
     Elimina filas y columnas completamente vacías en el DataFrame.
 

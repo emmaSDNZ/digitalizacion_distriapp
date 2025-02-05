@@ -5,8 +5,6 @@ import sys
 import os 
 
 
-
-
 from models.product import HealthCheckModel
 from db.queries.queries import check_connection
 
