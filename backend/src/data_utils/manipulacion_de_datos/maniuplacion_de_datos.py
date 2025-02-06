@@ -4,15 +4,20 @@ import pandas as pd
 
 def cargar_datos(ruta_csv):
     """
-    Carga un DataFrame desde un archivo CSV.
+    Carga un DataFrame desde un archivo CSV y reemplaza valores no válidos.
 
     Parámetros:
         ruta_csv (str): Ruta del archivo CSV a cargar.
 
     Retorna:
-        pd.DataFrame: DataFrame con los datos cargados.
+        pd.DataFrame: DataFrame con los datos cargados y limpiados.
     """
-    return pd.read_csv(ruta_csv)
+    # Cargar el CSV
+    df = pd.read_csv(ruta_csv)
+    
+    # Reemplazar valores inválidos (NaN, inf, -inf)
+    df.replace([float('inf'), float('-inf')], None, inplace=True)      
+    return df
 
 
 def remover_filas_columnas_nulas(df):
@@ -211,7 +216,7 @@ def procesar_descripcion(data, nombre_columna):
             'mgvial': 'miligramos vial',
             'cpsbl' :'capsula blanda',
             'zyvali x': 'zyvalix',
-            'x' : '',
+            'x' : 'por',
             'lapprell': 'lapicera prellenada',
             'complibprol' : 'comp lib prolongada',
             'compcu': 'comp cu',

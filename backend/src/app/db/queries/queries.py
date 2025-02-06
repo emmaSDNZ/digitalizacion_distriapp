@@ -1,4 +1,4 @@
-from db.connected_to_db import get_db_connection
+from digitalizacion_distriapp.backend.src.app.db.session import get_db_connection
 from asyncpg import PostgresError
 
 async def check_connection():

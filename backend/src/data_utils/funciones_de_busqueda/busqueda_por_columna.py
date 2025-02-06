@@ -16,7 +16,13 @@ def busqueda_codigo_por_columna(df_master, df_proveedor, columna_codigo_master, 
     - DataFrame: El DataFrame sin cambios si no se encuentra coicidencias.
     """
     
-    # Verificar si la columna del código de producto del proveedor existe en el DataFrame del proveedor
+    df_Proveedor_cod_prod_filtro = df_proveedor.copy() 
+    
+    if columna_codigo_proveedor not in df_proveedor.columns:
+        print(f"La columna {columna_codigo_proveedor} no existe en el DataFrame del proveedor.")
+        return df_Proveedor_cod_prod_filtro  # Retorna el DataFrame original sin cambios
+
+
     if columna_codigo_proveedor in df_proveedor.columns:
     
         # Filtrar los valores que no son 'nan' en el DataFrame del proveedor

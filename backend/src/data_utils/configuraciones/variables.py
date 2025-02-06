@@ -1,6 +1,6 @@
-class variables_data: 
+class Variables_data: 
     # CSV
-    csv_producto ='L_STMaestroPrd.csv'
+    csv_producto =''
     cvs_proveedor = 'fabra.csv'
     
     #Indexacion
@@ -22,10 +22,10 @@ class variables_data:
 
     #Columna Codigo Producto
     columna_codigo_producto_master = 'cod_prod'
-    columna_codigo_producto_proveedor = 'cod_producto_proveedor'
+    columna_codigo_producto_proveedor = 'cod_de_producto'
 
     #Columna Codigo Proveedor
-    columna_codigo_de_barras_proveedor = 'cod_barra'
+    columna_codigo_de_barras_proveedor = 'cod_de_barra'
     columna_codigo_de_barras_producto = 'codbarra'
 
     niprod = 'niprod'
