@@ -223,7 +223,9 @@ def procesar_descripcion(data, nombre_columna):
             'jerprell'  : "jeringa prellenada",
             'prell': 'prellenada',
             'drenabprecortconv': 'drenable precorte conve',
-            'drenabprecortopac': 'drenable precorte opac '        
+            'drenabprecortopac': 'drenable precorte opac',
+            "um" : "unidad de medida:"        
+    
         }
         for key, val in combinaciones.items():
             texto = re.sub(rf'\b{key}\b', val, texto)

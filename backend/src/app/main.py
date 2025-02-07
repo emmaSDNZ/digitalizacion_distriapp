@@ -23,7 +23,7 @@ import numpy as np
 # Configurar logging
 logger = logging.getLogger(__name__)
 
-sys.path.append(os.path.abspath(".."))
+
 
 #Variables
 from data_utils.configuraciones.variables import Variables_data
@@ -55,8 +55,6 @@ app = FastAPI(lifespan=lifespan)
 #
 #
 #
-
-
 
 #Funcion para obtener la ruta del escritorio del usuario
 def obtener_ruta_escritorio():
@@ -207,6 +205,7 @@ df_MasterProductos = procesar_descripcion(df_MasterProductos, variables_data.des
 # Servicio PROVEEDOR
 df_Proveedor = None
 @app.post("/upload-csv-proveedor")
+
 async def upload_csv(file: UploadFile = File(..., media_type='text/csv')):
     global df_Proveedor 
     try:
