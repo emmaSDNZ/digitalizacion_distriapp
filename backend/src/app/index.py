@@ -1,7 +1,9 @@
 import sys
 import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+import pandas as pd
 
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+pd.set_option('future.no_silent_downcasting', True)
 
 from fastapi import FastAPI
 

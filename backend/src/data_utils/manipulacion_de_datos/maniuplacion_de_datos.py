@@ -1,6 +1,38 @@
 import re
 import pandas as pd
+from fastapi import UploadFile, HTTPException
 
+async def convert_file_to_csv(file: UploadFile) -> str:
+    """
+    Convierte un archivo cargado (CSV o XLSX) a una cadena CSV.
+
+    Parámetros:
+      - file (UploadFile): Archivo cargado, que debe ser de tipo CSV o XLSX.
+
+    Retorna:
+      - str: El contenido del archivo convertido a formato CSV (cadena).
+
+    Lanza:
+      - HTTPException: Si el archivo no es CSV o XLSX, o si ocurre algún error en el procesamiento.
+    """
+    filename = file.filename.lower()
+    contents = await file.read()
+    
+    try:
+        if filename.endswith('.csv'):
+            # Leer el archivo CSV: se decodifica de bytes a string
+            df = pd.read_csv(io.StringIO(contents.decode("utf-8")))
+        elif filename.endswith('.xlsx'):
+            # Leer el archivo XLSX usando BytesIO
+            df = pd.read_excel(io.BytesIO(contents))
+        else:
+            raise HTTPException(status_code=400, detail="El archivo debe ser CSV o XLSX.")
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"Error al procesar el archivo: {e}")
+    
+    # Convertir el DataFrame a CSV (cadena) sin incluir el índice
+    csv_str = df.to_csv(index=False)
+    return csv_str
 
 def cargar_datos(ruta_csv):
     """

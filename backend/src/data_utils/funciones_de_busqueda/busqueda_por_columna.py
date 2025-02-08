@@ -19,18 +19,13 @@ def busqueda_codigo_por_columna(df_master, df_proveedor, columna_codigo_master, 
     df_original = df_proveedor.copy()  # Copia del DataFrame original
 
     if columna_codigo_proveedor not in df_proveedor.columns:
-        print(f"La columna {columna_codigo_proveedor} no existe en el DataFrame del proveedor.")
         return df_original, pd.DataFrame(), pd.DataFrame()
 
     if df_master.empty:
-        print("El DataFrame Master está vacío.")
         return df_original, pd.DataFrame(), pd.DataFrame()
 
-    print(f"Se inicia proceso de búsqueda por código de barras en la columna {columna_codigo_proveedor}")
-
     if df_original[columna_codigo_proveedor].isin(df_master[columna_codigo_master]).any():
-        print("Se encontraron coincidencias")
-
+        
         # Verificar si la columna 'niprod' ya está presente en el DataFrame del proveedor
         if 'niprod' not in df_original.columns:
             df_original = df_original.merge(
@@ -42,7 +37,6 @@ def busqueda_codigo_por_columna(df_master, df_proveedor, columna_codigo_master, 
         else:
             print("Ya existe la columna 'niprod' en el DataFrame de proveedor")
     else:
-        print("No se encontraron coincidencias")
         return df_original, pd.DataFrame(), pd.DataFrame()
 
     # Separar en dos DataFrames según si 'niprod' tiene o no un valor

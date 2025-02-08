@@ -9,7 +9,11 @@ from pydantic import BaseModel
 from fastapi import APIRouter, Response, UploadFile, File, status, HTTPException
 from fastapi.responses import JSONResponse
 
+from data_utils.funciones_de_busqueda.busqueda_por_filtro import filtrar_por_laboratorio
 from data_utils.funciones_de_busqueda.busqueda_por_columna import busqueda_codigo_por_columna 
+from data_utils.manipulacion_de_datos.maniuplacion_de_datos import convert_file_to_csv
+
+
 
 router = APIRouter(
     prefix= "/upload_csv",
@@ -19,81 +23,44 @@ router = APIRouter(
 df_MasterProducto = pd.read_csv('df_MasterProductos_xx.csv')
 path = 'ABBVIE.csv'
 df_upload_csv = pd.read_csv(path,low_memory=False)
-nombre_laboratorio_global = "",
-df_proveedor = None
 
-async def convert_file_to_csv(file: UploadFile) -> str:
-    """
-    Convierte un archivo cargado (CSV o XLSX) a una cadena CSV.
+cache = {}
 
-    Parámetros:
-      - file (UploadFile): Archivo cargado, que debe ser de tipo CSV o XLSX.
-
-    Retorna:
-      - str: El contenido del archivo convertido a formato CSV (cadena).
-
-    Lanza:
-      - HTTPException: Si el archivo no es CSV o XLSX, o si ocurre algún error en el procesamiento.
-    """
-    filename = file.filename.lower()
-    contents = await file.read()
-    
+@router.get('/master_productos_filtro/{nombre_laboratorio}', status_code=status.HTTP_200_OK)
+async def get_master_productos_filtro(nombre_laboratorio: str):  # Parámetro directamente como str
     try:
-        if filename.endswith('.csv'):
-            # Leer el archivo CSV: se decodifica de bytes a string
-            df = pd.read_csv(io.StringIO(contents.decode("utf-8")))
-        elif filename.endswith('.xlsx'):
-            # Leer el archivo XLSX usando BytesIO
-            df = pd.read_excel(io.BytesIO(contents))
-        else:
-            raise HTTPException(status_code=400, detail="El archivo debe ser CSV o XLSX.")
-    except Exception as e:
-        raise HTTPException(status_code=400, detail=f"Error al procesar el archivo: {e}")
-    
-    # Convertir el DataFrame a CSV (cadena) sin incluir el índice
-    csv_str = df.to_csv(index=False)
-    return csv_str
-
-@router.get('/busqueda_codigo', status_code=status.HTTP_200_OK)
-async def get_upload_csv():
-    try:
-        # Rellenar los valores faltantes
-        get_upload_csv = df_upload_csv.fillna("") 
-        cod_producto_master = "cod_prod"
-        cod_producto_proveedor = "cod_de_producto"
+        if not nombre_laboratorio:
+            raise ValueError("El nombre del laboratorio es obligatorio.")
         
-        cod_de_barras_master = "codbarra"
-        cod_de_barras_proveedor = "cod_de_barra" 
+        nombre_laboratorio = nombre_laboratorio.lower()
+        get_master_productos_filtro = filtrar_por_laboratorio(df_MasterProducto, nombre_laboratorio)
+
+        if get_master_productos_filtro is None or get_master_productos_filtro.empty:
+            return {"message": f"No se encontraron productos del laboratorio '{nombre_laboratorio.upper()}'."}
         
-        columna_codigo_master = cod_producto_master
-        columna_codigo_proveedor = cod_producto_proveedor
-        # Verificar si la columna "cod_de_producto" existe en el DataFrame antes de acceder a ella
-        if columna_codigo_proveedor not in get_upload_csv.columns:
-            raise HTTPException(
-                status_code=400,
-                detail=f"El archivo cargado debe contener la columna '{columna_codigo_proveedor}'."
-            )
-        # Si la columna existe, se procede a llamar a la función de búsqueda
-        df_original, df_coincidentes, df_no_coincidentes = busqueda_codigo_por_columna(df_MasterProducto, get_upload_csv, columna_codigo_master, columna_codigo_proveedor)
-
-        JSON_response = {
-            "df_original": df_original.fillna("").to_dict(orient='records'),
-            "df_coincidentes": df_coincidentes.fillna("").to_dict(orient='records'),
-            "df_no_coincidentes": df_no_coincidentes.fillna("").to_dict(orient='records')
-        }
-        return  JSON_response
-
+        # Almacenar el resultado en el cache
+        cache[nombre_laboratorio] = get_master_productos_filtro
+ 
+        # Convertir el DataFrame a JSON
+        json_data = orjson.dumps(get_master_productos_filtro.to_dict(orient="records"))
+        
+        return Response(
+            content=json_data,
+            media_type="application/json"
+        )
+    except ValueError as e:
+        return JSONResponse(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            content={"message": str(e)}
+        )
     except Exception as e:
-        # Capturar error y retornar una respuesta de error 
         error_message = f"Error al procesar la solicitud: {str(e)}"
         return JSONResponse(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             content={"message": error_message}
         )
 
-
 @router.get('/', status_code=status.HTTP_200_OK)
-
 async def get_upload_csv():
     try:
         #Rellenar los valores faltantes
@@ -110,6 +77,66 @@ async def get_upload_csv():
         )
     except Exception as e:
         #Capturar error y retornar una  respuesta de error 
+        error_message = f"Error al procesar la solicitud: {str(e)}"
+        return JSONResponse(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            content={"message": error_message}
+        )
+
+@router.get('/busqueda_codigo', status_code=status.HTTP_200_OK)
+async def get_upload_csv():
+    try:
+        # Rellenar los valores faltantes en el DataFrame cargado
+        get_upload_csv = df_upload_csv.fillna("")
+        
+        # Definición de las columnas a verificar
+        cod_producto_master = "cod_prod"
+        cod_producto_proveedor = "cod_de_producto"
+        cod_de_barras_master = "codbarra"
+        cod_de_barras_proveedor = "cod_de_barra"
+        
+        # Verificar si la columna cod_producto_proveedor existe
+        if cod_producto_proveedor not in get_upload_csv.columns:
+            raise HTTPException(
+                status_code=400,
+                detail=f"El archivo cargado debe contener la columna '{cod_producto_proveedor}'."
+            )
+        
+        # Si la columna existe, ejecutar la búsqueda por código de producto
+        df_original, df_coincidentes_cod_prod, df_no_coincidentes_cod_prod = busqueda_codigo_por_columna(
+            df_MasterProducto, get_upload_csv, cod_producto_master, cod_producto_proveedor
+        )
+
+        # Verificar si la columna cod_de_barras_proveedor existe
+        if cod_de_barras_proveedor not in get_upload_csv.columns:
+            raise HTTPException(
+                status_code=400,
+                detail=f"El archivo cargado debe contener la columna '{cod_de_barras_proveedor}'."
+            )
+        
+        # Si la columna existe, ejecutar la búsqueda por código de barras
+        df_original, df_coincidentes_cod_barras, df_no_coincidentes_cod_barras = busqueda_codigo_por_columna(
+            df_MasterProducto, get_upload_csv, cod_de_barras_master, cod_de_barras_proveedor
+        )
+    
+        #Funsion de valores 
+        columna_niprod = "niprod"
+        df_original[columna_niprod] = (df_original[columna_niprod]
+                                       .combine_first(df_coincidentes_cod_prod[columna_niprod])
+                                       .combine_first(df_coincidentes_cod_barras[columna_niprod]))
+        
+        # Construcción de la respuesta JSON con todos los DataFrames
+        JSON_response = {
+            "df_original": df_original.fillna("").to_dict(orient='records'),
+            "df_coincidentes_cod_PRODUCTO": df_coincidentes_cod_prod.fillna("").to_dict(orient='records'),
+            "df_no_coincidentes_cod_PRODUCTO": df_no_coincidentes_cod_prod.fillna("").to_dict(orient='records'),
+            "df_coincidentes_cod_BARRAS": df_coincidentes_cod_barras.fillna("").to_dict(orient='records'),
+            "df_no_coincidentes_cod_BARRAS": df_no_coincidentes_cod_barras.fillna("").to_dict(orient='records')
+        }
+        return JSON_response
+
+    except Exception as e:
+        # Capturar error y retornar una respuesta de error
         error_message = f"Error al procesar la solicitud: {str(e)}"
         return JSONResponse(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
@@ -146,9 +173,7 @@ async def upload_file(file: UploadFile = File(...)):
     json_data = orjson.dumps(content)
     
     # Retornar la respuesta JSON
-
     return Response(content=json_data, media_type="application/json")
-
 
 @router.put('/', status_code=status.HTTP_200_OK)
 async def put_upload_csv(response: Response):
@@ -160,4 +185,3 @@ async def delete_upload_csv(response: Response):
     delete_upload_csv_servicio = {"message": "METODO DELETED: upload_csv"}
     return delete_upload_csv_servicio
 
-print(df_proveedor)
